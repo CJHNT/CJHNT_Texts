@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/" xmlns:cpt="http://purl.org/capitains/ns/1.0#" xmlns:dc="http://purl.org/dc/elements/1.1/" groupUrn="GROUPURN" urn="WORKURN" xml:lang="lat">
+   <ti:title xml:lang="deu"></ti:title>
+   <ti:edition workUrn="WORKURN" urn="EDURN">
+      <ti:label xml:lang="deu"></ti:label>
+      <ti:description xml:lang="deu"></ti:description>
+   </ti:edition>
+</ti:work>
