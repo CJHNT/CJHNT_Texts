@@ -106,11 +106,11 @@
 
     <text>
         <body>
-            <div type="edition" n="urn:cts:greekLit:commentary.tlg006.opp-grc1" xml:lang="grc">
+            <div type="edition" n="urn:cts:greekLit:commentary.tlg0042006.opp-grc1" xml:lang="grc">
                 <div type="textpart" subtype="fragment" n="1">
 
                     <head>Ζu Joh. 1, 1.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.1">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.1">
                         <p>Δημιουργὸν τῶν πάντων τιθέμενος αὐτὸν τὸ τοῦ Λόγου ὄνομα κατηγορεῖ αὐτοῦ.
                             ἐπεὶ γὰρ ὡς ἐπίπαν πᾶσα δημιουργία ἤρτηται λόγου, οὐκ ἄλλως ἔδει αὐτὸν
                             τῶν πάντων δηλῶσαι ὄντα ποιητὴν <lb n="5"/> ἔχουσιν (αὕτη δέ ἐστιν ἕξις
@@ -203,7 +203,7 @@
                 </div>
                 <div type="textpart" subtype="fragment" n="2">
                     <head>Zu Job. 1, 4.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.4">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.4">
                         <p>Ὃ γέγονεν ἐν αὐτῷ, δηλονότι τῷ λόγῳ, ξωὴ ἦν· ἵν᾿ <lb n="25"/> ὥσπερ θεὸς
                             εἰς ὕπαρξιν ἤγαγεν τὰ πάντα, οὕτω καὶ ζωοποιηθῇ τὰ πεφνκότα ζῆν μετονσίᾳ
                             αὐτοῦ. διὸ καὶ ἁρμοδίως εἴρηται τὸ »Καὶ ἡ »ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων«.
@@ -250,7 +250,7 @@
                 <div type="textpart" subtype="fragment" n="3">
 
                     <head>Zu Joh. 1, 5.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.5">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.5">
                         <p>Τὸ θεολογούμενον φῶς λυτικόν ἐστι πάσης σκοτίας καὶ ἀγνοίας καὶ κακίας
                             ὑφισταμένης. διὸ ἐν τῇ τοιαύτῃ σκοτίᾳ φαῖνον οὐ καταλαμβάνεται <lb n="30"/> ὑπ’ αὐτῆς. ὂν γὰρ τοῦτο τὸ φῶς σοφία καὶ δικαιοσύνη θεοῦ, ᾗ
                             μὲν σοφία ἐστὶ λύει τὴν τοῦ νοῦ ἄγνοιαν, ᾐ δὲ δικαιοσύνη τὰ διαβήματα
@@ -286,7 +286,7 @@
                 <div type="textpart" subtype="fragment" n="4">
 
                     <head>Zu Joh. 1, 6.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.6">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.6">
                         <p>Οὐ τοσοῦτον διὰ τὴν κοινὴν περὶ ἀνθρώπου ἀπόδοσιν ὅσον διὰ τὸ πεφυκέναι
                             αὐτὸν κατ᾿ εἰκόνα καὶ πρὸς θεὸν ὁμοίωσιν. σημειωτέον δὲ ὡς οὐκ ἀεὶ τὸ
                             »Ἐγένετο« τὴν <add>εἰς</add> ὕπαρξιν ἄγουσαν <lb n="25"/> δηλοῖ, ἀλλ᾿
@@ -302,7 +302,7 @@
                 <div type="textpart" subtype="fragment" n="5">
 
                     <head>Zu Joh. 1, 7.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.7">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.7">
                         <p>Ἳνα πάντες πιστεύσωσιν. Ὅσον ἐφ’ ἑαυτῷ δηλονότι, εἰ καὶ μὴ πάντες
                             ἐπίστευσαν· οὐδὲ γάρ, εἰ μὴ πάντες τὸν παρὰ τοῦ <note type="footnote">7
                                 Vgl. Luk. 23, 40. — 26 Joh. 1, 6 f.</note>
@@ -322,7 +322,7 @@
                 <div type="textpart" subtype="fragment" n="6">
 
                     <head>Zu Job. 1, 8.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.8">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.8">
                         <lb n="5"/>
                         <p>Οὐκ ἠν ἐκεῖνος τὸ φῶς. Τουτέστι τὸ θεολογούμενον· ὑπείληπτο γὰρ τισι διὰ
                             τὸ προσόντα αὐτῷ πλεονεκτήματα ὡς αὐτὸς εἴη ὁ χριστός. διὰ τοῦτο τοῦτό
@@ -366,7 +366,7 @@
                 <div type="textpart" subtype="fragment" n="7">
 
                     <head>Zu Joh. 1, 12.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.12">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.12">
                         <p>Ἐπεὶ μὴ πάντες ἀπεστράφησαν αὐτόν (πολλοὶ γὰρ ἐξ αὐτῶν προσήκαντο αὐτόν,
                             καὶ μάλιστα οἱ ἀπόστολοι), ἐπιφέρει ὁ εὐαγγελιστής· <lb n="5"/> »Ὅσοι δὲ
                             ἔλαβον αὐτὸν ἔσχον ἐξουσίαν τέκνα θεοῦ γενέσθαι«. οἱ γὰρ πρὸς τὴν πίστιν
@@ -395,7 +395,7 @@
                 <div type="textpart" subtype="fragment" n="8">
 
                     <head>Zu Joh. 1, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.13">
                         <p>Οἱ γὰρ ἐκ θεοῦ γεννηθέντες, τῷ πεπιστευκέναι ὅτι Ἰησοῦς ο χριστός ἐστι
                             καὶ τῷ ποιεῖν δικαιοσύνην ἐκ τοῦ θεοῦ ἐγεννήθησαν. <lb n="30"/> οὐχ
                             ὑπόκεινται δὲ τῇ ἐξ αἱμάτων γεννήσει, τουτέστιν οὐκ ἐξ ὑλικῶν ἔχουσι τὴν
@@ -434,7 +434,7 @@
                 <div type="textpart" subtype="fragment" n="9">
 
                     <head>Zu Joh. 1, 14.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.14">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.14">
                         <p>Τὸ »Ὡς μονογενοῦς παρὰ πατρὸς‘ νοεῖν ὑποβάλλει ἐκ τῆς <lb n="20"/> οὐσίας
                             τοῦ πατρὸς εἶναι τὸν υἱόν. οὐδὲν γὰρ τῶν κτισμάτων παρὰ πατρός, ἀλλ’ ἐκ
                             θεοῦ διὰ τοῦ λόγου ἔχει τὸ εἶναι. εἰ γὰρ καὶ ἄλλα παρὰ πατρὸς εἶχε τὴν
@@ -486,7 +486,7 @@
                 <div type="textpart" subtype="fragment" n="10">
 
                     <head>Zu Joh. 1, 15.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.15">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.15">
                         <p>Κέκροπες. Οὐ κατὰ τὴν προφορὰν ἀλλὰ κατὰ τὸ τῆς νοήσεως ἐπιτεταμένον. ὁ
                             γὰρ περὶ τῶν μεγάλων δογμάτων ἀπαγγέλλων <note type="footnote">2 Joh.
                                 14, 6. —7 Jes. 1, 11. - 11 Vgl. Hebr. 10, 1. — 14 Vgl. Gal. 3, 24. —
@@ -568,7 +568,7 @@
                 <div type="textpart" subtype="fragment" n="11">
 
                     <head>Zu Joh. 1, 16.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.16">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.16">
                         <p>Τῶν ἀρετῶν τὸ μὲν οἴκοθεν ἔχομεν καὶ παρ᾿ ἑαυτῶν, ὃ προαιρετικῶς <lb n="20"/> κτώμεθα, τὸ δὲ ἐκ θεοῦ, πιστεύσαντες γοῦν τῷ σωτῆρι καὶ τῷ
                             πατρὶ αὐτοῦ ὡς ἐνεδέχετο ἐκ τοῦ ἐφ᾿ ἡμῖν γενέσθαι. λείπεται ἡμῖν καὶ τὸ
                             ἐκ θεοῦ αἰτεῖν, καθὼς καὶ οἱ μαθηταὶ Ἰησοῦ φασὶν αὐτῶ̣· »Πρόσθες ἡμῖν
@@ -598,7 +598,7 @@
                 <div type="textpart" subtype="fragment" n="12">
 
                     <head>Zu Job. 1, 17.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.17">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.17">
                         <lb n="5"/>
                         <p>Διά Μωσέως δὲ ὁ νόμος ἐδόθη ἀλλ’ οὐχ ὑπ’ αὐτοῦ, ἀλλ’ ὑπὸ τοῦ θεοῦ. θεοῦ
                             γὰρ ὁ νόμος κατὰ τὸ γεγραμμένον· »Ὁ νόμος Κυ- »ρίου ἄμωμος, ἐπιστρέφων
@@ -621,7 +621,7 @@
                 <div type="textpart" subtype="fragment" n="13">
 
                     <head>Zu Joh. 1, 18.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.18">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.18">
                         <p>Διτιοῦ τοῦ θεωρεῖν ὄντος, αἰσθητικοῦ τε καὶ νοητικοῦ, τὸ <lb n="25"/> μὲν
                             τῶν σωμάτων τὸ δὲ τῶν ἀσωμάτων ἐστὶν ἀντικληπτικόν. διὸ καὶ τὰ
                             ὑποκείμενα τῷ νῷ καὶ τὰ ὑπὸ τούτου θεωρούμενα ἀόρατά φαμεν, οὐ τῷ μὴ
@@ -664,7 +664,7 @@
                 <div type="textpart" subtype="fragment" n="14">
 
                     <head>Zu Joh. 1, 18.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.18">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.18">
                         <p>Καταλλήλως δὲ τῷ μονογενῆ θεὸν καὶ υἱὸν αὐτὸν εἶναι πατρὸς ὠνομάσθησαν
                             κόλποι. ἐπεὶ γὰρ τὰ περὶ τῆς θεότητος πάντα ἀκατονόμαστα <lb n="30"/>
                             δηλοῦται ἡμῖν ταῦτα ἀνθρώποις οὖσι διὰ λέξεων ἀνθρωπίνων, εἰκότως ἀφ’ ὧν
@@ -806,7 +806,7 @@
                 <div type="textpart" subtype="fragment" n="19">
 
                     <head>Zu Joh. 1, 29.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.29">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.29">
                         <p>Εὖ δὲ καὶ φάναι· »Ὁ αἴρων τὴν ἁμαρτίαν« οὐχ &gt;ὁ ἄρας<add> ἢ </add>μέλλων
                             αἴρειν&lt;. ἀεὶ γὰρ ἐνεργεῖ τὸ αἴρεσθαι τὴν ἁμαρτίαν τῶν 5 προσφευγόντων
                             αὐτῷ. παρίσταμεν οὖν ἐκ τούτου ὅτι καὶ ᾗρεν καὶ αἴρει καὶ ἀρεῖ, καθ᾿
@@ -817,7 +817,7 @@
                 <div type="textpart" subtype="fragment" n="20">
 
                     <head>Zu Joh. 1, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.31">
                         <p>Κἀγὼ οὐκ ᾔδειν αὐτόν. Ὁ διδάσκων, φησίν, ἐγὼ οὐ κατὰ <lb n="10"/> φύσιν
                             οὐδὲ κατὰ κοινὴν ἀνθρώπων ἔννοιαν ταῦτα περὶ χριστοῦ εἶπον· οὐ γὰρ ᾔδειν
                             αὐτόν, ἀλλὰ τοῦ πνεύματος τοῦ ἁγίου καὶ τοῦ πατρὸς φανερώσαντός μοι τὰς
@@ -908,7 +908,7 @@
                 <div type="textpart" subtype="fragment" n="21">
 
                     <head>Zu Joh. 1, 41.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.41">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.41">
                         <p>Ἄξιον ζητῆσαι πῶς νῦν μὲν Ἀνδρέας τῇ δευτέρᾳ ἡμέρᾳ ἀπὸ τοῦ Βαπτίσματος
                             Ἰησοῦ εὐθὺς εὑρίσκει τὸν ἀδελφὸν τὸν ἴδιον Πέτρον. <note type="footnote">9 Weish. Sal. 1, 5. — 11 Ps. 50, 13 (=ℵa). — 13 Jes. 53, 9; vgl. I
                                 Petr. 2, 22 — 14 II Kor. 5, 21. — 15 Vgl. Joh. 1, 33. — 28 Joh. 1,
@@ -941,7 +941,7 @@
                 <div type="textpart" subtype="fragment" n="22">
 
                     <head>Zu Joh. 1, 42.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.42">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.42">
                         <p>Πέτρον δὲ αὐτὸν κληθήσεσθαι εἶπεν, παρονομασθέντα ἀπὸ τῆς <lb n="15"/>
                             πέτρας, ἥτις ἐστὶν ὁ χριστός· ἵν᾿ ὥσπερ ἐκ σοφίας σοφὸς καὶ ἅγιος ἐξ
                             ἁγιότητος, οὕτως καὶ ἐκ τῆς πέτρας Πέτρος * *. ἀποδείκνυται δὲ τοῦτο ἐξ
@@ -954,7 +954,7 @@
                 <div type="textpart" subtype="fragment" n="23">
 
                     <head>Zu Joh. 1, 43.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.43">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.43">
                         <p>Τὸ »Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν« ἀμφιβόλως εἰρημένον
                             δηλοῖ ὁτὲ τὸν Ἀνδρέαν εἶναι τὸν ἐξεληλυθότα, ὁτὲ δὲ τὸν Ἰησοῦν. δοκεῖ δὲ
                             μᾶλλον περὶ τοῦ Ἀνδρέα εἶναι τὸ λεγόμενον, <lb n="25"/> ἐξεληλυθότος εἰς
@@ -982,7 +982,7 @@
                 <div type="textpart" subtype="fragment" n="24">
 
                     <head>Zu Joh. 1, 45.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.45">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.45">
                         <lb n="10"/>
                         <p>Οὐ τοῦτο δὲ εἰπεῖν βούλεται, ὅτι οἱ προφῆται οὕτως ἔγραψαν ὅτι Ἰησοῦς
                             ἔσται ὁ υἱὸς Ἰωσὴφ ἀπὸ Ναζαρὲτ« τοῦτον εὑρήκαμεν ὄντα ἐκεῖνον περὶ οὗ
@@ -994,7 +994,7 @@
 
                     <lb n="15"/>
                     <head>Zu Joh. 1, 46.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.46">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.46">
                         <p>Τὸ »Ἐκ Ναζαρὲτ δύναταί τι ἀγαθὸν εἶναι;« ἤτοι ἀμφιβάλλων, ἆρα ἐκ τῆς
                             Ναζαρὲτ τηλικοῦτον ἀγαθὸν δύναται; ἢ τεθαρρηκότως λέγει, ἐκ τῆς Ναζαρέτ
                             ἐστιν ὄντως ὁ εὑρεθεὶς καὶ ἀληθῶς ἀγαθόν ἐστιν. πρὸς ὃν Φίλιππος· »Ἔρχου
@@ -1006,7 +1006,7 @@
                 <div type="textpart" subtype="fragment" n="26">
 
                     <head>Zu Joh. 1, 49.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.49">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.49">
                         <p>Καὶ τὸ ὑπὸ Ναθαναὴλ δὲ εἰρημένον πρὸς τὸν Ἰησοῦν οὕτως <lb n="25"/>
                             ἀπέδωκεν &gt;Σὺ <add>εἶ</add> ὁ υἱὸς τοῦ θεοῦ· σὺ τοῦ Ἰσραήλ, τοῦ
                             διορατικοῦ</p>
@@ -1053,7 +1053,7 @@
                 <div type="textpart" subtype="fragment" n="27">
 
                     <head>Zu Joh. 1, 50.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.50">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.50">
                         <p>Εἶδές με τότε ὅτε ὑπὺ τὴν συκὴν ἐτύγχανον, πρὶν ὑπὸ Φιλίππου· κληθῶ.
                             Ἰησοῦς ταῦτα ἀκούσας φησίν· Ἐπειδὴ »εἶπόν σοι ὅτι εἶδόν »σε ὑπὸ τὴν
                             συκὴν πιστεύεις;« μείζονα τούτων ὄψει. μετὰ δὲ τὴν ὡς τοῦ τὸ ῥητὸν
@@ -1098,7 +1098,7 @@
                 <div type="textpart" subtype="fragment" n="28">
 
                     <head>Zu Joli. 2, 1.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.1">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.1">
                         <p>Τρίτης ἤδη ἡμέρας ἐνεστηκυίας ἀφ’ οὗ ὁ Ἰησοῦς ἐβαπτίσθη, γάμου ἐν Κανὰ
                             τῆς Γαλιλαίας γενομένου , καὶ οὔσης τῆς μητρὸς <lb n="10"/> Ἰησοῦ ἐκεῖ
                             καὶ αὐτὸς ὁ Ἰησοῦς ἐκλήθη ἅμα τῶν μαθητῶν. Καὶ γὰρ ποιητὴς ὢν ὁ Ἰησοῦς
@@ -1116,7 +1116,7 @@
 
                     <lb n="20"/>
                     <head>Zu Joh. 2, 7.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.7">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.7">
                         <p>Ενεστι τὴν ἀκρίβειαν τοῦ εὐαγγελιστοῦ καὶ ἐκ τοῦ διηγήματος τούτου
                             θεωρῆσαι. ἐπειδὴ γὰρ ᾔδει τοὺς ἐθελοκάκους ἐν Ἰουδαίοις πανούργους
                             ἑτοίμως ἔχοντας πρὸς τὸ κακολογεῖν τὰς Ἰησοῦ δυνά- <note type="footnote">4 Vgl. Joh. 1, 47. — 12 Vgl. Gen. 2, 22. — 14 Matth. 19, 6; Mark.
@@ -1153,7 +1153,7 @@
                 <div type="textpart" subtype="fragment" n="30">
 
                     <head>Zu Joh. 3, 11.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.11">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.11">
                         <lb n="10"/>
                         <p>Τὸ »Ἐπίστευσαν« ἀντὶ τοῦ &gt;Ἐβεβαιώθησαν&lt; εἴρηται. τὴν πίστιν ὡς ἐπὶ
                             τὸ πολὺ μᾶλλον ἐπὶ τῆς βεβαιώσεως λέγει. τούτοις οὖν καὶ τὴν δόξαν αὐτοῦ
@@ -1167,7 +1167,7 @@
                 <div type="textpart" subtype="fragment" n="31">
 
                     <head>Zu Job. 2, 11.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.11">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.11">
                         <p>Καὶ μετὰ τοῦτο κατέβη εἰς Καφαρναούμ, αὐτὸς καὶ ἡ μήτηρ αὐτοῦ καὶ οἱ
                             ἀδελφοὶ αὐτοῦ καὶ οἱ μαθηταὶ αὐτοῦ. Ζητεῖται παρὰ πολλοῖς περὶ τῶν
                             ἀδελφῶν Ἰησοῦ πῶς εἶχεν τούτους, <lb n="20"/> τῆς Μαρίας μέχρι τελευτῆς
@@ -1203,7 +1203,7 @@
 
                     <p>Ζu Joh. 2, 13.</p>
                     <lb n="10"/>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.13">
                         <p>Vgl. Χ, 13ff. Die Sprache des Fragmentes beweist, dass es Origenes fremd
                             ist.</p>
                         <p>Τριῶν ἑορτῶν δημοτελῶν παραδοθεισῶν τοῖς Ἑβραίοις ὑπὸ τοῦ μεγάλου
@@ -1255,7 +1255,7 @@
                 <div type="textpart" subtype="fragment" n="33">
 
                     <head>Zu Joh. 2, 23.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.23">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.23">
                         <p>Ἐπίστευον δὲ οὐκ εἰς αὐτόν, ἀλλ᾿ εἰς τὸ ὄνομα αὐτοῦ. οὑτοι δὲ οὐ βεβαίαν
                             οὐδὲ τελείαν ἔχουσιν γνῶσιν, περὶ ὡν καὶ ἐν τοῖς ἔμπροσθεν εἴρηται, ἀλλὰ
                             ῥᾷστα διαπεσεῖν δυναμένην. ὅθεν οὐδὲ <lb n="20"/> ἐπίστευσεν ἑαυτὸν
@@ -1297,7 +1297,7 @@
                 <div type="textpart" subtype="fragment" n="34">
 
                     <head>Zu Joh. 3, 1.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.1">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.1">
                         <lb n="15"/>
                         <p>Ἐν τοῖς πολλοῖς τοῖς πεπιστευκόσιν εἰς τὸ ὄνομα τοῦ Ἰησοῦ τακτέον καὶ τὸν
                             Νικόδημον, ἕνα τῶν Φαρισαίων ὄντα καὶ ἄρχοντα τῶν Ἰουδαίων ὑπάρχοντα.
@@ -1337,7 +1337,7 @@
                 <div type="textpart" subtype="fragment" n="35">
 
                     <head>Zu Joh. 3, 3.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.3">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.3">
                         <lb n="10"/>
                         <p>Τὸ »Ἄνωθεν« ὁτὲ μὲν ἐκ τῶν &lt; καὶ , ὡς τὸ »Ὁ »ἄνωθεν ἐρχόμενος ἐπάνω
                             πάντων ἐστίν‘, ὁτὲ δὲ τὸ , ὡς ἐν τῷ »Οἷς ἄνωθεν δουλεύειν θέλετε«,
@@ -1380,7 +1380,7 @@
                 <div type="textpart" subtype="fragment" n="36">
 
                     <head>Zu Joh. 3, 5.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.5">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.5">
                         <p>Τὸν τρόπον τοῦ πῶς ἔστι »γεννηθῆναι ἄνωθεν« ἑρμηνεύων ὁ σωτὴρ λέγει· Ἐπεὶ
                             πρόκειται εἰσιέναι εἰς τὴν τοῦ θεοῦ βασιλείαν, <lb n="15"/> τυχεῖν δὲ
                             τούτου ἀδύνατον μὴ γεγεννημένον ἐξ ὕδατος καὶ πνεύματος ἀκολουθεῖ τὸ
@@ -1453,7 +1453,7 @@
                 <div type="textpart" subtype="fragment" n="37">
 
                     <head>Zu Joh. 3, 8.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.8">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.8">
                         <lb n="5"/>
                         <p>Δηλοῦσιν αἱ λέξεις αὗται νόησιν τοιάνδε. τὸ ἅγιον πνεῦμα μόνοις
                             σπουδαίοις ἐπιφοιτᾷ, τῶν φαύλων μακρὰν ὑπάρχον. οὐ τοπικῶς [[δὲ τοῦ
@@ -1502,7 +1502,7 @@
                 <div type="textpart" subtype="fragment" n="38">
 
                     <head>Zu Joh. 3, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.13">
                         <p>Ζητῆσαί γε ἄξιον πῶς ὁ σωτὴρ ἐπίγεια εἶπεν εἰρηκέναι, περὶ βασιλείας θεοῦ
                             καὶ τῆς ἄνωθεν γεννήσεως, καὶ περὶ τοῦ ἀπίου πνεύματος <lb n="10"/> [[
                             καὶ τοῦ ἐξ αὐτοῦ γεννηθῆναι διδάξας]]. οὐδὲν γὰρ τούτων ἐπίγειον ἀλλ’
@@ -1542,7 +1542,7 @@
                 <div type="textpart" subtype="fragment" n="39">
 
                     <head>Zu Joh. 3, 14.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.14">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.14">
                         <p>Προσετέτακτο δὲ τὸ τοῦ ὄφεως ὑπὸ τοῦ θεοῦ, ὅπως ἔχωσιν εἰδέναι οἱ ὑπὸ
                             Μωϋσέως ἀγόμενοι ὅτι ὥσπερ ἀνῃροῦντο ὑπὸ τῶν ἰοβόλων <lb n="5"/> θηρίων
                             ἀπιστήσαντες θεῷ, τῷ τὴν γῆν αὐτοῖς ἐπαγγειλαμένῳ, οὕτως σωθήσονται
@@ -1563,7 +1563,7 @@
                 <div type="textpart" subtype="fragment" n="40">
 
                     <head>Zu Joh. 3, 18.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.18">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.18">
                         <p>Καὶ ἐκ τοῦ παρόντος ῥητοῦ ἐλέγξαι ἔστι τοὺς λέγοντας τὴν <lb n="20"/>
                             &gt;υἱὸς&lt; προσηγορίαν ἐπὶ μόνου τοῦ ἐκ Μαρίας κεῖσθαι, μὴ μὴν ἐπὶ
                             θεοῦ λόγου. [[ἰδοὺ γὰρ καὶ ὁ υἱὸς τοῦ θεοῦ ἐστὶν ὁ εἰς τὸν ἀποσταλείς.
@@ -1592,7 +1592,7 @@
                 <div type="textpart" subtype="fragment" n="41">
 
                     <head>Zu Joh. 3, 18, 19.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.18-3.19">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.18-3.19">
                         <p>Ἐρεῖ δέ τις μὴ πάνυ συνετῶς ἐννοεῖσθαι τὸ ἑρμηνευθὲν ὡς μ·ὴ ἐληλυθότος
                             Ἰησοῦ κρῖναι νῦν τὸν κόσμον, παρατιθέμενος τὸ ἐπιφερόμενον ἑξῆς· »Αὕτη
                             δέ ἐστιν ἡ κρίσις, ὅτι τὸ φῶς ἐλήλυθεν εἰς <lb n="5"/> »τὸν κόσμον«. καὶ
@@ -1612,7 +1612,7 @@
                 <div type="textpart" subtype="fragment" n="42">
 
                     <head>Zu Joh. 3, 19.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.19">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.19">
                         <p>Αὕτη δέ ἐστιν ἡ κρίσις, ὅτι τὸ φῶς ἐλήλυθεν εἰς τὸν <lb n="20"/> κόσμον
                             καὶ ἠγάπησαν. οἱ ἄνθρωποι μᾶλλον τὸ σκότος ἢ τὸ φῶς. Εἰ γὰρ μὴ ἐληλύθει
                             εἰς τὸν κόσμον τὸ φῶς, εἶχον ἄγνοιαν τῶν καλῶν αἰτιάσασθαι οἱ μὴ
@@ -1682,7 +1682,7 @@
                 <div type="textpart" subtype="fragment" n="43">
                     <lb n="5"/>
                     <head>Zu Joh. 3, 19.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.19">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.19">
                         <p>[[Ἐπειδὴ γέγραπται· »Ἠγάπησαν μᾶλλον οἱ ἄνθρωποι τὸ »ὴ τὸ φῶς« ζητητέον
                             εἰ ἀμφότερα ἀγαπήσαντες μᾶλλον τὸ σκότος ἠγάπησαν, ἡττον δὲ τὸ φῶς· ὃ
                             καὶ δοκεῖ χώραν ἔχειν ἐπὶ τῶν μήτε ἄγαν φαύλων ἀνθρώπων μήτε κατὰ τὴν
@@ -1720,7 +1720,7 @@
                 <div type="textpart" subtype="fragment" n="44">
 
                     <head>Zu Joh. 3, 26f.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.26-3.27">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.26-3.27">
                         <p>Εὐγνωμόνως δεῖ ἀκούειν τὸ » Πάντες ἔρχονται πρὸς αὐτόν« ἀντὶ τοῦ , καὶ τὸ
                             »Οὐ δύναται ἄνθρωπος ἀφ᾿ ἑαυτοῦ λαμ- <lb n="5"/> »βάνειν οὐδέν, ἐὰν μὴ ᾖ
                             δεδόμενον ἐκ τοῦ οὐρανοῦ‘· τουτέστιν Οὐ δύναται ἄνθρωπος ἔχειν τι
@@ -1739,7 +1739,7 @@
                 <div type="textpart" subtype="fragment" n="45">
 
                     <head>Zu Joh. 3, 29.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.29">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.29">
                         <p>Ἡ λογικὴ οὐσία, ἧς μέρος ἐστὶ καὶ ἡ ἀνθρώπου ψυχή, ἐξ ἑαυτῆς οὐδενός ἐστι
                             τῶν ἀγαθῶν γεννητική , εἰ καὶ δεκτική ἐστι τούτων. <lb n="20"/> αὕτη
                             τοιγαροῦν γυναικὸς τρόπῳ ἐξ ἄλλου γεννᾶν πέφυκεν ἃς δύναται τίκτειν
@@ -1820,7 +1820,7 @@
                 <div type="textpart" subtype="fragment" n="46">
 
                     <head>Zu Joh. 3, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.31">
                         <lb n="15"/>
                         <p>Εἰ γὰρ ἄνωθεν καὶ ἐκ πατρὸς ἔρχεται ὡς παντοκράτωρ, δῆλον ὅτι ἐπάνω
                             πάντων ἐστίν. οἱ δὲ ὑλικὸν φρόνημα ἔχοντες τὴν εἰκόνα φοροῦσι τοῦ
@@ -1857,7 +1857,7 @@
                 <div type="textpart" subtype="fragment" n="47">
 
                     <head>Zu Joh. 3, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.31">
                         <p>Καὶ τὴν μαρτυρίαν αὐτοῦ οὐδεὶς λαμβάνει· καίτοι πολλῶν <lb n="5"/>
                             εἰληφότων τὴν μαρτυρίαν αὐτοῦ, [[ὡς αὐτὸς πάλιν ὁ Ἰωάννης ἐπιφέρει,
                             φάσκων· »Ὁ λαβὼν τὴν αὐτοῦ μαρτυρίαν ἐσφράγισεν ὅτι ὁ θεὸς ἀλη- »θής
@@ -1901,7 +1901,7 @@
                 <div type="textpart" subtype="fragment" n="48">
 
                     <head>Zu Joh. 3, 34.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.34">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.34">
                         <p>Εἰ γὰρ καὶ ἄνδρες σοφοὶ θεὸν ἐσχηκότες ἐλάλησαν τὰ τοῦ θεοῦ ῥήματα, ἀλλ’
                             οὖν ἐκ μέρους εἶχον τὸ πνεῦμα τοῦ θεοῦ λέγοντος· <lb n="5"/> »Ἐκχεῶ ἀπὸ
                             τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα«. ὁ δέ γε σωτὴρ ἀποσταλεὶς ἐπὶ τῷ τὰ
@@ -1924,7 +1924,7 @@
                 <div type="textpart" subtype="fragment" n="49">
 
                     <head>Zu Joh. 3, 31. 34.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.31-3.34">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.31-3.34">
                         <p>Ἐπειδὴ οἱ διὰ πάντων τὸν ἑαυτῶν νοῦν διαστρέφοντες αἱρετικοί, διαιροῦντες
                             τὴν θεότητα καὶ διὰ τοῦτο τὴν παλαιὰν γραφὴν <lb n="25"/> ἑτέρου
                             λέγοντες θεοῦ καὶ ἑτέρου τὴν καινὴν διαθήκην τιθέντες, <note type="footnote">5 Joel 2, 28. (3, 1). — 6 Vgl. Joh. 3, 34. — 7 Vgl.
@@ -1967,7 +1967,7 @@
                 <div type="textpart" subtype="fragment" n="50">
 
                     <head>Zu Joh. 3, 35.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.35">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.35">
                         <lb n="20"/>
                         <p>Πῶς γὰρ οὐκ ἔμελλεν ἀγαπᾶν ὁ πάσαν κακίαν μισῶν θεός, περὶ οὑ γέγραπται·
                             »Ἐγὼ θεὸς ἀγαπῶν δικαιοσύνην καὶ μισῶν ἁρπάγματα »ἐξ ἀδικίας«; μισεῖ δὲ
@@ -2018,7 +2018,7 @@
 
                     <lb n="25"/>
                     <head>Zu Joh. 3, 36.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.36">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.36">
                         <p>Πολλαχοῦ τῶν γραφῶν]] αἱ κατὰ τῶν φαύλων τιμωρίαι ὀργὴ λέγονται θεοῦ· ὡς
                             τὸ λεχθὲν περὶ τῶν Αἰγυπτίων ὑπὸ Μωϋθσέως· » Ἐξαπέστειλας τὴν ὀργήν σου,
                             καὶ κατέφαγεν αὐτὸς ὡσεὶ καλάμην«. καὶ Παύλος περὶ τῶν ἰουδαίων γράφει·
@@ -2047,7 +2047,7 @@
                 <div type="textpart" subtype="fragment" n="52">
 
                     <head>Zu Joh. 4, 6.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.6">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.6">
                         <lb n="10"/>
                         <p>Ἐπεὶ σῶμα κατ’ ἀλήθειαν ἔσχεν συμπληρούμενον ἐξ ὧν καὶ πάντα τὰ ἀνθρώπινα
                             σώματα , ἀναγκαίως ὑπόκειται καὶ τὸ αὐτοῦ σῶμα τοῖς κοινοῖς πάθεσιν· οὐ
@@ -2065,7 +2065,7 @@
                 <div type="textpart" subtype="fragment" n="53">
 
                     <head>Zu Joh. 4, 9.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.9">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.9">
                         <p>Ἴσως δ’ <add>ἂν</add> ἐπιζητήσειέ τις τὴν αἰτίαν δι᾿ ἣν Ἰουδαῖοι οὐ
                             συγχρῶνται Σαμαρείταις, ἥντινα εὑρεῖν δυνατὸν έν τῇ τρίτῃ καὶ τετάρτῃ
                                 <lb n="25"/> τῶν Βασιλειῶν ἱστοριῶν, ἀλλὰ καὶ ἐν τῇ δευτέρᾳ τῶν
@@ -2113,7 +2113,7 @@
 
                     <lb n="25"/>
                     <head>Zu Joh. 4, 12.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.12">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.12">
                         <p>Ἡ μὲν Σαμαρεῖτις τῶν Ἰουδαϊκῶν Μῶν τε καὶ δογμάτων τὰ τῆς Σαμαρείτιδος
                             δόξης ἐξαίρειν καὶ ὑπερτιθέναι τὴν ὅτι μάλιστα <note type="footnote">1
                                 Jes. 52, 11; vgl. II Kor. 6, 17. — 3 Joh. 4, 8.</note>
@@ -2165,7 +2165,7 @@
                 <div type="textpart" subtype="fragment" n="55">
 
                     <head>Zu Joh. 4, 12.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.12">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.12">
                         <p>Φρέαρ τοῦ Ἰακὼβ εἶναι πρὸς ἀλληγορίαν τὴν Μωσέως γραφὴν ῥητέον, ἀφ᾿ ἡς ὁ
                             Ἰακὼβ ἅμα τοῖς υἱοῖς πνευματικῶς ἔπινεν, πινόντων <note type="footnote">1 Joh. 4, 12. — 11 Joh. 4, 13 f.</note>
                             <note type="footnote">LIV. Ι ℵ] 8 δὲ We] τε ℵ | 12 πίει ℵ, corr. Br | 17
@@ -2186,7 +2186,7 @@
 
                     <lb n="5"/>
                     <head>Zu Joh. 4, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.13">
                         <p>Τοῦ νόμου τοίνυν τοῦ διὰ Μωϋσέως τοῦ ὕδατος ὄντος, πῶς εἶπεν Ἰησοῦς διψᾶν
                             πάλιν τὸν πίνοντα ἀπ' αὐτοῦ; καὶ λεκτέον γε ὅτι ὁ νόμος τοῖς ἀνθρώποις
                             δέδοται, οὐκ ἐπὶ τῷ ἀεὶ κατ' αὐτὸν βιοῦν, ἀλλὰ μέχρι καιροῦ τινός, ὡς
@@ -2226,7 +2226,7 @@
                 <div type="textpart" subtype="fragment" n="57">
 
                     <head>Zu Joh. 4, 15.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.15">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.15">
                         <p>Εἐπούσης τῆς γυναικὸς τὸ παρὰ Ἰησοῦ θέλειν λαβεῖν ὕδωρ, ἐπὶ τῷ στῆσαι τὸ
                             δίψος, ἔχουσα αὐτὸ πηγὴν ἐν ἑαυτῇ, ἔδειξεν αὐτὸ θέλειν. διὰ γὰρ ταύτης
                             τῆς λέξεως ὡμολόγησε πολὺν κάματον εἶναι <lb n="5"/> τῆς ἀντλείας λείας
@@ -2285,7 +2285,7 @@
                 <div type="textpart" subtype="fragment" n="58">
 
                     <head>Zu Joh. 4, 22.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.22">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.22">
                         <p>Ὅταν ἀκούσῃς ὅτι ἡ σωτηρία ἐκ τῶν Ἰουδαίων ἐστίν, περὶ τοῦ ταῦτα λέγοντος
                             ἄκουε τὰ εἰρημένα. αὐτὸς γὰρ ἦν ἡ τῶν ἐθνῶν <lb n="15"/> προσδοκία, ὁ
                             γεννώμενος ἐκ σπέρματος Δαβὶδ κατὰ σάρκα.]]</p>
@@ -2295,7 +2295,7 @@
                 <div type="textpart" subtype="fragment" n="59">
 
                     <head>Zu Joh. 4, 33.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.33">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.33">
                         <p>Τὸ » Mήτις ἤνεγκεν αὐτῷ φαγεῖν; « δηλοῖ ὅτι τὰς διακονίας τῶν
                             προσφερόντων ἐδέχετο, καίτοι δυνατὸς ὤν τρέφειν καὶ μὴ τρέφεσθαι. <lb n="20"/> ἐνεργείας δὲ μεγίστης τὸ τρέφειν Χριστόν, ἡς οὐκ ἐφθόνει
                             τοῖς βουλομένοις· διὸ καὶ τοῖς μαθηταῖς τὸ ἴσον ἔταξεν. νομομαθεῖς δὲ
@@ -2333,7 +2333,7 @@
                 <div type="textpart" subtype="fragment" n="60">
                     <lb n="10"/>
                     <head>Zu Joh. 4, 44.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.44">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.44">
                         <p>Πατρίδα αὐτοῦ τὴν Ἰουδαίαν καλεῖ, ἣν καὶ διὰ τοῦτο καταλέλοιπε. τὴν γὰρ
                             αἐτίαν τῆς ἐπὶ τὴν Γαλιλαίαν ἀφίξεως ἀποδιδοὺς ὁ εὐαγγελιστὴς γράφει,
                             ὅτι »Προφήτης ἐν τῇ ἰδίᾳ πατρίδι τιμὴν οὐκ ἔχει«. [[φέρεται ἡ μαρτυρία
@@ -2350,7 +2350,7 @@
                 <div type="textpart" subtype="fragment" n="61">
 
                     <head>Zu Job. 5, 3.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:5.3">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:5.3">
                         <p>Ἔστι δέ, φηοίν, ἐν τοῖς Ἱεροσολύμοις καὶ τὰ ἑξῆς. Τὸ μὲν περιιέναι καὶ
                             τοὺς ὁποιδήποτε ὄντας τῶν ἀρρώστων θεραπεύειν οὐκ <lb n="25"/> ἀναγκαῖον
                             ἔκρινεν, ἕστε μὴ φιλαυτίας ἀπενέγκασθαι δόξαν, ἕνα δὲ θεραπεύσας δἱ
@@ -2397,7 +2397,7 @@
                 <div type="textpart" subtype="fragment" n="62">
 
                     <head>Zu Joh. 7, 39.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:7.39">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:7.39">
                         <p>Corderius p. 217. ört Orig. nicht an.</p>
                         <p>Inc. Ποῖον δέ πνεῦμa οὔπω ἦν; Expl. ἐπ' οὐδενὸς ὤφθη τῶν προφητῶν,
                             ἐθαυμτούργουν.</p>
@@ -2408,7 +2408,7 @@
 
                     <lb n="30"/>
                     <head>Zu Joh. 9, 6.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.6">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.6">
                         <p>Νομίςω τοῦτο λελέχθαι πρὸς παράστασιν τοῦ ποιότητα δυνάμεως ἰατρικῆς
                             ἐσχηκέναι τὸν σίελον τοῦ χριστοῦ. εἰ καὶ μὴ αὐτὸς <note type="footnote">2 Vgl. Theodor. Μοps. bei Corder. p. 142. — 10 Vgl. Joh. 5, 3. - 22
                                 Joh. 5, 8.</note>
@@ -2470,7 +2470,7 @@
                 <div type="textpart" subtype="fragment" n="64">
 
                     <head>Zu Joh. 9, 8.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.8">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.8">
                         <p>Ὁ προσαίτης δι' ἀπορίαν τῶν ἀναγκαίων καὶ ἀδυναμίαν τοῦ εὐσχημονέστερον
                             πορίζειν πορίζειν ἐπαιτεῖ. τοιούτους δ’ ἂν εὕροις <lb n="15"/> τοὺς ἀπὸ
                             τῶν ἐπαγγελλομένων τὴν ἀλήθειαν Ἑλλήνων καὶ βαρβάρων οἱονεὶ αἰτοῦντας
@@ -2493,7 +2493,7 @@
                 <div type="textpart" subtype="fragment" n="65">
 
                     <head>Zu Joh. 9, 16.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.16">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.16">
                         <p>Εἵπερ δὲ ὡς ὑπελάμβανον οἱ Φαρισαῖοι, ὁ μὴ τηρῶν ὃ ἐκεῖνοι ἐνόμιζον εἶναι
                             σάββατον οὐκ ἔστι παρὰ θεοῦ, οἱ δὲ ἐν τῷ ἱερῷ <note type="footnote">6
                                 Vgl. Joh. 5, 8f. — 18 Sir. 40, 28 (29). — 21 Luk. 16, 6f. — 26 Vgl.
@@ -2522,7 +2522,7 @@
                 <div type="textpart" subtype="fragment" n="66">
 
                     <head>Zu Joh. 9, 14.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.14">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.14">
                         <p>Παρατηρητέον δὲ τὸ πρόσωπον τοῦ εὐαγγελιστοῦ ὅτι φησὶ καὶ ἀωεῴχθαι τοὺς
                             ὀφθαλμοὺς τοῦ τυφλοῦ <add>καὶ</add> βεβλεφέναι αὐτόν· ἀνεῴχθαι μὲν διὰ τοῦ
                             »Ἠν δὲ σάββατον ἐν ᾗ ἡμέρᾳ τὸν πηλὸν » ἐποίησε καὶ ἤνοιξεν αὐτοῦ τοὺς
@@ -2557,7 +2557,7 @@
 
                     <lb n="10"/>
                     <head>Zu Joh. 9, 21.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.21">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.21">
                         <p>Πρὸς τῷ διεψεῦσθαι καὶ ἄλλο ἥμαρτον εἰς προῦπτον κακὸν περιβάλλοντες
                             ἑαυτῶν τὸν υἱόν. οἶμαι δὲ καὶ τοῦτο λόγον ἔχειν, ὅτι τυφλοῦ τυφλοῦ
                             ἀνοίγων χριστὸς τοὺς ὀφθαλμοὺς οὐ παιδίου ἀνέῳξεν ἀλλ' ἡλικίαν ἔχοντος,
@@ -2572,7 +2572,7 @@
 
                     <lb n="20"/>
                     <head>Zu Joh. 9, 27.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.27">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.27">
                         <p>Νῦν τὸ μὲν » Oὐκ ἠκούσατε « ἴσον ἐστὶ τῷ » Οὐ παρεδέξασθε, οὐκ ἠθελήσατε
                             τὸ . τὸ δὲ »Τί οὖν πάλιν θέλετε ἀκούειν;« ἰσοόυναμεῖ τῷ Τί δὲ, ὠ οὑτοι,
                             ἄρα νῦν ἀκούειν &lt; μάτην γὰρ θέλετε ἀκούειν, εἰ μὴ πιστεύετέ μοι
@@ -2603,7 +2603,7 @@
                 <div type="textpart" subtype="fragment" n="69">
 
                     <head>Zu Joh. 9, 30.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.30">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.30">
                         <lb n="5"/>
                         <p>Ἐχεταί τινος ἀξιολόγου ὑπονοίας τὸ » Ἐν τούτω θαυμαστόν »ἐστι «.
                             θαυμαστὸν γάρ ἐστιν εἰ Ἰησοῦς πόθεν ἐστὶν ὑπὸ τῶν τυχόντων γινώσκεται·
@@ -2614,7 +2614,7 @@
                 <div type="textpart" subtype="fragment" n="70">
                     <lb n="10"/>
                     <head>Zu Joh. 9, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.31">
                         <p>Οὐκ ἂν δὲ τηλικοῦτο δόγμα τι εἰ ἦν ἀληθές, τὸ μὴ ἀκούεσθαι τὸν ἁμαρτωλὸν
                             ὑπὸ τοῦ θεοῦ, ἀποσεσιώπητο , ἀλλ' εἴρητο ἂν ὑπό τινος ἀξίου πιστεύεσθαι,
                             φέρε εἰπεῖν ἢ τοῦ θεράποντος ἤ τινος τῶν προφητῶν. πῶς δὲ εἰ ἁμαρτωλὸν
@@ -2653,7 +2653,7 @@
 
                     <lb n="5"/>
                     <head>Zu Job. 9, 35.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.35">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.35">
                         <p>Ἤκουσεν ὁ Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔφω, καὶ εὑρὼν αὐτὸν εἶπεν αὐτῷ· Σὺ
                             πιστεύεις εἰς τὸν υἱὸν τοῦ ἀνθρώπου; Ἐπεὶ ἐξέβαλον αὐτὸν οἱ Ἰουδαῖοι ἔξω
                             ἀπ᾿ αὐτῶν διὰ τὴν ἐπὶ τῷ σωτῆρι παρρησίαν, διὰ τοῦτο εὑρεν αὐτὸν ὁ
@@ -2693,7 +2693,7 @@
                 <div type="textpart" subtype="fragment" n="72">
 
                     <head>Zu Joh. 9, 39.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.39">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.39">
                         <p>Τοιαύτη γὰρ παράδοσις καὶ δόξα παρὰ Ἰουδαίοις ἐκράτει· ὅθεν <lb n="5"/>
                             καὶ οἱ μαθηταὶ ἠρώτων τὸν Ἰησοῦν· »Οὗτος ἥμαρτεν ἢ οἱ γονεῖς αύτοῦ;«
                             ἀλλ᾿ ἀπεφήνατο λέγων ὁ κύριος ὅτι »Οὔτε οὗτος οὔτε οἱ »γονεῖς αὐτοῦ«,
@@ -2704,7 +2704,7 @@
                 <div type="textpart" subtype="fragment" n="73">
 
                     <head>Zu Joh. 9, 37.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.37">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.37">
                         <lb n="10"/>
                         <p>Οὐ παρέργως ἀκουστέον τοῦ μὲν »Ἑώρακας« ἐπὶ τὸν παρελθόντα χρόνον
                             ἀναφερομένου, τοῦ δὲ »Ὁ λαλῶν μετά σου« ἐπὶ τὸν ἐνεστηκότα, ὅτι ἐκεῖνος
@@ -2739,7 +2739,7 @@
                 <div type="textpart" subtype="fragment" n="74">
 
                     <head>Zu Joh. 10, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:10.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:10.31">
                         <lb n="5"/>
                         <p>Εἰ πάλιν ἐβάστασαν πρότερον ἐβάστασαν. εἴπερ οὖν μὴ λανθάνει ἡμᾶς τοῦτο
                             γεγραμμένον, ἀναγκαῖον ζητῆσαι τὴν αἰτίαν τῆς προσθήκης τοῦ Πάλιν‘.
@@ -2787,7 +2787,7 @@
                 <div type="textpart" subtype="fragment" n="75">
                     <lb n="5"/>
                     <head>Zu Joh. 10, 40.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:10.40">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:10.40">
                         <p>Ἰνα μὴ ἐκφανῆ σφόδρα τὴν θεότητα καταστήσῃ, συνὼν ἐπὶ πλέον τοῖς κατέχειν
                             ἐπειγομένοις καὶ μὴ κατεχόμενος, καὶ τῆς ἀνθρωπίνης τάξεως παραχαράξει
                             τὸν ῥυθμόν. πρόσχες δὲ εἰ δύναταί τινα λόγον ἔχειν τὸ μὴ ἁπλῶς γεγράφθαι
@@ -2807,7 +2807,7 @@
                 <div type="textpart" subtype="fragment" n="76">
 
                     <head>Zu Joh. 10, 39.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:10.39">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:10.39">
                         <p>Ἐςήτουν πάλιν αὐτὸν πιάσαι· καὶ ἐξῆλθεν ἐκ τῆς χειρὸς αὐτῶν. Κατὰ δὲ
                             ἀναγωγὴν εἰσί τινες βουλόμενοι θηρεῦσαι τὸν <lb n="25"/> κατὰ
                             Χριστιανισμὸν λόγον λόγον τὸ ἀνατρέψαι καὶ ἀνελεῖν αὐτόν οὗτοι νῦν
@@ -2854,7 +2854,7 @@
                 <div type="textpart" subtype="fragment" n="77">
 
                     <head>Zu Joh. 11, 1.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.1">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.1">
                         <p>Τὸ ὄνομα τοῦ Λαζάρου δὶς ἐν τοῖς εὐαγγελίοις εὕρομεν· πρότερον <lb n="30"/> μὲν ἐν τῷ κατὰ λουκᾶν ἐν τῇ παραβολῇ τοῦ πλουσίου καὶ <note type="footnote">3 S. 151, S. 151, 11. — 4 Vgl. Matth. 3, 17. — 8
                                 Vgl. Matth. 3, 11. — 9 Vgl. Exod. 3, 2. — 10 Joh. 10, 40. — 12 Vgl.
                                 Joh. I, 28. — 13 Joh. 3, 23. - 22 Vgl. Lagarde, Onom. s. p. 66, 8
@@ -2895,7 +2895,7 @@
                 <div type="textpart" subtype="fragment" n="78">
 
                     <head>Zu Joh. 11, 2.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.2">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.2">
                         <p>Ὅτι Μαρία ἡ οὐτή ἐστι καὶ παρὰ τῷ Λουκᾷ ἡ ἀλείψασα τὸν κύριον μύρῳ δῆλον.
                             ἀλλ᾿ ἐκεῖνος μὲν αὐτῆς ἀπεσιώπησεν τοὔνομα· Ἰωάννης δὲ καὶ τὸ ἐκείνῳ
                             παραλειφθὲν ἀνεπλήρωσεν. τίς Δ’ ἂν <lb n="30"/> μὴ παρατραπείη ἐκ τῆς
@@ -2927,7 +2927,7 @@
                 <div type="textpart" subtype="fragment" n="79">
 
                     <head>Zu Joh. 11, 4.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.4">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.4">
                         <p>Ὡς μὲν ἐν συμβόλῳ δηλούτω τὸν κατὰ τὴν ἱστορίαν θάνατον· ὡς δὲ πρὸς
                             ἀναγωγὴν παριστάτω θάνατον ὃν ἔσθ᾿ ὅτε ὑπνοῦσιν <lb n="20"/> οἱ μὴ ὑπὸ
                             θεοῦ τοὺς τῆς ψυχῆς ὀφθαλμοὺς πεφωτισμένοι. οὐ πάντως δὲ οἱ μὴ
@@ -3011,7 +3011,7 @@
                 <div type="textpart" subtype="fragment" n="79b">
                     <head>Zu Joh. 11, 14.</head>
                     <lb n="15"/>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.14">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.14">
                         <p>Inc. Ἡ βραδυτὴς τοῦ ἀρθῆναι τὸν ἐπικείμενον . . Expl. ἦραν τὸν λίθον.
                             Cat. Nicetae (BC); s. ο. Ζ. XXVIII, 3 S. 391, 13.</p>
                     </q>
@@ -3020,7 +3020,7 @@
                 <div type="textpart" subtype="fragment" n="80">
 
                     <head>Zu Job. 11, 18.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.18">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.18">
                         <p>Βηθανία ἑρμηνεύεται x003E;Οἶκος ὑπακοῆς&lt;, Ἱερουσαλὴμ <lb n="20"/> .
                             γειτνιᾷ τοίνυν ἐν μέσῳ σταδίων ιε΄, ὅσοι καὶ τοῦ ναοῦ ἀναβαθμοί.
                             διαιρεῖται δὲ ὁ ιε΄ ἀριθμὸς εἰς τὸν ζ΄ τοῦ σαββάτου καὶ τὸν η΄ τῆς
@@ -3056,7 +3056,7 @@
                 <div type="textpart" subtype="fragment" n="81">
 
                     <head>Zu Joh. 11, 26.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.26">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.26">
                         <p>Οὐκ ἀγνοῶν ὁ σωτὴρ πότερον πιστεύει ἡ Μάρθα τοῖς λεγομένοις ἢ μή
                             πυνθάνεται λέγων· »Πιστεύεις τοῦτο;‘ ἀλλ᾿ ὑπὲρ τοῦ <lb n="15"/> ἡμᾶς ἢ
                             καὶ τοὺς τότε παρόντας μαθεῖν ἐκ τῆς ἀποκρίσεως αὐτῆς τὴν αὐτῆς
@@ -3072,7 +3072,7 @@
                 <div type="textpart" subtype="fragment" n="82">
 
                     <head>Zu Joh. 11, 32.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.32">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.32">
                         <p>Ζητήσαι δ’ ἄν τις διὰ τί λέγει· »Εἰ ἦς ὧδε« ἐξετάζων τὰ τῆς <lb n="25"/>
                             <note type="footnote">4 Vgl. Matfch. S, S. — 5 Vgl. Mark. 5, 22 f. — 6
                                 Vgl. Job. 11, 20. — 9 Joh. 11, 28f. — 10 Vgl. Joh. 11, 29. — 15 Joh.
@@ -3098,7 +3098,7 @@
                 <div type="textpart" subtype="fragment" n="83">
 
                     <head>Zu Joh. 11, 34.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.34">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.34">
                         <p>Τὸ δὲ »Ποῦ τεθείκατε αὐτόν;« μὴ θαυμάσῃς εἰ ὥσπερ ὑπὸ ἀγνοοῦντος λέγεται.
                             ἀγνοεῖν γὰρ οὐ μόνον τὸν σωτῆρα ἀλλὰ καὶ <lb n="10"/> τὸν πατέρα φησὶν ἡ
                             γραφὴ κατὰ σημαινόμενον κατὰ τὸ »Εἴ τις ἐν »ὑμῖν πνευματικὸς
@@ -3113,7 +3113,7 @@
                 <div type="textpart" subtype="fragment" n="84">
 
                     <head>Zu Joh. 11, 38.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.38">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.38">
                         <p>Μακρὰν μὲν τυγχάνων τοῦ μνημείου ἐνεβριμήσατο τῷ πνεύματι. ὅτε δὲ ἐγγὺς
                             γίνεται τῷ νεκρῷ, οὐκέτι ἐμβριμᾶται τῷ πνεύματι, ἀλλὰ συνέχει ἐν ἑαυτῷ
                             τὴν ἐμβρίμησιν. διὸ λέγεται· »Ἐμβριμώμενος ἐν <lb n="20"/> »ἑαυτῷ
@@ -3152,7 +3152,7 @@
                 <div type="textpart" subtype="fragment" n="85">
 
                     <head>Zu Joh. 11, 51.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.51">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.51">
                         <p>Οὐκ, εἴ τις προφητεύει, προφήτης· ἀλλ᾿ εἴ τις προφήτης, οὑτος προφητεύει.
                             Βαλαὰμ γὰρ μάντις ὢν προφητεύει. οὐ γάρ, εἵ τις <lb n="15"/> ἰατρικόν τι
                             ἐποίησεν, ἤδη καὶ ἰατρός· ἢ καὶ οἰκοδομικόν τι ποιήσας ἤδη καὶ
@@ -3193,7 +3193,7 @@
                 <div type="textpart" subtype="fragment" n="86">
 
                     <head>Zu Joh. 11, 54.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.54">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.54">
                         <p>Καὶ βουλομένου τοῦ λόγου ἐπιστρέφειν ἡμᾶς ἀπὸ τοῦ ἀλογώτερον <lb n="10"/>
                             καὶ θερμότερον ἐπιπηδᾶν τοῖς κινδύνοις μηδ᾿ ἂν ὑπὲρ τῆς ἀληθείας ὦσιν,
                             ἀλλὰ καταλαμβανομένους μὲν ἵστασθαι, μέλλοντας δὲ ἀναδύεσθαι, διὰ τὸ τῆς
@@ -3215,7 +3215,7 @@
 
                     <lb n="25"/>
                     <head>Zu Joh. 12, 26.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.26">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.26">
                         <p>Ὁ ἑπόμενος αὐτῷ τῷ ἕπεσθαι αὐτῶ̣ διακονεῖ αὐτῶ̣. ὁ δὲ διακονῶν αὐτῶ
                             διάκονος αὐτοῦ ἐστι· καὶ διὰ τοῦτο ὅπου ὅπου ὁ λόγος, <note type="footnote">1 Vgl. Act. 16, 16f. — 2 Luk. 4, 34. — 9 Vgl.
                                 XXVIII, 23 ο. S. 417, 27. — 15 Jes. .54, 1. — 17 Vgl. zu S. 420, 16
@@ -3246,7 +3246,7 @@
                 <div type="textpart" subtype="fragment" n="88">
 
                     <head>Zu Joh. 12, 27.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.27">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.27">
                         <p>Πᾶσαι αἱ τοῦ Σατανᾶ δυνάμεις ἅμα τοῦ αὐτῆς ἡγεμόνος μόνος κατὰ τὸν καιρὸν
                             τοῦ σωτηρίου πάθους ἐπεστράτευσε τῷ σωτῆρι· ἃς ὁρῶσα ἡ <lb n="15"/> τοῦ
                             σωτῆρος ψυχὴ ἀνθρωπίνως ἐταράττετο, οὐ τὸν θάνατον δειλιῶσα, εἰ καὶ
@@ -3266,7 +3266,7 @@
                 <div type="textpart" subtype="fragment" n="89">
 
                     <head>Zu Joh. 12, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.31">
                         <p>Τὸ ἐν τῷ σταυρῷ πάθημα αὐτοῦ κρίσις ἦν τοῦ κόσμου τούτου παντός, ἐπείπερ
                             »εἰρηνοποιήσας διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ <lb n="30"/>
                             <note type="footnote">18 Vgl. Hebr. 5, 9. — 30 Kol. 1, 20.</note>
@@ -3289,7 +3289,7 @@
                 <div type="textpart" subtype="fragment" n="90">
 
                     <head>Zu Joh. 12, 31 ff.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.31-12.32">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.31-12.32">
                         <p>Ἐπεὶ τὸ τοῦ σωτῆρος ἡμῶν πάθος ἐπὶ καθαρισμῷ τῶν προεγνωσμένων <lb n="10"/> εγωνσμένων ἐγίνετο ἐν οἷς ὁ κόσμος κρίνεσθαι ἔμελλε, διὰ τοῦτο
                             λέλεκται τὸ »Νῦν κρίσις ἐστὶ τοῦ κόσμου τούτου«, ὡσανεὶ ὡσανεὶ ἔλεγεν·
                             καιρὸς ἀναδείξεως τῶν κρινούντων τὸν κόσμον· ἢ ἐπεὶ τῷ καιρῷ τοῦ
@@ -3312,7 +3312,7 @@
                 <div type="textpart" subtype="fragment" n="91">
 
                     <head>Zu Joli. 12, 35.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.35">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.35">
                         <p>Ἐπείπερ ὡς παντὶ τῷ ἔχοντι δοθήσεται καὶ περισσευθήσεται, οὕτως ἀπὸ τοῦ
                             μὴ ἔχοντος καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ᾿ αὐτοῦ· εἵ τίς τε] λαβὼν τὴν
                             μνᾶν δεσμεύσει αὐτὴν ἐν σουδαρίῳ, ἀκούσεται <note type="footnote">1 Vgl.
@@ -3347,7 +3347,7 @@
 
                     <head>Zu Joh. 12, 39f.</head>
                     <lb n="15"/>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.39-12.40">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.39-12.40">
                         <p>Ὀτι γὰρ αὐτεξουσίους ἡμᾶς οἶδεν ἡ θεία γραφή, ψέγουσα μὲν ὡς παρ᾿ ἐαυτοὺς
                             ψεκτοὺς τοὺρ ἁμαρτάνοντας, ἐπαινοῦσα δὲ ὡς παρά τὴν ἑαυτῶν αἰτίαν
                             ἐπαινετοὺς τοὺς τηροῦντας τὴν θείαν ἐντολήν, ἄκουσον τί φησιν έν τῷ
@@ -3427,7 +3427,7 @@
                 <div type="textpart" subtype="fragment" n="93">
 
                     <head>Zu Joh. 13, 44.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.44">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.44">
                         <p>Καὶ τοῦτο δὲ ἐν τῇ προκειμένῃ λέξει κατανοητέον, ὅτι δύο πράγματα λέγεται
                             περὶ τοῦ σωτῆρος. πρότερον μὲν ὃ καὶ πρότερον γίνεται, πρότερον γὰρ τὸ
                             πιστεύειν εἰς αὐτόν· δεύτερον δὲ ὃ καὶ <lb n="10"/> δεύτερον ὁδῷ
@@ -3482,7 +3482,7 @@
                 <div type="textpart" subtype="fragment" n="94">
 
                     <head>Zu Joh. 12, 46.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.46">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.46">
                         <p>Ἔλαμψε μὲν γὰρ τὸ φῶς τὸ ἀληθινὸν παραγεγονὼς ὁ τοῦ κόσμου <lb n="20"/>
                             σωτήρ· οἳ δὲ οὐκ ἠθέλησαν ἐνατενίσαι πρὸς αὐτὸ οὐδὲ τῇ σελασφόρῳ αἴγλῃ
                             τῶν δογμάτων αὐτοῦ περιπατεῖν. διὸ ἀκολούθως αὐτοὺς κατέλαβεν ἡ σκοτία
@@ -3514,7 +3514,7 @@
                 <div type="textpart" subtype="fragment" n="95">
 
                     <head>Zu Joh. 12, 49 f.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.49-12.50">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.49-12.50">
                         <p>Μετὰ ταῦτα ζητήσεις, διὰ τὸ ἐν συμπλοκῇ εἰρῆσθαι· »Τί εἵπω »καὶ τί
                             λαλήσω;« πότερον διαφορὰν ἔχει τὸ εἰπεῖν καὶ τὸ λαλῆσαι <lb n="10"/> ἢ
                             ταὐτόν ἐστιν ἐκ παραλλήλου εἰρημένον. παραθήσεις οὖν τὰ ῥήματα ἐν οἷς
@@ -3538,7 +3538,7 @@
                 <div type="textpart" subtype="fragment" n="96">
 
                     <head>Zu Joh. 13, 2.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.2">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.2">
                         <p>Vgl. XXXII, 2ff. Ο. S. 426, 12ff</p>
                         <p>Inc. Ἄριστον μέν ἐστιν ἡ πρώτη καὶ πρὸ τῆς συντελείας Expl.: <lb n="30"/>
                             αὐτὸς αὐτοὺς νίψῃ.</p>
@@ -3557,7 +3557,7 @@
                 <div type="textpart" subtype="fragment" n="97">
 
                     <head>Zu Joh. 13, 8.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.8">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.8">
                         <p>Vgl. XXXII, 5 f. o. S. 435, 23. 433, 21.</p>
                         <p>Inc. Οὐκ ἀπὸ Πέτρου δὲ ἤρξατο Expl. ἐμμένειν τῷ κακῶς κριθέντι.</p>
                         <lb n="5"/>
@@ -3567,7 +3567,7 @@
                 <div type="textpart" subtype="fragment" n="98">
 
                     <head>Zu Joh. 13, 18.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.18">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.18">
                         <p>Vgl. XXXII, 14 ο. S. 448, 3.</p>
                         <p>Inc. Παραπέφρασται τὸ ῥητὸν τῆς προφητείας Expl. ὅτι τοῦτο ποιεῖ ὁ λὰξ
                             ἐντείνων τινί.</p>
@@ -3578,7 +3578,7 @@
                 <div type="textpart" subtype="fragment" n="99">
 
                     <head>Zu Joh. 13, 19.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.19">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.19">
                         <p>Vgl. XXXII, 15, S. 449, 14.</p>
                         <p>Inc. Τοῦτο γὰρ τὸ ἐσόμενόν φησιν· Expl. καὶ διὰ τοῦτο τὴν περὶ ἐμοῦ
                             γνῶσιν.</p>
@@ -3589,7 +3589,7 @@
                 <div type="textpart" subtype="fragment" n="100">
 
                     <head>Zu Joh. 12, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.31">
                         <p>Vgl. XXXII, 18, S. 456, 23.</p>
                         <p>Inc. Σημείωσαι τίνα τρόπον ἐν τοῖς ἐξεταζομένοις Expl. μετὰ δόλου ψεκτόν
                             ἐστιν.</p>
@@ -3600,7 +3600,7 @@
                 <div type="textpart" subtype="fragment" n="101">
 
                     <head>Zu Joh. 13, 27.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.27">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.27">
                         <p>Nicht von Origenes.</p>
                         <p>Inc. Τὸ δοθὲν ψωμίον ὑπὸ τοῦ Ἰησοῦ Explic. εἰσῆλθεν εἰς αὐτὸν ὁ
                             σατανᾶς.</p>
@@ -3621,7 +3621,7 @@
                 <div type="textpart" subtype="fragment" n="102">
 
                     <head>Zu Joh. 13, 30.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.30">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.30">
                         <p>Vgl. XXXII, 94, o. S. 467, 10.</p>
                         <p>Inc. Οὐ μόνον δὲ κατὰ τὸ ἁπλούστερον ἐξῆλθε Explic. Ἡμεῖς δὲ ἡμέρας ὄντες
                             νήφωμεν.</p>
@@ -3632,7 +3632,7 @@
                 <div type="textpart" subtype="fragment" n="103">
 
                     <head>Zu Joh. 13, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.31">
                         <p>Vgl. XXXII, 28 ο. S. 474, 16.</p>
                         <p>Inc. Γέγραπται· Οὐδεὶς ἔγνω τὸν υἱὸν Explic. ἐνοπτριζόμενοι τὴν αὐτὴν
                             εἰκόνα μεταμορφοῦνται.</p>
@@ -3643,7 +3643,7 @@
                 <div type="textpart" subtype="fragment" n="104">
 
                     <head>Zu Joh. 13, 33.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:13.33">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:13.33">
                         <p>Vgl. XXXII, 30 ο. S. 476, 6. 16.</p>
                         <p>Inc. Εντεῦθεν ἔστιν ἰδεῖν καὶ τῶν παραπλήσιον φωνῶν Expl. ἀπὸ τοῦ
                             τοιούτου διδασκάλου τὴν σοφίαν τοῦ θεοῦ.</p>
@@ -3654,7 +3654,7 @@
                 <div type="textpart" subtype="fragment" n="105">
 
                     <head>Zu Joh. 14, 3.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:14.3">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:14.3">
                         <p>Εναντίον εἶναι δοκεῖ τῷ προειρημένῳ. ἄνω μὲν ὡς οὐκ οὔσης τοῦ ἑτοιμάσαι
                             χρείας φησίν, ἐνταῦθα δὲ ὅτι Ἐὰν πορευθῶ, ἑτοιμάσω τόπον ὑμῖν. ὃ οὐν
                             λέγει τοιοῦτόν ἐστιν· ὅτι ὅσον πρὸς τὴν ἀφθονίαν <lb n="20"/> τῶν ἀγαθῶν
@@ -3686,7 +3686,7 @@
 
                     <lb n="10"/>
                     <head>Zu Joh. 20, 25.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:20.25">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:20.25">
                         <p>Ἔοικέ τι ἀκριβὲς καὶ ἐξητασμένον ἔχειν ὁ Θωμᾶς, ὅπερ παρίσταται καὶ ἐκ
                             τῶν ὑπ᾿ αὐτοῦ λεγομένων, ἅπερ οἶμαι αὐτὸν εἰρηκέναι μὴ ἀπιστοῦντα τοῖς
                             λέγουσι τεθεωρηκέναι τὸν κύριον, ἀλλ᾿ εὐλαβούμενον μήποτε φάντασμά ἐστι,
@@ -3787,7 +3787,7 @@
                 <div type="textpart" subtype="fragment" n="110">
 
                     <head>Zu Joh. 1, 1.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.1">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.1">
                         <p>Κυριώτερον μὲν ἦν εἰπεῖν ἐπὶ τοῦ θεοῦ λόγου τὸ · ἀλλ’ ἐπειδὴ πρὸς
                             διαφορὰν τῆς ἐνανθρωπήσεως γενομένης ἔν τινι καιρῷ ἐδήλου τὴν ὕπαρξιν
                             τοῦ λόγου, ἀντὶ τοῦ &gt;Ἔστιν&lt; τῷ »Ἦν« ἰστέον δὲ ὅτι τὰς κυρίως
@@ -3803,7 +3803,7 @@
                 <div type="textpart" subtype="fragment" n="111">
 
                     <head>Zu Joh. 1, 2.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.2">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.2">
                         <p>Καταλλήλοις τοῖς ῥήμασιν ἐχρήσατο τῷ μὲν »Ἐγένετο« ἐπὶ τῆς σαρκός, τῷ δὲ
                             »Ἠν« ἐπὶ τῆς θεότητος. τὸ δὲ δι’ αὐτοῦ οὐ διακονίας ἕνεκα κεῖται, ἀλλὰ
                             πρὸς τὸν πατέρα συνεργίας, καὶ ὅτι οὐδὲν ὑπεξαιρεῖται <lb n="15"/> τῶν
@@ -3814,7 +3814,7 @@
                 <div type="textpart" subtype="fragment" n="112">
 
                     <head>Zu Joh. 1, 4.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.4">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.4">
                         <p>Ἡ γὰρ ἐν αὐτῷ ζωτικὴ δύναμις οὐ πρὸς τὸ ζωοποιεῖν μόνον ἱκανή ἐστιν, ἀλλὰ
                             καὶ γνώσεως πληροῦν τὰς τῶν ἀνθρώπων ψυχάς, <lb n="20"/>
                             <note type="footnote">2 Vgl. S. 483, 16 — 484, 6. — 11 Vgl. Arist., de
@@ -3833,7 +3833,7 @@
                 <div type="textpart" subtype="fragment" n="113">
 
                     <head>Zu Joh. 1, 5.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.5">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.5">
                         <p>Ἡ μὲν γὰρ πρόθεσις τοῦ πέμψαντος ἦν πιστεῦσαι πάντας· εἰ δε μὴ πάντες
                             ἐπίστευσαν, καὶ τὸν φωτισμὸν <add>μὴ</add> παρεδέξαντο τοῦ <lb n="10"/> οὐκ
                             ἤδη δὲ τὸν φαίη φαίη τις ἂν μὴ ἐπὶ τοῦτο ἀνατέλλειν. οἱ μὲν γὰρ πρὸ
@@ -3849,7 +3849,7 @@
                 <div type="textpart" subtype="fragment" n="114">
 
                     <head>Zu Joh. 1, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.13">
                         <p>»Ἐξ αἱμάτων« τουτέστιν ἐξ ὑλικῶν ἔχουσι τὴν γέννησιν. τῷ γοῦν <lb n="20"/> Πέτρῳ ὁ σωτήρ φησιν ὅτι »Σὰρξ καὶ αἷμα οὐκ ἀπεκάλυψέ σοι, ἀλλ᾿ »Ο
                             πατήρ μου ὁ ἐν τοῖς ούρανοῖς«.</p>
                         <p>(Καὶ ἄλλως·) Υἱοὶ θεοῦ εἶναι λέγονται οἱ οὐκ ἐξ αἱμάτων τὰς κατὰ νόμους
@@ -3877,7 +3877,7 @@
                 <div type="textpart" subtype="fragment" n="115">
 
                     <head>Zu Joh. 1, 15.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.15">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.15">
                         <p>Τὸ δὲ »Κέκραγε« λέγων ἀντὶ τοῦ Μετὰ παρρησίας καὶ ἐλευθερίας καὶ χωρὶς
                             ὑποστολῆς ἁπάσης τὴν παρουσίαν ἐκήρυξε. τὴν δὲ κραυγὴν οὐ κατὰ τὴν
                             προφορὰν ἀλλὰ κατὰ τὸ τῆς νοήσεως <lb n="5"/> ἐπιτεταμένον. ὁ γὰρ περὶ
@@ -3889,7 +3889,7 @@
                 <div type="textpart" subtype="fragment" n="116">
 
                     <head>Zu Joh. 1, 15.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.15">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.15">
                         <p>Τὸ δὲ »Γέγονεν« ἀντὶ τοῦ &gt;γενήσεται&lt; ληπτέον. ἔθος γὰρ τοῦτο τῇ
                             γραφῇ, καθὼς εἰρήκαμεν. καὶ τὸ »Οὐ κατέλαβεν‘ ἀντὶ τοῦ οὐ
                             &gt;καταλήψεται&lt;.</p>
@@ -3899,7 +3899,7 @@
                 <div type="textpart" subtype="fragment" n="117">
 
                     <head>Zu Joh. 1, 23.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.23">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.23">
                         <p>Ὡς γὰρ προφήτης καὶ λύχνος φωτὸς προγυμνάζων καὶ ἐθίζων <lb n="15"/> τῆς
                             ψυχῆς τὸ ὄμμα τοῦ θέλοντος φωτίζεσθαι, οὕτω καὶ φωνὴ βοῶντος. »βοῶντα«
                             λέγει τὸν λόγον· φωνὴν δὲ τὸν Ἰωάννην. ἀνάγκη δὲ πρὸ τοῦ λόγου φωνὴν
@@ -3913,7 +3913,7 @@
                 <div type="textpart" subtype="fragment" n="118">
 
                     <head>Zu Joh. 1, 26.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.26">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.26">
                         <p>Μαρτυρῶν ὁ Ἰωάννης περὶ τοῦ φωτὸς ᾔδει, ὅτι καὶ θεὸς λόγος ἦν· οὗτος δὲ
                             παντὶ λογικῷ πάρεστι. τὸ δὲ διανοητικὸν ἡν], ὃ καὶ <lb n="25"/>
                             ἡγεμονικὸν καλεῖται, μεσαίτατον ἡμῶν ἔστιν· ἐκεῖ γὰρ ἐστιν ὁ ἐνδιάθετος
@@ -3933,7 +3933,7 @@
                 <div type="textpart" subtype="fragment" n="119">
 
                     <head>Zu Joh. 1, 33.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.33">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.33">
                         <p>Εἶδον μὲν καὶ οἱ παρόντες ἅπαντες, οὐ μὴν δὲ πάντες ἐπίστευον. τι.νὲς δὲ
                             φασιν οὐδὲ πάντας τεθεᾶσθαι τὸ πνεῦμα, ἀλλὰ Ἰωάννην <lb n="5"/> καὶ τοὺς
                             εὐγνωμονέστερον διακειμένους. εἰ γὰρ καὶ τοῖς αἰσθητοῖς ὀφθαλμοῖς εἶδον,
@@ -3947,7 +3947,7 @@
                 <div type="textpart" subtype="fragment" n="120">
 
                     <head>Zu Joh. 1, 51.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:1.51">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:1.51">
                         <p>Οὐκ αἰσθητῶς ἔστιν ἰδεῖν δυνατόν. ἀλλὰ διανοίᾳ σκοπούσῃ τοὺς
                             προσερχομένους ἀγγέλους μένους ἀγγέλους ἐπὶ τῷ διακονεῖν τῷ Ἰησοῦ
                             ἀναβαίνοντας <lb n="15"/> καὶ καταβαίνοντας. τὸ δὲ Ἀμὴν ὁτὲ μὲν ἁπλοῦν,
@@ -3967,7 +3967,7 @@
                 <div type="textpart" subtype="fragment" n="121">
 
                     <head>Zu Joh. 2, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:2.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:2.13">
                         <p>Τὸ μὲν ἐκ σχοινίου φραγέλλιον ὑπὸ τοῦ Ἰησοῦ γεγονὸς ὑπῆρχον <lb n="30"/>
                             αἱ τῶν παρανομούντων ἁμαρτίαι. δι᾿ ὧν ὑπὸ τοῦ Ἰησοῦ αἰκιζόμενοι <note type="footnote">7 Vgl. Matth. 17. 1ff. Mark. 9, 2 ff. Luk. 9, 28 ff.
                                 — 17 Vgl. Ps. 105, 48 (ARaT) — 22 Matth. 16, 23. — 23 Luk. 9, 27. —
@@ -3988,7 +3988,7 @@
                 <div type="textpart" subtype="fragment" n="121a">
                     <head>Zu Joh. 3, 5.</head>
                     <lb n="10"/>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.5">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.5">
                         <p>Ῥητέον ὅτι ἐΠινοίᾳ μόνῃ καὶ οὐχ ὑποστάσει τὴν διαφορὰν ἔχει τὸ ὕδωρ πρὸς
                             τὸ πνεῦμα, καθώς φησι ὁ σωτήρ· »Ὁ πιστεύων εἰς »ἐμέ, ποταμοὶ ἐκ τῆς
                             κοιλίας αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος«. τοῦτο δὲ ἔλεγε περὶ τοῦ
@@ -4006,7 +4006,7 @@
                 <div type="textpart" subtype="fragment" n="122">
 
                     <head>Zu Joh. 3, 5.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.5">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.5">
                         <p>Ο μὲν Ματθαῖος περὶ τοῦ βασιλευομένου τόπου ἔφη, ἐν ᾧ οὗτοι κληροῦνται, ὁ
                             δὲ Ἰωάννης καὶ Λουκᾶς ἀπὸ τοῦ βασιλεύοντος <lb n="25"/> θεοῦ ὠνόμασε.
                             καὶ γὰρ καὶ παρ’ ἡμῖν ἐν τῇ συνηθείᾳ ὁτὲ μὲν ἀπὸ τοῦ βασιλεύοντος, ὁτὲ
@@ -4018,7 +4018,7 @@
                 <div type="textpart" subtype="fragment" n="123">
 
                     <head>Zu Joh. 3, 11.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.11">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.11">
                         <lb n="30"/>
                         <p>Τοῖς γὰρ σπουδαίοις καὶ πίστιν καὶ ἀρετὴν ἔχουσι μόνοις ἐκείνοις
                             ἐπιφοιτᾷ· τῶν δὲ φαύλων ἀπαλλοτριουμένων μένων μακρὰν ὑπάρχει. <note type="footnote">2 Ps. 118, 61. — 3 Prov. 5, 22. — 10 Nr. XXVI. S.
@@ -4044,7 +4044,7 @@
                 <div type="textpart" subtype="fragment" n="124">
 
                     <head>Zu Joh. 3, 19.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.19">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.19">
                         <lb n="15"/>
                         <p>Τοῦτο γὰρ δοκεῖ ἐπὶ τῶν μήτε ἄγαν φαύλων μήτε κατ᾿ ἀρετὴν τελείων ὅτι τὰ
                             ἀμφότερα ἀπατῶντας μᾶλλον τὸ σκότος ἀγαπᾶν αὐτοὺς ἔστιν ἰδεῖν ἐκ ἐκ τοῦ
@@ -4064,7 +4064,7 @@
                 <div type="textpart" subtype="fragment" n="125">
 
                     <head>Zu Joh. 3, 29.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.29">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.29">
                         <lb n="30"/>
                         <p>Νύμφη ἐστὶν ἡ ἀνθρώπου ψυχή, ἥτις ἐξ ἑαυτῆς οὐδενός ἐστι τῶν ἀγαθῶν
                             γεννητική· εἰ δὲ δεκτικὴ πέφυκεν αὕτη γυναικὸς τρόπῳ ἐξ ἄλλου, γεννᾷ
@@ -4087,7 +4087,7 @@
                 <div type="textpart" subtype="fragment" n="126">
 
                     <head>Zu Joh. 3, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.31">
                         <lb n="10"/>
                         <p>Ὁ μὴ ἐπουράνιον ἔχων τὸ φρόνημα ἀλλ’ ἐπίγειος ὢν λέγεται χοϊκὸς καὶ τὴν
                             εἰκόνα τοῦ χοϊκοῦ φορεῖν. διὸ καὶ εἴ ποτε σοφίαν ἐπαγγέλλεται ἔχειν,
@@ -4098,7 +4098,7 @@
                 <div type="textpart" subtype="fragment" n="127">
                     <lb n="15"/>
                     <head>Zu Joh. 3, 35.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:3.35">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:3.35">
                         <p>Τὸ ἀγαπᾶν ἀνθρωπινώτερον πάλιν ἀκούομεν. νόμος δέ ἐστι φυσικός· ἄλλος μὲν
                             〈πρὸς〉 τὰ γεννώμενα, ἄλλος δέ πως πρὸς ἑτέρως ἀγαπώμενα. εἰ γὰρ
                             δικαιοσύνην ἀγαπᾷ ὁ θεός, <add>ἀγαπᾷ ὡς θεός</add>, ὥς Ἐγὼ θεὸς ἀγαπῶν
@@ -4115,7 +4115,7 @@
                 <div type="textpart" subtype="fragment" n="128">
 
                     <head>Zu Joh. 4, 10.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:4.10">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:4.10">
                         <p>Εστιν δὲ καὶ ἀλληγορικῶς εἰπεῖν· φρέαρ μὲν Ἰακὼβ τὴν τοῦ Μωσέως διὰ νόμου
                             διδασκαλίαν. ἔπινον δὲ ἀπ᾿ αὐτοῦ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ οἱ
                             δώδεκα πατριάρχαι καὶ οἱ ἐξ αὐτῶν λαοὶ <lb n="30"/> γεγεννημένοι. ταύτης
@@ -4136,7 +4136,7 @@
 
                     <lb n="5"/>
                     <head>Zu Joh. 5, 13.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:5.13">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:5.13">
                         <p>[Οἶδε γὰρ καὶ ὄψις μόνη τοῦ διαφθονουμένου οὐ μικρὸν τοῖς βασκαίνουσιν
                             ἐνιέναι σπινθῆρα.]</p>
                     </q>
@@ -4145,7 +4145,7 @@
                 <div type="textpart" subtype="fragment" n="130">
 
                     <head>Zu Joh. 6, 51.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:6.51">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:6.51">
                         <lb n="10"/>
                         <p>[Διὰ τοῦτο ἂν ἔμιξεν ἡμῖν . . . . καὶ τοῖς δαίμοσι γινόμενοι.]</p>
                     </q>
@@ -4154,7 +4154,7 @@
                 <div type="textpart" subtype="fragment" n="131">
 
                     <head>Zu Joh. 9, 8.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.8">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.8">
                         <p>Προσαίτης ἦν δι᾿ ἀπορίαν τῶν ἀναγκαίων καὶ ἀδυναμίαν. Τι τοιούτους δ᾿ ἂν
                             εὕροις τοὺς ἀπὸ Ἑλλήνων καὶ βαρβάρων τῶν ὠφέλειαν <lb n="15"/> καὶ τὸ
                             πορισμὸν τῆς Χριστοῦ ἀληθείας καὶ τῶν πλουσίων θεωρημά- των αὐτοῦ τὴν
@@ -4168,7 +4168,7 @@
                 <div type="textpart" subtype="fragment" n="132">
 
                     <head>Zu Joh. 9, 16.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.16">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.16">
                         <p>Εἰ ὁ μὴ τηρῶν τὸ σάββατον οὔκ ἐστιν ἀπὸ θεοῦ, οὐδὲ ἱερεῖς ὑμῶν οἱ τὸ
                             σάββατον διὰ τῆς περιτομῆς βεβηλοῦντες εἰσὶν ἀπὸ τοῦ θεοῦ.</p>
                         <note type="footnote">1 Matth. 24, 35. — 6 Vgl. Corder. p. 145, wo das Citat
@@ -4185,7 +4185,7 @@
                 <div type="textpart" subtype="fragment" n="133">
 
                     <head>Zu Joh. 9, 21.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.21">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.21">
                         <p>Ἀξιόπιστον αὐτὸν ποιήσαντες οὕτω παρεστήσαντο πρὸς τὸ διεψεῦσθαι. ἀνοίγων
                             ὁ χριστὸς τοὺς ὀφθαλμοὺς τοῦ τυφλοῦ· οὐ μικροῦ παιδίου ἠνέωξεν ἀλλὰ
                             τελείαν ἡλικίαν ἔχοντος, ἴνα καὶ βλέπῃ καὶ <lb n="5"/> ὡς ἀνὴρ
@@ -4196,7 +4196,7 @@
                 <div type="textpart" subtype="fragment" n="134">
 
                     <head>Zu Joh. 9, 27.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.27">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.27">
                         <p>Τὸ »Οὐκ ἠκούσατε« ἀντὶ τοῦ Οὐκ ἠθελήσατε παραδέξασθαι τὸ <lb n="10"/>
                             λεγόμενον. τὸ δὲ »Τί οὐν πάλιν θέλετε ἀκούειν;« ἰσοδυναμεῖ τῷ Εἰ μὴ
                             παραδέχεσθε τὰ εἰρημένα. τί πάλιν αὐτὰ απαγγέλλεσθαι μάτην ὑμῖν
@@ -4207,7 +4207,7 @@
                 <div type="textpart" subtype="fragment" n="135">
 
                     <head>Zu Joh. 9, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:9.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:9.31">
                         <lb n="15"/>
                         <p>Εἰ ἁμαρτωλῶν ὁ θεὸς οὐκ ἀκούει, πῶς ἐδίδασκεν ὁ χριστὸς λέγων τοὺς
                             ἁμαρτωλοὺς προσεύχεσθαι· »Ἄφες ἡμῖν τὰ παραπτώματα ἡμῶν, »ὡς καὶ ἡμεῖς
@@ -4222,7 +4222,7 @@
                 <div type="textpart" subtype="fragment" n="136">
 
                     <head>Zu Joh. 10, 31.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:10.31">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:10.31">
                         <lb n="25"/>
                         <p>Εἰ πρότερον ἐβάστασαν, καὶ πάλιν ἐβάστασαν. οἶμαι δὲ ὅτι καὶ ὁ κακολογῶν
                             τινα λίθους ἐπ’ αὐτὸν βάλλει. κακῶς δὲ αὐτὸν ἔλεγον καὶ σχίσμα δι᾿ αὐτὸν
@@ -4243,7 +4243,7 @@
                 <div type="textpart" subtype="fragment" n="137">
 
                     <head>Zu Joh. 11, 9.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.9">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.9">
                         <p>Ωσπερ εἰς δώδεκα ὥρας διαιρεῖται ἡ ἠμέρα, κατὰ τοῦτο καὶ οἱ δώδεκα
                             πατριάρχαι καὶ ὁ χορὸς τῶν ἀποστόλων ἰσάριθμοι τῶν ὡρῶν τῆς ἡμέρας,
                             ἔχοντες ἥλιον τὸν χριστὸν καὶ θεὸν ἡμῶν, ὅστις καὶ <lb n="10"/> νοητή
@@ -4254,7 +4254,7 @@
                 <div type="textpart" subtype="fragment" n="138">
 
                     <head>Zu Joh. 11, 54.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:11.54">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:11.54">
                         <p>Καὶ πάλιν ἐζήτουν αὐτὸν ἀποκτεῖναι, ὡς πολλάκις εἴρηται. νῦν δὲ ἐκύρωσαν
                             τὴν γνώμην καὶ † ὡς ἔργον τῷ πράγματι κέχρηνται. <lb n="15"/> πάλιν δὲ
                             ἀνθρωπίνως ἐαυτὸν σώζει, καὶ συνεχῶς ταῦτα ποιεῖ. τὴν δὲ αἰτίαν εἶπεν,
@@ -4268,7 +4268,7 @@
                 <div type="textpart" subtype="fragment" n="139">
 
                     <head>Zu Joh. 12, 2.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:12.2">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:12.2">
                         <p>Ὁ ἐπόμενος αὐτῷ διακονεῖ αὐτῷ, οὕτως δὲ διάκονος αὐτοῦ ἐστι. καὶ διὰ
                             τοῦτο ὅπου ἐστὶν ὁ λόγος, κἀκεῖ καὶ αὐτός ἐστιν. οὐ σωματικῶς
                             τικῶς<add>δὲ</add> οὐδὲ τοπικῶς τὴν ἐπαγγελίαν νοητέον. εἰ εἰ δὲ τόπον <lb n="25"/> τις ὑπολάβοι, καὶ οὗτος οὐκ ἂν ἁμάρτοι. ἐν γὰρ τοῖς
@@ -4289,7 +4289,7 @@
                 <div type="textpart" subtype="fragment" n="140">
 
                     <head>Zu Joh. 17, 11.</head>
-                    <q type="mentioned" corresp="urn:cts:greekLit:tlg0031.tlg004:17.11">
+                    <q type="mentioned" corresp="urn:cts:cjhnt:nt.64-Jn.grc001:17.11">
                         <p>Ὅτι] Τὸ »Ἓν« πολλαχῶς λέγεται καὶ καθ’ ὁμοιότητα καὶ καθ’ ἕτερα πολλά·
                             καὶ κατὰ μὲν συμφωνίαν, ὅταν εἴπῃ ὅτι »Τὸ πλῆθος τῶν πιστευσάντων ἦν ἡ
                             καρδία μία καὶ ἡ ψυχὴ μία«, καθ’ ὁμοιότητα <lb n="5"/> δέ, ὡς ὅταν λέγῃ·
