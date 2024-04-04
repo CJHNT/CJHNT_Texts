@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+            xmlns:dct="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns="http://purl.org/capitains/ns/1.0#"
+            xmlns:owl="http://www.w3.org/2002/07/owl#"
+            xmlns:bib="http://bibliotek-o.org/1.0/ontology/">
+   <identifier>urn:cts:greekLit:tlg0018</identifier>
+   <dc:title xml:lang="lat">Philo Judaeus</dc:title>
+   <dc:type>cts:textgroup</dc:type>
+   <structured-metadata>
+      <bib:AbbreviatedTitle>Philo</bib:AbbreviatedTitle>
+   </structured-metadata>
+   <members>
+      <collection path="./tlg001/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg001"/>
+      <collection path="./tlg002/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg002"/>
+      <collection path="./tlg003/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg003"/>
+      <collection path="./tlg004/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg004"/>
+      <collection path="./tlg005/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg005"/>
+      <collection path="./tlg006/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg006"/>
+      <collection path="./tlg007/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg007"/>
+      <collection path="./tlg008/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg008"/>
+      <collection path="./tlg009/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg009"/>
+      <collection path="./tlg010/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg010"/>
+      <collection path="./tlg011/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg011"/>
+      <collection path="./tlg012/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg012"/>
+      <collection path="./tlg013/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg013"/>
+      <collection path="./tlg014/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg014"/>
+      <collection path="./tlg015/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg015"/>
+      <collection path="./tlg016/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg016"/>
+      <collection path="./tlg017/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg017"/>
+      <collection path="./tlg018/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg018"/>
+      <collection path="./tlg019/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg019"/>
+      <collection path="./tlg020/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg020"/>
+      <collection path="./tlg021/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg021"/>
+      <collection path="./tlg022/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg022"/>
+      <collection path="./tlg023/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg023"/>
+      <collection path="./tlg024/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg024"/>
+      <collection path="./tlg025/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg025"/>
+      <collection path="./tlg026/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg026"/>
+      <collection path="./tlg027/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg027"/>
+      <collection path="./tlg028/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg028"/>
+      <collection path="./tlg029/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg029"/>
+      <collection path="./tlg030/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg030"/>
+      <collection path="./tlg031/__capitains__.xml"
+         identifier="urn:cts:formulae:tlg0018.tlg031"/>
+   </members>
+</collection>
