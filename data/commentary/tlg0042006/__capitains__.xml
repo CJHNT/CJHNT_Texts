@@ -12,7 +12,7 @@
    <dc:type>cts:work</dc:type>
    <members>
       <collection readable="true" path="./commentary.tlg0042006.opp-grc1.xml">
-         <identifier>urn:cts:cjhnt:commentary.tlg0042006.grc001</identifier>
+         <identifier>urn:cts:cjhnt:commentary.tlg0042006.opp-grc1</identifier>
          <parent>urn:cts:cjhnt:commentary.tlg0042006</parent>
          <dc:title xml:lang="lat">Fragmenta In Evangelium Joannis (In Catenis), Origenes Werke Vol 4, Preuschen, 1903</dc:title>
          <dc:language>grc</dc:language>

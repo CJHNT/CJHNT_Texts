@@ -15,5 +15,7 @@
    <members>
       <collection path="./tlg0042006/__capitains__.xml"
          identifier="urn:cts:cjhnt:commentary.tlg0042006"/>
+      <collection path="./1tim/__capitains__.xml"
+         identifier="urn:cts:cjhnt:commentary.1tim"/>
    </members>
 </collection>

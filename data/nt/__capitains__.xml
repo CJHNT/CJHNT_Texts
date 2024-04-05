@@ -15,5 +15,7 @@
    <members>
       <collection path="./64-Jn/__capitains__.xml"
          identifier="urn:cts:cjhnt:nt.64-Jn"/>
+      <collection path="./75-1Ti/__capitains__.xml"
+         identifier="urn:cts:cjhnt:nt.75-1Ti"/>
    </members>
 </collection>

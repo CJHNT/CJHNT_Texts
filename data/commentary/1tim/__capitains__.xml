@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts"
+            xmlns:dct="http://purl.org/dc/terms/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns="http://purl.org/capitains/ns/1.0#"
+            xmlns:owl="http://www.w3.org/2002/07/owl#"
+            xmlns:bib="http://bibliotek-o.org/1.0/ontology/">
+   <identifier>urn:cts:cjhnt:commentary.1tim</identifier>
+   <parent>urn:cts:cjhnt:commentary</parent>
+   <dc:title xml:lang="deu">CJHNT Commentary on 1 Timothy</dc:title>
+   <dc:type>cts:work</dc:type>
+   <dc:contributor>Karl-Wilhelm Niebuhr</dc:contributor>
+   <dc:contributor>Jan Quenstedt</dc:contributor>
+   <members>
+      <collection readable="true" path="./commentary.1tim.deu001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.deu001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="lat">CJHNT Commentary on 1 Timothy</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>cts:edition</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+   </members>
+</collection>

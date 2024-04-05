@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts"
-            xmlns:dct="http://purl.org/dc/terms/"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns="http://purl.org/capitains/ns/1.0#"
-            xmlns:owl="http://www.w3.org/2002/07/owl#"
-            xmlns:bib="http://bibliotek-o.org/1.0/ontology/">
+<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts" xmlns:dct="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://purl.org/capitains/ns/1.0#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:bib="http://bibliotek-o.org/1.0/ontology/">
    <identifier>urn:cts:greekLit:tlg0018.tlg019</identifier>
    <parent>urn:cts:greekLit:tlg0018</parent>
    <dc:title xml:lang="lat">De Somniis (Lib. I-II)</dc:title>
    <dc:type>cts:work</dc:type>
    <members>
-      <collection readable="true" path="./urn:cts:greekLit:tlg0018.tlg019.opp-grc1.xml">
+      <collection readable="true" path="./tlg0018.tlg019.opp-grc1.xml">
          <identifier>urn:cts:greekLit:tlg0018.tlg019.opp-grc1</identifier>
          <parent>urn:cts:greekLit:tlg0018.tlg019</parent>
          <dc:title xml:lang="lat">De Somniis (Lib. I-II)</dc:title>
