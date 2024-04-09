@@ -19,5 +19,13 @@
          <dc:type>cts:edition</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
+      <collection readable="true" path="./nt.75-1Ti.eng001.xml">
+         <identifier>urn:cts:cjhnt:nt.75-1Ti.eng001</identifier>
+         <parent>urn:cts:cjhnt:nt.75-1Ti</parent>
+         <dc:title xml:lang="eng">1 Timothy (eng)</dc:title>
+         <dc:language>eng</dc:language>
+         <dc:type>cts:translation</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
    </members>
 </collection>
