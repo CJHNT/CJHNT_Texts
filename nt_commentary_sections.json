@@ -1,0 +1,54 @@
+{
+	"urn:cts:cjhnt:nt.75-1Ti.grc001": {
+		"1.1": [
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"1.1"
+			],
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"1.2"
+			]
+		],
+		"1.2": [
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"1.3"
+			],
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"1.4"
+			]
+		],
+		"1.3": [
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.1"
+			]
+		],
+		"1.4": [
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.2"
+			],
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.3"
+			],
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.4"
+			]
+		],
+		"1.5": [
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.5"
+			],
+			[
+				"urn:cts:cjhnt:commentary.1tim.deu001",
+				"2.6"
+			]
+		]
+	}
+}
