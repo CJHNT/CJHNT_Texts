@@ -62,7 +62,7 @@
               n="urn:cts:cjhnt:commentary.1tim.deu001">
             <div type="textpart" subtype="commentary_section" n="1" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1-1.2">
                <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
-               <div type="textpart" subtype="commentary_section" n="1" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1">
+               <div type="textpart" subtype="commentary_section" n="1" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;7-8">
                   <head type="cjh-Überschrift-2">1,1/1 Gott, der Retter: θεός σωτήρ</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">B</p>
@@ -82,7 +82,7 @@
                   <p xml:space="preserve">E</p>
                   <p xml:space="preserve">Der einzige paulinische Beleg für σωτὴρ (Phil 3,20) bezieht sich auf Christus. Der Bezug auf Gott im 1Tim und die wechselnden Bezüge in den Pastoralbriefen insgesamt spiegeln den divergenten Befund innerhalb des jüd.-hell. Schrifttums. Auch zur Zeit der Entstehung der Pastoralbriefe war die Zuordnung wichtiger Prädikate zu Gott oder Christus noch im Fluss.</p>
                </div>
-               <div type="textpart" subtype="commentary_section" n="1a" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1">
+               <div type="textpart" subtype="commentary_section" n="1a" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;7-8">
                   <head type="cjh-Überschrift-2">1,1/1 Gott, der Retter: θεός σωτήρ</head>
                   <label>(D) Präsentation ausgewählter Belegstellen</label>
                   <p xml:space="preserve">1. Gott als Retter in der Schlacht (1Makk 4,30)</p>
@@ -103,7 +103,7 @@
                   <p xml:space="preserve">Die hier präsentierten Belege aus den Apokryphen und Philo spiegeln den differenzierten Gebrauch des Terminus im Umfeld des NT: Gott als politischer Retter im 1Makk (4,30) und der explizit nicht in Bezug auf den Gott der sinnlich-wahrnehmbaren Welt verwandte σωτήρ-Begriff bei Philo (Sobr 55).</p>
                   
                </div>                   
-               <div type="textpart" subtype="commentary_section" n="2" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1">
+               <div type="textpart" subtype="commentary_section" n="2" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;13-14">
                   <head type="cjh-Überschrift-2">1,1/2 Der Messias als ἐλπίς</head>
                   <p xml:space="preserve">Α</p>
                   <p xml:space="preserve">Β</p>
@@ -117,7 +117,7 @@
                   <p xml:space="preserve">E</p>
                   <p xml:space="preserve">Aufgrund der Parallele im 1Hen lässt sich zum einen weder behaupten, die Gleichsetzung von Hoffnung und dem Messias/dem Menschensohn sei ein Unikum. Zum anderen macht sie deutlich, dass die für das christl. Selbstverständnis naheliegende Identifikation alles andere als die Regel ist.</p>
                </div>               
-               <div type="textpart" subtype="commentary_section" n="3" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2">
+               <div type="textpart" subtype="commentary_section" n="3" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2;1-5">
                   <head type="cjh-Überschrift-2">1,2/1 Timotheus, das wahre Kind im Glauben</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">B</p>
@@ -134,7 +134,7 @@
                   <p xml:space="preserve">E</p>
                   <p xml:space="preserve">Die Philo-Parallele verdeutlicht den Stellenwert des wahren (γνήσιος) Kindes. Letztlich steht ein solcher tugendhafter Mensch noch über den leiblichen und ehelichen Nachkommen. γνήσιος bezeichnet damit die höchstmögliche Qualifikation und Eignung für eine bestimmte Aufgabe und dürfte in diesem Sinne auch in 1Tim 1,2 gebraucht sein.</p>
                </div>               
-               <div type="textpart" subtype="commentary_section" n="4" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2">
+               <div type="textpart" subtype="commentary_section" n="4" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2;6-8">
                   <head type="cjh-Überschrift-2">1,2/2 Zur dreiteiligen Grußformel χάρις ἔλεος εἰρήνη</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">B</p>
@@ -145,7 +145,7 @@
             </div>
             <div type="textpart" subtype="commentary_section" n="2" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.3-1.20">
                <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>               
-               <div type="textpart" subtype="commentary_section" n="1" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.3">
+               <div type="textpart" subtype="commentary_section" n="1" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.3;14">
                   <head type="cjh-Überschrift-2">1,3 Die andere/falsche Lehre (ἑτεροδιδασκαλεῖν)</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">Günter Haufe, Gnostische Irrlehre und ihre Abwehr in den Pastoralbriefen, in: Tröger, K.‑W. (Hg.), Gnosis und Neues Testament, Berlin 1973, 325–339 • Thomas Söding, Mysterium fidei. Zur Auseinandersetzung mit der „Gnosis“ in den Pastoralbriefen, IKaZ Communio 26 (1997), 502–524 • Gerd Häfner, Die Gegner in den Pastoralbriefen und die Paulusakten, ZNW 92 (2001), 64–77 • Jens Herzer, Juden – Christen – Gnostiker. Zur Gegnerproblematik der Pastoralbriefe, BThZ 25 (2008), 143–168.</p>
@@ -165,7 +165,7 @@
                   <p xml:space="preserve">E</p>
                   <p xml:space="preserve">Mit dem am Beginn des Proömiums programmatischen, an Timotheus gerichteten Auftrag, das ἑτεροδιδασκαλεῖν „einiger“ zu untersagen, ist auf das Grundproblem hingewiesen, das den Brief durchzieht, in 6,3 noch einmal aufgenommen und in 6,20 konkret auf die „fälschlich sogenannte Gnosis“ bezogen wird. Die verschiedenen ekklesiologischen bzw. theologischen Aspekte des Briefes stehen dazu in einem engen Verhältnis und sind vor diesem Hintergrund zu verstehen. Der Kontrast zu den Stellen der jüd. Lit., in denen von „abweichenden Meinungen“ die Rede ist, welche vorwiegend auf unterschiedliche und gruppenspezifische Auffassungen im Blick auf Gesetzesauslegung bzw. Reinheitsvorschriften abheben, unterstützt diese Vermutung.</p>
                </div>               
-               <div type="textpart" subtype="commentary_section" n="2" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4">
+               <div type="textpart" subtype="commentary_section" n="2" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;3-6">
                   <head type="cjh-Überschrift-2">1,4/1 Endlose (ἀπέραντος) Mythen und Genealogien</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">Marianne Bjelland Kartzow, Gossip and Gender: Othering of Speech in the Pastoral Epistles, BZNW 164, Berlin/New York 2009.</p>
@@ -185,7 +185,7 @@
                   <p xml:space="preserve">(phH) 1 Zusammengesetzt aus λόγος <seg type="italic;">Wort</seg> und ἰατρεία <seg type="italic;">ärztliche Behandlung</seg>. 2 Liddell-Scott: <seg type="italic;">dealer with words</seg>; zweite Belegstelle Philostr. VS I.23.1.; λόγος + πώλης <seg type="italic;">Händler</seg>. 3 Liddell-Scott: <seg type="italic;">word-catcher</seg>; Neologismus: weiter keine Belegstellen, einzige Referenz Philon; Neologismus: λόγος + θήρα <seg type="italic;">Jäger</seg>. 4 Liddell-Scott: <seg type="italic;">fight for syllables</seg>; weitere Belegstelle: Fr.73H.; συλλαβή + μάχομαι  <seg type="italic;">kämpfen</seg>, <seg type="italic;">disputieren</seg>.</p>
                   <p xml:space="preserve">(Übs) Wie nämlich bei Ärzten die so genannte Logiatreia weit von dem Nutzen für die Kranken fernsteht – denn durch Heilmittel und die Chirurgie und Diäten, nicht aber durch Worte werden die Kranken geheilt –, so gibt es auch in der Philosophie bloß Worthändler und einige Wortjäger, die weder das mit Krankheiten beladene Leben heilen wollen noch sich darum bemühen, sondern ohne zu erröten von frühester Jugend bis zum letzten Greisenalter ihre Meinung ändern und auch mit Silben streiten, gleich als ob die Glückseligkeit von der sowohl unbegrenzten als auch endlosen Kleinlichkeit der Wörter und Zeichen abhinge, aber nicht davon, dass man die Gesinnung, den Ursprung des menschlichen Lebens, besser einsetzt, indem man seine eigenen Laster verjagt, die Tugenden aber einrichtet.</p>
                </div>
-               <div type="textpart" subtype="commentary_section" n="3" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4">
+               <div type="textpart" subtype="commentary_section" n="3" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;3-5">
                   <head type="cjh-Überschrift-2">1,4/2 Kritik an Mythen und Genealogien (μῦθοι καὶ γενεαλογίαι)</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">Francis H. Colson, „Myths and Genealogies“ – A Note on the Polemic of the Pastoral Epistles, JThS 19 (1918), 265–271 • Gerhard Kittel, Die γενεαλογίαι der Pastoralbriefe, ZNW 20 (1921), 49–69 • Philipp H. Towner, Gnosis and Realized Eschatology in Ephesus (of the Pastoral Epistles) and the Corinthian Enthusiasm, JSNT 31 (1987), 95–124 (weiterhin vgl. Lit. zu 1,3).</p>
@@ -216,7 +216,7 @@
                   <p xml:space="preserve">E</p>
                   <p xml:space="preserve">Die Art und Weise, wie der Begriff der Genealogie in jüd. Schriften gebraucht wird, zeigt den Unterschied zu seiner negativen Bewertung innerhalb der Pastoralbriefe. Die Tatsache, dass die als häretisch bewertete Position vor allem im 1Tim (vgl. die andere, auf Auseinandersetzungen um das Gesetz bezogene Akzentuierung in Tit 3,9) durch das Lexem μῦθοι καὶ γενεαλογίαι auf einen offenbar charakteristischen Punkt gebracht werden kann, legt angesichts der keineswegs zentralen Bedeutung von Genealogien im Judentum nahe, nicht an einen spezifisch jüd. Kontext zu denken, sondern eine bereits spezifisch gnostische Prägung anzunehmen (vgl. 1Tim 6,20), so dass die Verbindung μῦθοι καὶ γενεαλογίαι in 1Tim 1,4 als ein Hendiadyoin verstanden werden kann.</p>
                </div>
-               <div type="textpart" subtype="commentary_section" n="4" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4">
+               <div type="textpart" subtype="commentary_section" n="4" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;11-13">
                   <head type="cjh-Überschrift-2">1,4/3 Die οἰκονομία Gottes</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">Karin Lehmeier, Oikos und Oikonomia. Antike Konzepte der Haushaltsführung und der Bau der Gemeinde bei Paulus, MThS 92, Marburg 2006 • Jens Herzer, Rearranging the „House of God“. A New Perspective on the Pastoral Epistles, in: Alberdina Houtman, Albert de Jong, Magda Misset-van de Weg (Hg.), Empsychoi Logoi – Religious Innovations in Antiquity. Studies in Honour of Pieter Willem van der Horst, Ancient Judaism and Early Christianity 73, Leiden 2008, 547–566.</p>
@@ -233,7 +233,7 @@
                   <p xml:space="preserve">(txt) […] γινώσκειν δὲ δεῖ, διότι θεὸς τὸν πάντα κόσμον διοικεῖ μετ᾽ εὐμενείας καὶ χωρὶς ὀργῆς ἁπάσης· τούτῳ δὲ κατακολουθεῖν ἀναγκαῖόν ἐστί σε, ἔφησεν, ὦ βασιλεῦ.</p>
                   <p xml:space="preserve">(Übs) […] Man muss aber wissen, dass Gott die ganze Welt mit Wohlwollen und ohne jeden Zorn regiert. Dem aber, sagte er, musst du, o König, nachfolgen. </p>
                </div>
-               <div type="textpart" subtype="commentary_section" n="5" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5">
+               <div type="textpart" subtype="commentary_section" n="5" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5;1-7">
                   <head type="cjh-Überschrift-2">1,5/1 Liebe als Ziel der Ermahnung</head>
                   <p xml:space="preserve">B</p>
                   <p xml:space="preserve" n="quellen">|4| <ref cRef="urn:cts:greekLit:tlg0018.tlg008.1st1K-grc1" target="67-69">Imm 67–69</ref> |7| <seg type="platzhalter;">TestAss 2,4</seg> |8| <seg type="platzhalter;">ApkSedr 1,17</seg></p>
@@ -253,7 +253,7 @@
                   <p xml:space="preserve">(txt) καίγε ἀγάπη οὖσα πονηρία ἐστι, συγκρύπτουσα τὸ κακὸν· ὅπερ ἐστὶ τῷ ὀνόματι ὡς καλόν, τὸ δὲ τέλος τῆς πράξεως ἔρχεται εἰς κακόν.</p>
                   <p xml:space="preserve">(Übs) Es gibt Schlechtigkeit, sogar wenn Liebe da ist und das Böse verbirgt. Gerade bei dem, was dem Namen nach gut ist, läuft die Vollendung des Tuns aufs Böse hinaus.</p>
                </div>
-               <div type="textpart" subtype="commentary_section" n="6" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5">
+               <div type="textpart" subtype="commentary_section" n="6" source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5;8-16">
                   <head type="cjh-Überschrift-2">1,5/2 Reines Herz, gutes Gewissen, ungeheuchelter Glaube</head>
                   <p xml:space="preserve">A</p>
                   <p xml:space="preserve">Hans-Joachim Eckstein, Der Begriff Syneidesis bei Paulus. Eine neutestamentlich-exegetische Untersuchung zum ‚Gewissensbegriff‘, WUNT II/10, Tübingen 1983.</p>
