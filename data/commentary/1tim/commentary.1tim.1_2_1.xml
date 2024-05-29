@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title>Kommentar zu 1. Timotheus 1,2</title>
+            <title xml:lang="eng">Commentary on 1 Timothy 1:2</title>
+            <author>Dr. Roland Deines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1Tim_1_2_1</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Dr. Roland Deines</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-04-24"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="commentary_section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_2_1">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2" n="1">
+               <head type="cjh-Überschrift-2">1,2/1 Timotheus, das wahre Kind im Glauben</head>
+               <div type="sectionA">
+                  <p/>
+               </div>
+               <div type="sectionB">
+                  <p> |<seg type="beleg-section" n="Philo">4</seg>|
+                <seg type="belegstelle">Abr 168</seg>; <seg type="belegstelle">Congr 53</seg>; <seg type="belegstelle">SpecLeg IV 184</seg>; <seg type="belegstelle">Virt 59</seg>; <seg type="belegstelle-erläutert">VitCont 72</seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p> Der Verfasser des 1Tim spricht
+                von Kindschaft im übertragenen Sinne. Vergleichbar fragt Philo nach dem
+                geistig-philosophischen Sinn hinter den biblischen Texten. Seine Abhandlung „über
+                das betrachtende Leben“ befasst sich mit der Gemeinschaft der Therapeuten
+                (vermutlich Essener). Von daher legt sich nahe, nach Berührungen zum ersten Brief
+                des Timotheus an die junge Gemeinschaft der Christen zu fragen: Wer sind die wahren
+                (γνήσιοι) Mitglieder der Gemeinde?</p>
+               </div>
+               <div type="sectionD">
+                  <head type="cjh-Überschrift-3D"/>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">Philo zur besonderen Stellung ehelicher Kinder (VitCont
+                72)</head>
+                     <div source="VitCont 72" type="texteinleitung">
+                        <p> Um den
+                Stellenwert des „wahren Kindes“ zu verdeutlichen, bemüht Philo eine Hierarchie: Der
+                Sklave leistet Dienste aus Pflicht. Dem Sklaven aber bleiben wie dem einfachen
+                Freien bestimmte Dienste verschlossen. Für diese kommen nicht einmal alle
+                Blutsverwandten in Frage.</p>
+                        <p>Nur eheliche Kinder und die ihnen aufgrund ihres Charakters und
+                ihrer Tugend gleichgestellten besonders ausgewählten jungen Leute dürfen diese
+                Dienste tun.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>οὐδὲ γὰρ οἱ τυχόντες ἐλεύθεροι τάττονται πρὸς ταῖς
+                ὑπουργίαις ταύταις, ἀλλ᾽οἱ νέοι τῶν ἐν τῷ συστήματι μετὰ πάσης ἐπιμελείας ἀριστίνδην
+                ἐπικριθέντες, ὃν χρὴ τρόπον<ref type="erläuterungPointer" target="d2e77">1</ref> ἀστείους καὶ εὐγενεῖς πρὸς
+                ἄκραν ἀρετὴν ἐπειγομένους<ref type="erläuterungPointer" target="d2e80">2</ref>· οἳ καθάπερ υἱοὶ γνήσιοι
+                φιλοτίμως ἄσμενοι πατράσι καὶ μητράσιν ὑπουργοῦσι, κοινοὺς αὑτῶν γονεῖς νομίζοντες
+                οἰκειοτέρους τῶν ἀφ᾽αἵματος, εἴ γε καλοκἀγαθίασ οὐδὲν οἰκειότερόν ἐστι τοῖς εὖ
+                φρονοῦσιν· ἄζωστοι δὲ καὶ καθειμένοι τοὺς χιτωνίσκους εἰσίασιν ὑπηρετήσοντες, ἕνεκα
+                τοῦ μηδὲν εἴδωλον ἐπιφέρεσθαι δουλοπρεποῦς σχήματος.</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d2e77" n="1"> (τόν) τρόπον ist hier Adv.
+                als Acc. limitationis: auf die Weise, dem Charakter nach.
+                           </note>
+                           <note type="zitatErläuterung" xml:id="d2e80" n="2"> Wörtlich: die zur höchsten Tugend eilen.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Denn nicht einmal die einfachen freien Leute sind
+                bestimmt für diese Dienstleistungen, sondern die Jungen aus der Gruppe, die mit
+                höchster Sorgfalt nach ihrer Tüchtigkeit ausgewählt werden, von solchem Charakter,
+                wie er für Gebildete und Edle nötig ist, die die höchste Tugend anstreben. Diese
+                (Auserwählten) leisten eifrig erfreut Dienste, gleichwie eheliche Söhne ihren Vätern
+                und Müttern, die ihre gemeinsamen Eltern für vertrauter halten als die aus der
+                Verwandtschaft, weil gewiss den Gutgesinnten nichts vertrauter ist als das Wesen
+                eines edlen Mannes. Ungegürtet und mit herabhängenden kurzen Untergewändern treten
+                sie auf, um zu dienen, damit kein Bild einer einem Sklaven entsprechenden Gestalt
+                dargelegt wird.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p> Die Philo-Parallele verdeutlicht den
+                Stellenwert des wahren (γνήσιος) Kindes. Letztlich steht ein solcher tugendhafter
+                Mensch noch über den leiblichen und ehelichen Nachkommen. γνήσιος bezeichnet damit
+                die höchstmögliche Qualifikation und Eignung für eine bestimmte Aufgabe und dürfte
+                in diesem Sinne auch in 1Tim 1,2 gebraucht sein.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

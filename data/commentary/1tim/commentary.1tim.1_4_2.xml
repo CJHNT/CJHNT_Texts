@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title>Kommentar zu 1. Timotheus 1,4</title>
+            <title xml:lang="eng">Commentary on 1 Timothy 1:4</title>
+            <author>Dr. Roland Deines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1Tim_1_4_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Dr. Roland Deines</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-04-24"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="commentary_section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_4_2">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;" n="2">
+               <head type="cjh-Überschrift-2">1,4/2 Kritik an Mythen und Genealogien (μῦθοι καὶ
+                γενεαλογίαι)</head>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">Francis H. Colson</seg>, „Myths and Genealogies“ – A Note
+                on the Polemic of the Pastoral Epistles, JThS 19 (1918), 265–271 • <seg type="cjh-Autorennamen">Gerhard Kittel</seg>, Die γενεαλογίαι der Pastoralbriefe,
+                ZNW 20 (1921), 49–69 • <seg type="cjh-Autorennamen">Philipp H. Towner</seg>, Gnosis
+                and Realized Eschatology in Ephesus (of the Pastoral Epistles) and the Corinthian
+                Enthusiasm, JSNT 31 (1987), 95–124 (weiterhin vgl. Lit. zu 1,3).</p>
+               </div>
+               <div type="sectionB">
+                  <p> |<seg type="beleg-section" n="Hellenistisch-jüdische Autoren: Fragmente">3</seg>|
+                <seg type="belegstelle-erläutert">AristobExeg 2,2–3</seg> |<seg type="beleg-section" n="Philo">4</seg>| <seg type="belegstelle-erläutert">Abr 31–33</seg>; <seg type="belegstelle">VitMos II 42</seg> | <seg type="belegstelle">Congr 44</seg> | <seg type="belegstelle-erläutert">QuaestGen I 96</seg> |<seg type="beleg-section" n="Josephus">5</seg>| <seg type="belegstelle">Bell I 476</seg>; <seg type="belegstelle">III 430</seg>; <seg type="belegstelle">Ant I
+                                            22</seg>; <seg type="belegstelle-erläutert">XI 68–71</seg>; <seg type="belegstelle">341</seg>; <seg type="belegstelle">Ap I 16</seg>; <seg type="belegstelle">II 256</seg> |<seg type="beleg-section" n="Texte mit zweifelhaftem jüdischem Ursprung">8</seg>| <seg type="belegstelle">TestSal (D) 1,12</seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p> Ein Problem der Beurteilung des
+                Lexems μῦθοι καὶ γενεαλογίαι bzw. der Einzelbegriffe in den Pastoralbriefen ist die
+                Frage nach dem vorauszusetzenden Hintergrund einer eher jüd. oder spezifischeren
+                gnostischen bzw. jüdisch-gnostischen Prägung. Beide Begriffe werden entweder einzeln
+                (2Tim; Tit) oder in der seltenen und dadurch charakteristischen Zusammenstellung
+                ausschließlich zur Charakterisierung der vom Glauben bzw. der rechten Lehre
+                Abweichenden verwendet. Der negative Unterton wird in 1Tim 1,4 durch das Attribut
+                „endlos“ angezeigt. Die Verbindung beider Begriffe findet sich im Corpus der
+                jüd.-hell. und biblischen Lit. nur im 1Tim (vgl. aber z.B. Polybios IX 2,1), später
+                dann erst in der davon abhängigen christl. Literatur.</p>
+                  <p>Philo (Belege vollständig) interpretiert den Begriff γενεαλογία allegorisch (Abr 31–33, QuaestGen I 96) und mit ethischer Ausrichtung. In VitMos 2,47 unterscheidet er – wohl in Anlehnung an den bei Polybios IX 1,4 benannten γενεαλογικός τρόπος – die Genesis in einen Schöpfungsbericht und ein γενεαλογικόν als Geschichte der Erzfamilien. Josephus (Belege vollständig) veranschaulicht in Ant XI 71 im Unterschied zum ntl. Gebrauch positiv die Bedeutung des Abstammungsnachweises in frühjüd. Perspektive, wie er in der Tradition Esras und Nehemias besonders hinsichtlich der Mischehenproblematik auch in anderen Schriften zu finden ist, ohne dass immer der Begriff der Genealogie verwendet werden muss (vgl. z.B. 4Bar 8,4–5). Einen vergleichbaren Duktus hat der Bezug zur Genealogie der Samaritaner in Ant XI 341. Ohne den Begriff γενεαλογία zu gebrauchen wird in einer jüd. Praxis konformen Weise der Stammbaum Jesu in Mt 1,1–17 und Lk 3,23–38 angeführt; TestSal (D) 1,12 greift dies als christl. Schrift auf, wenn von der „Kette der Genealogie“ von David bis Jesus Christus die Rede ist. In den Apokryphen und Pseudepigraphen ist γενεαλογία sonst nicht belegt. </p>
+                  <p>Häufiger,
+                wenngleich wenig spezifisch geprägt ist der meist pluralisch gebrauchte Begriff
+                μῦθος, der z.B. in Ap II 256 erfundene, die rechte Gotteserkenntnis behindernde
+                Göttergeschichten der Griechen bezeichnet (vgl. Bell III 420). In Ant I 22
+                werden im Gegenüber zu Mose die Lehren „anderer Gesetzgeber“ als μῦθοι
+                bezeichnet (ähnlich Philo Opif 1–2 u.v.a.: Mythen sind menschliche Erfindungen).
+                AristobExeg 2,2–3 warnt vor falschen Gottesvorstellungen, die als Mythen
+                menschlicher Natur sind.</p>
+               </div>
+               <div type="sectionD">
+                  <head type="cjh-Überschrift-3D"/>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">1. Warnung vor menschlichen Mythen über Gott
+                (AristobExeg 2,2–3)</head>
+                     <div source="AristobExeg 2,2-3" type="texteinleitung">
+                        <p> In
+                AristobExeg 2 wird die Vertrautheit des Aristobulos – neben der eigenen jüd.
+                Tradition – mit aristotelischer Philosophie notiert. In einer an König Ptolemaios
+                adressierten Rede über das Gesetz sagt er:</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>παρακαλέσαι δέ σε βούλομαι πρὸς τὸ φυσικῶς λαμβάνειν τὰς
+                ἐκδοχὰς καὶ τὴν ἁρμόζουσαν ἔννοιαν περὶ θεοῦ κρατεῖν, καὶ μὴ ἐκπίπτειν εἰς τὸ
+                μυθῶδες καὶ ἀνθρώπινον κατάστημα. (3) πολλαχῶς γὰρ ὃ βούλεται λέγειν ὁ νομοθέτης
+                ἡμῶν Μωσῆς ἐφ᾽ ἑτέρων πραγμάτων λόγους ποιούμενος λέγω δὲ τῶν κατὰ τὴν ἐπιφάνειαν,
+                φυσικὰς διαθέσεις ἀπαγγέλλει καὶ μεγάλων πραγμάτων κατασκευάς.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Ich möchte dich aber dazu ermuntern, die Überlieferungen
+                in natürlicher Weise hinzunehmen und die zusammenpassende Gesinnung über Gott
+                festzuhalten und nicht in den fabulierenden und menschlichen Zustand zu verfallen.
+                (3) Denn vielfältig ist, was unser Gesetzgeber Moses sagen will; indem er über
+                andere Sachen redet – ich meine hinsichtlich deren Erscheinungsform – berichtet er
+                über die natürlichen Zustände und die Beschaffenheit großer Dinge.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">2. Die Genealogie des tugendhaften Menschen bei Philo</head>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">2.1 Genealogien als Verzeichnisse der Tugendhaften (Abr
+                31–33)</head>
+                        <div source="Abr 31-33" type="texteinleitung">
+                           <p> In Abr 31–33
+                bietet Philo eine allegorische Interpretation der Genealogien der Urgeschichte, die
+                nicht auf die menschliche Generationenfolge selbst abhebt, sondern auf eine
+                Genealogie des tugendhaften Menschen. Eine Erläuterung dazu findet sich in
+                QuaestGen I 97.</p>
+                        </div>
+                        <div type="cjh-ZitatGriech">
+                           <p>οὕτως δ᾽ ἀποσεμνύνει τὸν φιλάρετον, ὥστε καὶ γενεαλογῶν αὐτὸν
+                οὐ, καθάπερ ἔθος ἐπὶ τῶν ἄλλων, πάππων ἢ προπάππων ἢ προγόνων ποιεῖται κατάλογον,
+                ὅσοι πρὸς ἀνδρῶν ἢ πρὸς γυναικῶν εἰσιν, ἀλλά τινων ἀρετῶν, μόνον οὐχὶ βοῶν ἄντικρυς,
+                ὅτι οἰκία καὶ συγγένεια καὶ πατρὶς οὐδεμία ἐστὶν ἑτέρα σοφῷ ὅτι μὴ ἀρεταὶ καὶ αἱ
+                κατ᾽ ἀρετὰς πράξεις· „αὗται“ γάρ φησιν „αἱ γενέσεις Νῶε· Νῶε ἄνθρωπος δίκαιος,
+                τέλειος ἐν τῇ γενεᾷ αὐτοῦ, τῷ θεῷ εὐηρέστησεν“ (32) οὐ δεῖ δὲ ἀγνοεῖν, ὅτι νῦν
+                „ἄνθρωπον“ οὐ κοινῷ τύπῳ τὸ λογικὸν θνητὸν ζῷον καλεῖ, τὸν μέντοι κατ᾽ ἐξοχήν, ὃς
+                ἐπαληθεύει τοὔνομα τὰ ἀτίθασα καὶ λελυττηκότα πάθη καὶ τὰς θηριωδεστάτας κακίας τῆς
+                ψυχῆς ἀπεληλακώς. (33) σημεῖον δέ· μετὰ τὸν „ἄνθρωπον“ ἐπιλέγει τὸν „δίκαιον“ εἰπὼν
+                „ἄνθρωπος δίκαιος“, ὡς ἀδίκου μὲν οὐδενὸς ὄντος ἀνθρώπου κυριώτερον δ᾽ εἰπεῖν
+                ἀνθρωπομόρφου θηρίου, μόνου δὲ ὃς ἂν ζηλωτὴς ᾖ δικαιοσύνης.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>Er preist aber den Tugendfreund (sc. Noah) in der Weise,
+                dass er während der Ermittlung von dessen Herkunft nicht, ganz so wie es seine
+                Gewohnheit bei anderen ist, ein Verzeichnis von Ahnen oder Urahnen oder Vorfahren
+                erstellt, wie viele von den Männern oder den Frauen abstammen, sondern (ein
+                Verzeichnis) einiger Tugenden, während er beinahe geradewegs kundtut, dass für einen
+                Weisen Häuser, Verwandtschaft und Heimat nichts anderes sind als Tugenden und
+                Handlungen gemäß den Tugenden. „Diese sind“, sagt er nämlich, „die Geschlechter
+                Noahs. Noah, ein gerechter Mann, vollkommen in seinem Zeitalter, war gottgefällig.“
+                (32) Man muss aber wohl wissen, dass er nun mit „Mensch“ nicht nach allgemeinem Bild
+                das vernünftige, sterbliche Lebewesen benennt, sondern vorzugsweise den, der den
+                Namen bestätigt, indem er die ungezähmten und tollen Begierden und die tierischen
+                Laster der Seele vertrieben hat. (33) Der Beweis ist: Nach „Mensch“ fügt er
+                „gerecht“ hinzu und sagt „gerechter Mensch“, weil kein Ungerechter ein Mensch ist –
+                es wäre passender zu sagen: menschlich gestaltetes Tier –, sondern der allein, der
+                ein Verehrer der Gerechtigkeit ist.</p>
+                        </div>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">2.2
+                Noahs Ursprung in der Tugend (QuaestGen I 96)</head>
+                        <div source="QuastGen I 96" type="texteinleitung">
+                           <p> Obwohl auch
+                von Noah ein Stammbaum überliefert ist (Gen 5,1–32), interpretiert Philo die
+                Tatsache, dass er als einziger seiner Generation als gerechter Mann gilt (Gen 6,9),
+                allegorisch und führt seinen wahren Ursprung auf die Tugend zurück.</p>
+                        </div>
+                        <div type="cjh-ZitatGriech">
+                           <p>[…] Διὸ καὶ ἀπὸ τῶν ἀρετῶν αὐτὸν γενεαλογεῖ· τοῦ γὰρ σπουδαίου
+                τὸ πρὸς ἀλήθειαν γένος ἐστὶν ἀρετή. Πρὸς ὃν καὶ φησι· „καιρὸς παντὸς ἀνθρώπου ἣκει
+                ἐναντίον ἐμοῦ.“ Ὄντως γὰρ οὐδὲν ὡς ἀδικία πρὸς τὸν θεὸν ἐναντίον.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>[…] Deshalb leitet er dessen Herkunft von den Tugenden
+                her. Denn die wahre Abstammung des Tüchtigen ist Tugend. Zu ihm sagte er auch: „Die
+                rechte Beschaffenheit eines jeden Menschen soll gegenüber mir gekommen sein.“ Denn
+                nichts ist wie Unrecht gegenüber Gott.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">3. Die
+                praktische Notwendigkeit von Genealogien nach dem Zeugnis des Josephus
+                (Ant XI 68–71)</head>
+                     <div source="Ant XI 68-71" type="texteinleitung">
+                        <p> In
+                Vorbereitung der Rückkehr aus dem babylonischen Exil war der Nachweis der jüd.
+                Abstammung mittels amtlich registrierter Genealogien notwendig. Gelang dies z. B.
+                für die Ehefrauen nicht, wurden sogar Priester von ihrem Dienst suspendiert. Zuvor
+                notiert Josephus, es sei für die Geschichtsdarstellung unzweckmäßig, alle
+                Geschlechter einzeln aufzuführen.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>Καὶ οἱ μὲν οὕτως ἀπῄεσαν ἐξ ἑκάστης πατριᾶς ἀριθμὸς ὄντες
+                ὡρισμένος. ἐμοὶ δὲ οὐκ ἔδοξε τὰ τῶν πατριῶν καταλέγειν ὀνόματα, ἵνα μὴ τὴν τῶν
+                ἀναγινωσκόντων διάνοιαν τῆς συναφῆς τῶν πραγμάτων ἀποσπάσας δυσπαρακολούθητον αὐτοῖς
+                ποιήσω τὴν διήγησιν. […] (70) […] ἄλλοι τε πρὸς τούτοις λέγοντες μὲν εἶναι τῶν
+                Ἰσραηλιτῶν οὐ δυνάμενοι δὲ ἐπιδεῖξαι τὸ γένος αὐτῶν ἑξακόσιοι πεντηκονταδύο. (71)
+                ἐξεβλήθησαν δὲ καὶ τῶν ἱερέων ἐκ τῆς τιμῆς ἠγμένοι γυναῖκας, ὧν οὔτ᾽ αὐτοὶ τὸ γένος
+                εἶχον εἰπεῖν οὔτ᾽ ἐν ταῖς γενεαλογίαις τῶν Λευιτῶν καὶ ἱερέων εὑρέθησαν· ἦσαν δὲ ὡς
+                πεντακόσιοι καὶ πέντε καὶ εἴκοσι.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Und auf diese Weise zog aus jeder Familie eine bestimmte
+                Anzahl aus. Mir aber schien es nicht angemessen, die Namen der Familien aufzuführen,
+                damit nicht die Wahrnehmung der Lesenden abgelenkt werde von dem Verstehen des
+                Zusammenhanges der Dinge und ich ihnen die schwer verständliche Erzählung
+                nahebringe. […] (70) […] Zu diesen aber kamen weitere 662, die zwar behaupteten,
+                Israeliten zu sein, aber nicht in der Lage waren, ihre Abstammung nachzuweisen.
+                (71) Auch von den Priestern wurden einige ihres Amtes enthoben, weil sie Frauen
+                geheiratet hatten, deren Abstammung sie selbst nicht nennen konnten und die auch
+                nicht in den Genealogien der Leviten und Priester zu finden waren. Dies waren
+                ungefähr 525.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p> Die Art und Weise, wie der Begriff
+                der Genealogie in jüd. Schriften gebraucht wird, zeigt den Unterschied zu seiner
+                negativen Bewertung innerhalb der Pastoralbriefe. Die Tatsache, dass die als
+                häretisch bewertete Position vor allem im 1Tim (vgl. die andere, auf
+                Auseinandersetzungen um das Gesetz bezogene Akzentuierung in Tit 3,9) durch das
+                Lexem μῦθοι καὶ γενεαλογίαι auf einen offenbar charakteristischen Punkt gebracht
+                werden kann, legt angesichts der keineswegs zentralen Bedeutung von Genealogien im
+                Judentum nahe, nicht an einen spezifisch jüd. Kontext zu denken, sondern eine
+                bereits spezifisch gnostische Prägung anzunehmen (vgl. 1Tim 6,20), so dass die
+                Verbindung μῦθοι καὶ γενεαλογίαι in 1Tim 1,4 als ein Hendiadyoin verstanden werden
+                kann.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

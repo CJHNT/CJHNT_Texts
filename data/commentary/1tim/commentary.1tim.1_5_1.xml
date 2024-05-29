@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,5</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:5</title>
+            <author>Dr. Roland Deines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1Tim_1_5_1</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Dr. Roland Deines</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-04-24"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="commentary_section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_5_1">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5" n="1">
+               <head type="cjh-Überschrift-2">1,5/1 Liebe als Ziel der Ermahnung</head>
+               <div type="sectionB">
+                  <p> |<seg type="beleg-section" n="Philo">4</seg>|
+                <seg type="belegstelle-erläutert">Imm 67–69</seg> |<seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">7</seg>| <seg type="belegstelle-erläutert">TestAss 2,4</seg> |<seg type="beleg-section" n="Texte mit zweifelhaftem jüdischem Ursprung">8</seg>| <seg type="belegstelle-erläutert">ApkSedr 1,17</seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p> Der zu veranschaulichende Aspekt ist
+                hier die teleologisch auf die Liebe ausgerichtete Ermahnung, wobei der Begriff τέλος
+                insofern unscharf erscheint, als nicht ohne Weiteres klar ist, ob er die Liebe als
+                Resultat der Ermahnung oder als deren inneren Grund bezeichnet. Im ersteren Sinne
+                werden in Imm 67-69 die Liebe und die Furcht Gottes als Resultat der Mahnungen des
+                Gesetzes benannt. Grundsätzlich und wahrscheinlich eher im letzteren Sinne als ein
+                Grundprinzip gilt nach ApkSedr 1,17 die Liebe als das τέλος der Welt. TestAss 2,4
+                bildet eine gewisse Kontrastparallele, insofern trotz der Liebe das Ziel des
+                Handelns böse sein kann. </p>
+               </div>
+               <div type="sectionD">
+                  <head type="cjh-Überschrift-3D"/>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">1. Philo über Liebe und Furcht als Ziel des Gesetzes
+                (Imm 67–69)</head>
+                     <div source="Imm 67-69" type="texteinleitung">
+                        <p> Philo zum Gesetz
+                als einem Instrument, mit dem der Gesetzgeber entweder auf die Liebe oder auf die
+                Furcht Gottes abzielt, um den Menschen von seinen Leidenschaften und Krankheiten der
+                Seele zu heilen.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>γενόμενος οὖν τῶν τῆς ψυχῆς παθῶν καὶ νοσημάτων ἄριστος ἰατρὸς
+                ὁ νομοθέτης ἓν ἔργον καὶ τέλος προὔθετο, αὐταῖς ῥίζαις τὰς τῆς διανοίας νόσους
+                ἐκτεμεῖν, ἵνα μή τις ὑπολειφθεῖσα βλάστην ἀρρωστήματος ἐνέγκῃ δυσιάτου. (68) τοῦτον
+                δὴ τὸν τρόπον ἤλπισεν ἐκκόψαι δυνήσεσθαι, εἰ χρώμενον ἀπειλαῖς καὶ ἀγανακτήσεσι καὶ
+                ἀπαραιτήτοις ὀργαῖς, ἔτι δὲ ἀμυντηρίοις ὅπλοις πρὸς τὰς κατὰ τῶν ἀδικούντων
+                ἐπεξόδους εἰσαγάγοι τὸ αἴτιον· μόνως γὰρ οὕτως ὁ ἄφρων νουθετεῖται. (69) παρό μοι
+                δοκεῖ τοῖς προειρημένοις δυσὶ κεφαλαίοις, τῷ τε „ὡς ἄνθρωπος“ καὶ τῷ „οὐχ ὡς
+                ἄνθρωπος ὁ θεὸς“ ἕτερα δύο συνυφῆναι ἀκόλουθα καὶ συγγενῆ, φόβον τε καὶ ἀγάπην· τὰς
+                γὰρ διὰ τῶν νόμων εἰς εὐσέβειαν ὁρῶ παρακελεύσεις ἁπάσασ ἀναφερομένας ἢ πρὸς τὸ
+                ἀγαπᾶν ἢ πρὸς τὸ φοβεῖσθαι τὸν ὄντα. τοῖς μὲν οὖν μήτε μέρος μήτε πάθος ἀνθρώπου
+                περὶ τὸ ὂν νομίζουσιν, ἀλλὰ θεοπρεπῶς αὐτὸ δι᾽αὐτὸ μόνον τιμῶσι τὸ ἀγαπᾶν
+                οἰκειότατον, φοβεῖσθαι δὲ τοῖς ἑτέροις.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Da nun der Gesetzgeber ein sehr guter Arzt für Leiden und
+                Krankheiten der Seele wird, setzt er sich eine Aufgabe und ein Ziel, die Krankheiten
+                des Geistes mit den Wurzeln selbst herauszuschneiden, sodass keine übrig bleibt und
+                einen Keim einer unheilbaren Krankheit trägt. (68) Er hoffte gewiss, sie auf diese
+                Weise ausrotten zu können, wenn er den Urgrund herbeischafft, der Drohungen,
+                Unwillen und unerbittlichen Zorn, ferner zur Abwehr geeignete Waffen gegen die
+                Vormärsche der Ungerechten gebraucht; denn nur so wird der Törichte belehrt.
+                (69) Daher scheint er mir, in zwei bestimmten Hauptinhalten, nämlich „Gott ist wie
+                ein Mensch“ und „Gott ist nicht wie ein Mensch“, zwei andere, folgende und verwandte
+                Dinge zusammenzusetzen: nämlich sowohl Liebe als auch Furcht. Denn ich sehe, dass
+                alle durch die Gesetze vorgebrachten Ermahnungen zur Frömmigkeit entweder in Bezug
+                auf das Lieben oder das Fürchten des Seienden existieren. Für diejenigen also, die
+                gar sehr das Seiende nun weder für einen Teil noch eine Empfindung des Menschen
+                halten, sondern es selbst nur um ihrer selbst willen auf gottgefällige Weise
+                verehren, ist das Lieben am vertrautesten, den anderen das Fürchten.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">2. Die Liebe
+                als Prinzip der Welt (ApkSedr I H 14)</head>
+                     <div source="ApkSedr I H 14" type="texteinleitung">
+                        <p> ApkSedr I H
+                14 benennt die Liebe als Haupttugend und darin als das grundlegende und innere
+                Prinzip der Welt.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>Αὐτὴ ἡ ἀγάπη ἠθεία ἐστὶν τὸ κεφάλαιον παρὰ πασῶν τῶν ἀρετῶν· ἡ
+                ἀγάπη ἐστὶν τὸ τέλος τοῦ κόσμου.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Diese vertraute Liebe ist die Summe von allen
+                Tugenden. Die Liebe ist die Vollendung der Welt.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">3. Böses
+                Handeln aus falscher Liebe (TestAss 2,4)</head>
+                     <div source="TestAss 2,4" type="texteinleitung">
+                        <p> In TestAss
+                belehrt Asser seine Söhne über das vor Gott rechte Tun. Als Kontrastparallele
+                veranschaulicht TestAss 2,4, dass trotz der Liebe das Resultat das Handeln dessen
+                böse sein kann, dessen Liebe sich auf das Übel richtet und damit selbst in dieses
+                hinengezogen wird.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>καίγε ἀγάπη οὖσα πονηρία ἐστι, συγκρύπτουσα τὸ κακὸν· ὅπερ
+                ἐστὶ τῷ ὀνόματι ὡς καλόν, τὸ δὲ τέλος τῆς πράξεως ἔρχεται εἰς κακόν.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Es gibt Schlechtigkeit, sogar wenn Liebe da ist und das
+                Böse verbirgt. Gerade bei dem, was dem Namen nach gut ist, läuft die Vollendung des
+                Tuns aufs Böse hinaus.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

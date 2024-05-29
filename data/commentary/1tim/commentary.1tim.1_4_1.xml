@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title>Kommentar zu 1. Timotheus 1,4</title>
+            <title xml:lang="eng">Commentary on 1 Timothy 1:4</title>
+            <author>Dr. Roland Deines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1Tim_1_4_1</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Dr. Roland Deines</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-04-24"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="commentary_section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_4_1">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4" n="1">
+               <head type="cjh-Überschrift-2">1,4/1 Endlose (ἀπέραντος) Mythen und Genealogien</head>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">Marianne Bjelland Kartzow</seg>, Gossip and Gender:
+                Othering of Speech in the Pastoral Epistles, BZNW 164, Berlin/New York 2009.</p>
+               </div>
+               <div type="sectionB">
+                  <p> |<seg type="beleg-section" n="">4|</seg>
+                     <seg type="belegstelle-erläutert">Abr 20–21</seg> | <seg type="belegstelle">Det 130</seg>; <seg type="belegstelle">Congr
+                        53</seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p> Im Kontext des 1Tim spielt in der
+                Polemik gegen die „anders Lehrenden“ (→ 1,3) deren Verunglimpfung eine wichtige
+                Rolle, womit die von ihnen ausgehende Gefährdung und Verwirrung der Gemeinde in
+                ihrem Glauben unterstrichen wird. Dazu gehört auch, ihre Lehre in Gestalt von Mythen
+                und Genealogien (→ 1,4/2) als endloses Gerede ohne Nutzen darzustellen. Abr 20–21
+                und Congr 53 veranschaulichen, dass die Verunglimpfung von Gegnern ein Topos
+                polemischer Rhetorik ist (vgl. ähnlich Det 130), der offenbar mit dem Hinweis auf
+                die Nutzlosigkeit besonderes Gewicht bekommen soll.</p>
+               </div>
+               <div type="sectionD">
+                  <head type="cjh-Überschrift-3D"> Philo zur Nutzlosigkeit „endlosen“ Geredes</head>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">1. Schädliches Geschwätz in der Öffentlichkeit (Abr
+                20–21)</head>
+                     <div source="Abr 20-21" type="texteinleitung">
+                        <p> Die negativen
+                Auswirkungen „maßlosen und nicht endenden“ Geschwätzes beschreibt Philo in Abr 20–21
+                anhand eines sich überall wichtig machenden Menschen, der mit seinen „Geschichten“
+                (womit wohl die Verbreitung von Gerüchten und „Tratsch und Klatsch“ gemeint ist)
+                alles durcheinanderbringt und sich in die Angelegenheiten anderer einmischt.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>καὶ ἄλλως ὁ μὲν φαῦλος ἀγορὰν καὶ θέατρα καὶ δικαστήρια
+                βουλευτήριά τε καὶ ἐκκλησίας καὶ πάντα σύλλογον καὶ θίασον ἀνθρώπων ἅτε
+                φιλοπραγμοσύνῃ συζῶν μετατρέχει, τὴν μὲν γλῶτταν ἀνιεὶς πρὸς ἄμετρον καὶ ἀπέραντον
+                καὶ ἄκριτον διήγησιν, συγχέων ἅπαντα καὶ φύρων, ἀληθέσι ψευδῆ καὶ ῥητοῖς ἄρρητα καὶ
+                ἴδια κοινοῖς καὶ ἱεροῖς βέβηλα καὶ σπουδαίοις γελοῖα ἀναμιγνύς, διὰ τὸ μὴ
+                πεπαιδεῦσθαι τὸ ἐν καιρῷ κάλλιστον, ἡσυχίαν, τὰ δὲ ὦτα ἐπουρίσας ἕνεκα πολυπράγμονος
+                περιεργίας· (21) τὰ γὰρ ἑτέρων εἴτε ἀγαθὰ εἴτ' αὖ κακὰ γλίχεται μανθάνειν, ὡς αὐτίκα
+                τοῖς μὲν φθονεῖν, ἐφ' οἷς δὲ ἥδεσθαι· βάσκανον γὰρ καὶ μισόκαλον καὶ φιλοπόνηρον ὁ
+                φαῦλος φύσει.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Und übrigens, der üble Mensch läuft überall hin: auf die
+                Agora, ins Theater, ins Gericht, die Ratsversammlung, die öffentliche Versammlung
+                und alle anderen Versammlungen und Gruppen von Menschen, als ob er von einem
+                ruhelosen Verhalten befallen wäre, die Zunge gelöst zu maßlosem, endlosem und
+                verwirrtem Geschwätz; alles vermischend und befleckend verdreht er das Wahre zur
+                Lüge, das Gesagte zum Ungesagten, das Private zum Gemeinen, das Heilige zum
+                Profanen, das Ernste zum Gelächter, weil das Gute nicht zur rechten Zeit anerzogen
+                wurde, nämlich das Schweigen, sondern die Ohren spitzend wegen der geschäftigen
+                Einmischung. (21) Die Angelegenheiten anderer nämlich, seien sie gut oder übel, ist
+                er eifrig zu erfahren, wie er sofort auf die neidisch ist, denen es gut geht, über
+                die anderen freut er sich. Denn neidisch, das Gute hassend und das Böse liebend ist
+                der üble Mensch von Natur aus.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">2. Der Vergleich mit der nutzlosen „Logiatreia“ (Congr
+                53)</head>
+                     <div source="Congr 53" type="texteinleitung">
+                        <p> Philo vergleicht
+                in Congr 53 im Hinblick auf den mangelnden ethischen Nutzen das „endlose“ Gerede von
+                Philosophen mit der „Logiatreia“ eines Arztes, der anstatt den Kranken zu behandeln
+                nur mit Worten auf ihn einredet.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>ὥσπερ γὰρ ἐν ἰατροῖς ἡ λεγομένη λογιατρεία<ref type="erläuterungPointer" target="d2e87">1</ref> πολὺ τῆς τῶν καμνόντων ὠφελείας ἀποστατεῖ - φαρμάκοις
+                γὰρ καὶ χειρουργίαις καὶ διαίταις, ἀλλ᾽οὐ λόγοις, αἱ νόσοι θεραπεύονται -, οὕτω καὶ
+                ἐν φιλοσοφίᾳ λογοπῶλαι<ref type="erläuterungPointer" target="d2e90">2</ref> καὶ λογοθῆραί<ref type="erläuterungPointer" target="d2e93">3</ref> τινες αὐτὸ μόνον εἰσί, τὸν ἀρρωστημάτων γέμοντα βίον
+                θεραπεύειν οὔτε ἐθέλοντες οὔτε ἐπιτηδεύοντες, ἐκ πρώτης δὲ ἡλικίας ἄχρι γήρως
+                ἐσχάτου γνωσιμαχοῦντές τε καὶ συλλαβομαχοῦντες<ref type="erläuterungPointer" target="d2e96">4</ref> οὐκ
+                ἐρυθριῶσιν, ὥσπερ τῆς εὐδαιμονίας ἐπ᾽ὀνομάτων καὶ ῥημάτων [καὶ] ἀπεράντῳ καὶ ἀνηνύτῳ
+                περιεργίᾳ κειμένης, ἀλλ᾽οὐκ ἐν τῷ τὸ ἦθος, τὴν τοῦ ἀνθρωπείου [βίου] πηγήν, ἄμεινον
+                καταστήσασθαι, τὰς μὲν κακίας ὑπερορίους φυγαδεύσαντα αὐτοῦ, τὰς δὲ ἀρετὰς
+                εἰσοικίσαντα.</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d2e87" n="1"> Zusammengesetzt aus λόγος
+                Wort und ἰατρεία ärztliche Behandlung. <seg type="cjh-Hochzahl">2</seg>
+                           </note>
+                           <note type="zitatErläuterung" xml:id="d2e90" n="2"> Liddell-Scott:
+                dealer with words; zweite Belegstelle Philostr. VS I.23.1.; λόγος + πώλης Händler.
+                <seg type="cjh-Hochzahl">3</seg>
+                           </note>
+                           <note type="zitatErläuterung" xml:id="d2e93" n="3">Liddell-Scott: word-catcher; Neologismus: weiter
+                keine Belegstellen, einzige Referenz Philon; Neologismus: λόγος + θήρα Jäger. <seg type="cjh-Hochzahl">4</seg>
+                           </note>
+                           <note type="zitatErläuterung" xml:id="d2e96" n="4">Liddell-Scott: fight for syllables; weitere
+                Belegstelle: Fr.73H.; συλλαβή + μάχομαι kämpfen, disputieren.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Wie nämlich bei Ärzten die so genannte Logiatreia weit
+                von dem Nutzen für die Kranken fernsteht – denn durch Heilmittel und die Chirurgie
+                und Diäten, nicht aber durch Worte werden die Kranken geheilt –, so gibt es auch in
+                der Philosophie bloß Worthändler und einige Wortjäger, die weder das mit Krankheiten
+                beladene Leben heilen wollen noch sich darum bemühen, sondern ohne zu erröten von
+                frühester Jugend bis zum letzten Greisenalter ihre Meinung ändern und auch mit
+                Silben streiten, gleich als ob die Glückseligkeit von der sowohl unbegrenzten als
+                auch endlosen Kleinlichkeit der Wörter und Zeichen abhinge, aber nicht davon, dass
+                man die Gesinnung, den Ursprung des menschlichen Lebens, besser einsetzt, indem man
+                seine eigenen Laster verjagt, die Tugenden aber einrichtet.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

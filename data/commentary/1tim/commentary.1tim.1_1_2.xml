@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title>Kommentar zu 1. Timotheus 1,1</title>
+            <title xml:lang="eng">Commentary on 1 Timothy 1:1</title>
+            <author>Dr. Roland Deines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1Tim_1_1_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Dr. Roland Deines</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-04-24"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="commentary_section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_1_2">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1" n="2">
+               <head type="cjh-Überschrift-2">1,1/2 Der Messias als ἐλπίς</head>
+               <div type="sectionA">
+                  <p/>
+               </div>
+               <div type="sectionB">
+                  <p> |<seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">7</seg>|
+                <seg type="belegstelle-erläutert">1Hen 48,4</seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p> Der einzige bekannte Beleg für die
+                Titulierung des Menschensohns als „Hoffnung“ findet sich im 1Hen.</p>
+               </div>
+               <div type="sectionD">
+                  <head type="cjh-Überschrift-3D"/>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">Der Menschensohn als Hoffnung für Welt (1Hen 48,4)</head>
+                     <div source="1Hen 48,4" type="texteinleitung">
+                        <p> Der Menschensohn
+                wird in 1Hen 48,4 als messianische Gestalt und als Hoffnung für die Welt
+                präsentiert.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>Und er wird für die Gerechten ein Stab sein, damit sie
+                sich auf ihn stützen und nicht fallen, und er wird das Licht der Völker und die
+                Hoffnung derer sein, die in ihrem Herzen Kummer haben.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p> Aufgrund der Parallele im 1Hen lässt
+                sich zum einen weder behaupten, die Gleichsetzung von Hoffnung und dem Messias/dem
+                Menschensohn sei ein Unikum. Zum anderen macht sie deutlich, dass die für das
+                christl. Selbstverständnis naheliegende Identifikation alles andere als die Regel
+                ist.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
