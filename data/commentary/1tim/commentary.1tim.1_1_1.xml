@@ -2,16 +2,16 @@
    <teiHeader xml:lang="deu">
       <fileDesc>
          <titleStmt>
-            <title>Kommentar zu 1. Timotheus 1,1</title>
-            <title xml:lang="eng">Commentary on 1 Timothy 1:1</title>
-            <author>Dr. Roland Deines</author>
+            <title n="de">Kommentar zu 1. Timotheus 1,1</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:1</title>
+            <author>Oesterreich</author>
          </titleStmt>
          <editionStmt>
-            <edition>Digitale Edition von 1Tim_1_1_1</edition>
+            <edition>Digitale Edition von 1tim_1_1_1_gott</edition>
             <respStmt>
                <resp>Autor</resp>
                <resp xml:lang="eng">Author</resp>
-               <persName>Dr. Roland Deines</persName>
+               <persName>Oesterreich</persName>
             </respStmt>
             <respStmt>
                <resp>Hauptentwickler</resp>
@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>CJHNT-Digital Projekt</publisher>
             <pubPlace>Leipzig</pubPlace>
-            <date when="2024-04-24"/>
+            <date when="2024-06-12"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
                             Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
@@ -38,7 +38,7 @@
          <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
          <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
          <refsDecl n="CTS">
-            <cRefPattern n="commentary_section"
+            <cRefPattern n="section"
                          matchPattern="(.+)"
                          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
@@ -49,84 +49,461 @@
    <text>
       <body>
          <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_1_1">
-            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1" n="1">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;" n="1">
+               <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
                <head type="cjh-Überschrift-2">1,1/1 Gott, der Retter: θεός σωτήρ</head>
-               <div type="sectionA">
-                  <p/>
-               </div>
+               <div type="sectionA"/>
                <div type="sectionB">
-                  <p> |<seg type="beleg-section" n="Septuaginta">1</seg>|
-                <seg type="belegstelle-erläutert">1Makk 4,30</seg> | <seg type="belegstelle">SapSal 16,7</seg> |<seg type="beleg-section" n="Philo">4</seg>| <seg type="belegstelle">Ebr 111</seg>; <seg type="belegstelle-erläutert">Sobr 55</seg>; <seg type="belegstelle">Migr 25</seg>
+                  <p>
+                     <seg type="beleg-section" n="Septuaginta">
+                        <w>|1|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>1Makk</w>
+                        <w>4</w>,<w>30</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>SapSal</w>
+                        <w>16</w>,<w>7</w>
+                     </seg>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Ebr</w>
+                        <w>111</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>Sobr</w>
+                        <w>55</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>Migr</w>
+                        <w>25</w>
+                     </seg>
                   </p>
                </div>
                <div type="sectionC">
-                  <p> Die überwiegende Mehrzahl der ntl.
-                Belege bezeichnet Christus als σωτήρ. Gott erscheint als σωτήρ nur in Lk 1,47 und in
-                Jud 25 sowie in den drei Belegen im 1Tim (1,1; 2,3; 4,10; vgl. Tit 1,3; 2,10; 3,4).
-                Im Beleg des 2Tim (1,10) ist Christus der σωτήρ (vgl. Phil 3,20; Tit 1,4; 3,6). Im
-                Tit wechselt der Bezug oder ist nicht eindeutig bestimmbar.</p>
-                  <p>Die hier
-                präsentierten Belege aus den Apokryphen und Philo spiegeln den differenzierten
-                Gebrauch des Terminus im Umfeld des NT: Gott als politischer Retter im 1Makk
-                (4,30) und der explizit nicht in Bezug auf den Gott der sinnlich-wahrnehmbaren
-                Welt verwandte σωτήρ-Begriff bei Philo (Sobr 55).</p>
+                  <p>
+                     <w>Die</w>
+                     <w>überwiegende</w>
+                     <w>Mehrzahl</w>
+                     <w>der</w>
+                     <w>ntl</w>. <w>Belege</w>
+                     <w>bezeichnet</w>
+                     <w>Christus</w>
+                     <w>als</w>
+                     <w>σωτήρ</w>. <w>Gott</w>
+                     <w>erscheint</w>
+                     <w>als</w>
+                     <w>σωτήρ</w>
+                     <w>nur</w>
+                     <w>in</w>
+                     <w>Lk</w>
+                     <w>1</w>,<w>47</w>
+                     <w>und</w>
+                     <w>in</w>
+                     <w>Jud</w>
+                     <w>25</w>
+                     <w>sowie</w>
+                     <w>in</w>
+                     <w>den</w>
+                     <w>drei</w>
+                     <w>Belegen</w>
+                     <w>im</w>
+                     <w>1Tim</w> (<w>1</w>,<w>1</w>; <w>2</w>,<w>3</w>; <w>4</w>,<w>10</w>; <w>vgl</w>. <w>Tit 1</w>,<w>3</w>; <w>2</w>,<w>10</w>; <w>3</w>,<w>4</w>). <w>Im</w>
+                     <w>Beleg</w>
+                     <w>des</w>
+                     <w>2Tim</w> (<w>1</w>,<w>10</w>) <w>ist</w>
+                     <w>Christus</w>
+                     <w>der</w>
+                     <w>σωτήρ</w> (<w>vgl</w>. <w>Phil 3</w>,<w>20</w>; <w>Tit 1</w>,<w>4</w>; <w>3</w>,<w>6</w>). <w>Im</w>
+                     <w>Tit</w>
+                     <w>wechselt</w>
+                     <w>der</w>
+                     <w>Bezug</w>
+                     <w>oder</w>
+                     <w>ist</w>
+                     <w>nicht</w>
+                     <w>eindeutig</w>
+                     <w>bestimmbar</w>.</p>
+                  <p>
+                     <w>Die</w>
+                     <w>hier</w>
+                     <w>präsentierten</w>
+                     <w>Belege</w>
+                     <w>aus</w>
+                     <w>den</w>
+                     <w>Apokryphen</w>
+                     <w>und</w>
+                     <w>Philo</w>
+                     <w>spiegeln</w>
+                     <w>den</w>
+                     <w>differenzierten</w>
+                     <w>Gebrauch</w>
+                     <w>des</w>
+                     <w>Terminus</w>
+                     <w>im</w>
+                     <w>Umfeld</w>
+                     <w>des</w>
+                     <w>NT</w>: <w>Gott</w>
+                     <w>als</w>
+                     <w>politischer</w>
+                     <w>Retter</w>
+                     <w>im</w>
+                     <w>1Makk</w> (<w>4</w>,<w>30</w>) <w>und</w>
+                     <w>der</w>
+                     <w>explizit</w>
+                     <w>nicht</w>
+                     <w>in</w>
+                     <w>Bezug</w>
+                     <w>auf</w>
+                     <w>den</w>
+                     <w>Gott</w>
+                     <w>der</w>
+                     <w>sinnlich-wahrnehmbaren</w>
+                     <w>Welt</w>
+                     <w>verwandte</w>
+                     <w>σωτήρ-Begriff</w>
+                     <w>bei</w>
+                     <w>Philo</w> (<w>Sobr 55</w>).</p>
                </div>
                <div type="sectionD">
-                  <head type="cjh-Überschrift-3D"/>
                   <div type="beleg-gruppe">
-                     <head type="cjh-Überschrift-3">1. Gott als Retter in der Schlacht (1Makk 4,30)</head>
-                     <div source="1Makk 4,30" type="texteinleitung">
-                        <p> Vor einer
-                Schlacht gegen die weit überlegenen Truppen des Lysias betet Judas Makkabäus zu Gott
-                als dem Retter Israels (σωτὴρ Ισραηλ). Er preist ihn für seinen rettenden Beistand
-                für David in einer vergleichbaren Situation.</p>
+                     <head type="cjh-Überschrift-3">
+                        <w>1</w>. <w>Gott</w>
+                        <w>als</w>
+                        <w>Retter</w>
+                        <w>in</w>
+                        <w>der</w>
+                        <w>Schlacht</w>
+                     </head>
+                     <div source="1 Makk 4,30" type="texteinleitung">
+                        <p>
+                           <w>Vor</w>
+                           <w>einer</w>
+                           <w>Schlacht</w>
+                           <w>gegen</w>
+                           <w>die</w>
+                           <w>weit</w>
+                           <w>überlegenen</w>
+                           <w>Truppen</w>
+                           <w>des</w>
+                           <w>Lysias</w>
+                           <w>betet</w>
+                           <w>Judas</w>
+                           <w>Makkabäus</w>
+                           <w>zu</w>
+                           <w>Gott</w>
+                           <w>als</w>
+                           <w>dem</w>
+                           <w>Retter</w>
+                           <w>Israels</w> (<seg type="cjh-Griechisch">
+                              <w>σωτὴρ</w>
+                              <w>Ισραηλ</w>
+                           </seg>). <w>Er</w>
+                           <w>preist</w>
+                           <w>ihn</w>
+                           <w>für</w>
+                           <w>seinen</w>
+                           <w>rettenden</w>
+                           <w>Beistand</w>
+                           <w>für</w>
+                           <w>David</w>
+                           <w>in</w>
+                           <w>einer</w>
+                           <w>vergleichbaren</w>
+                           <w>Situation</w>.</p>
                      </div>
                      <div type="cjh-ZitatGriech">
-                        <p>καὶ εἶδε τὴν παρεμβολὴν ἰσχυρὰν καὶ προσηύξατο καὶ εἶπεν
-                Εὐλογητὸς εἶ ὁ σωτὴρ Ισραηλ ὁ συντρίψας τὸ ὅρμημα τοῦ δυνατοῦ ἐν χειρὶ τοῦ δούλου
-                σου Δαυιδ καὶ παρέδωκας τὴν παρεμβολὴν τῶν ἀλλοφύλων εἰς χεῖρας Ιωνάθου υἱοῦ Σαουλ
-                καὶ τοῦ αἴροντος τὰ σκεύη αὐτοῦ.</p>
+                        <p>
+                           <w>καὶ</w>
+                           <w>εἶδε</w>
+                           <w>τὴν</w>
+                           <w>παρεμβολὴν</w>
+                           <w>ἰσχυρὰν</w>
+                           <w>καὶ</w>
+                           <w>προσηύξατο</w>
+                           <w>καὶ</w>
+                           <w>εἶπεν</w>
+                           <w>Εὐλογητὸς</w>
+                           <w>εἶ</w>
+                           <w>ὁ</w>
+                           <w>σωτὴρ</w>
+                           <w>Ισραηλ</w>
+                           <w>ὁ</w>
+                           <w>συντρίψας</w>
+                           <w>τὸ</w>
+                           <w>ὅρμημα</w>
+                           <w>τοῦ</w>
+                           <w>δυνατοῦ</w>
+                           <w>ἐν</w>
+                           <w>χειρὶ</w>
+                           <w>τοῦ</w>
+                           <w>δούλου</w>
+                           <w>σου</w>
+                           <w>Δαυιδ</w>
+                           <w>καὶ</w>
+                           <w>παρέδωκας</w>
+                           <w>τὴν</w>
+                           <w>παρεμβολὴν</w>
+                           <w>τῶν</w>
+                           <w>ἀλλοφύλων</w>
+                           <w>εἰς</w>
+                           <w>χεῖρας</w>
+                           <w>Ιωνάθου</w>
+                           <w>υἱοῦ</w>
+                           <w>Σαουλ</w>
+                           <w>καὶ</w>
+                           <w>τοῦ</w>
+                           <w>αἴροντος</w>
+                           <w>τὰ</w>
+                           <w>σκεύη</w>
+                           <w>αὐτοῦ</w>.</p>
                      </div>
                      <div type="cjh-ZitatÜbersetzung">
-                        <p>Und er sah das starke Heer der Feinde und betete und
-                sprach: „Du, der Retter Israels, bist gepriesen, der du durch die Hand deines
-                Knechtes David den Ansturm des Starken zerschlagen und das Heer der von anderem
-                Stamm in die Hände Jonathans, des Sohns Sauls und seines Waffenträgers gegeben
-                hast.“</p>
+                        <p>
+                           <w>Und</w>
+                           <w>er</w>
+                           <w>sah</w>
+                           <w>das</w>
+                           <w>starke</w>
+                           <w>Heer</w>
+                           <w>der</w>
+                           <w>Feinde</w>
+                           <w>und</w>
+                           <w>betete</w>
+                           <w>und</w>
+                           <w>sprach</w>: „<w>Du</w>, <w>der</w>
+                           <w>Retter</w>
+                           <w>Israels</w>, <w>bist</w>
+                           <w>gepriesen</w>, <w>der</w>
+                           <w>du</w>
+                           <w>durch</w>
+                           <w>die</w>
+                           <w>Hand</w>
+                           <w>deines</w>
+                           <w>Knechtes</w>
+                           <w>David</w>
+                           <w>den</w>
+                           <w>Ansturm</w>
+                           <w>des</w>
+                           <w>Starken</w>
+                           <w>zerschlagen</w>
+                           <w>und</w>
+                           <w>das</w>
+                           <w>Heer</w>
+                           <w>der</w>
+                           <w>von</w>
+                           <w>anderem</w>
+                           <w>Stamm</w>
+                           <w>in</w>
+                           <w>die</w>
+                           <w>Hände</w>
+                           <w>Jonathans</w>, <w>des</w>
+                           <w>Sohns</w>
+                           <w>Sauls</w>
+                           <w>und</w>
+                           <w>seines</w>
+                           <w>Waffenträgers</w>
+                           <w>gegeben</w>
+                           <w>hast</w>.“</p>
                      </div>
                   </div>
                   <div type="beleg-gruppe">
-                     <head type="cjh-Überschrift-3">2. Gott als Beherrscher der Welt und Retter bei Philo (Sobr
-                55)</head>
-                     <div source="Sobr 55" type="texteinleitung">
-                        <p> Philo differenziert
-                zwischen der richtenden und herrschenden Seite Gottes und seiner rettenden,
-                barmherzigen Seite. Im vorausgesetzten platonischen Weltbild wird der erstgenannte
-                göttliche Aspekt der sinnlich wahrnehmbaren Welt zugeordnet, während Rettung und
-                Wohltun der geistigen Welt angemessen sind.</p>
+                     <head type="cjh-Überschrift-3">
+                        <w>2</w>. <w>Gott</w>
+                        <w>als</w>
+                        <w>Beherrscher</w>
+                        <w>der</w>
+                        <w>Welt</w>
+                        <w>und</w>
+                        <w>Retter</w>
+                        <w>bei</w>
+                        <w>Philo</w>
+                     </head>
+                     <div type="cjh-PetitTexteinl.A">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>Sobr</w>
+                              <w>55</w>
+                           </seg>
+                           <w>Philo</w>
+                           <w>differenziert</w>
+                           <w>zwischen</w>
+                           <w>der</w>
+                           <w>richtenden</w>
+                           <w>und</w>
+                           <w>herrschenden</w>
+                           <w>Seite</w>
+                           <w>Gottes</w>
+                           <w>und</w>
+                           <w>seiner</w>
+                           <w>rettenden</w>, <w>barmherzigen</w>
+                           <w>Seite</w>. <w>Im</w>
+                           <w>vorausgesetzten</w>
+                           <w>platonischen</w>
+                           <w>Weltbild</w>
+                           <w>wird</w>
+                           <w>der</w>
+                           <w>erstgenannte</w>
+                           <w>göttliche</w>
+                           <w>Aspekt</w>
+                           <w>der</w>
+                           <w>sinnlich</w>
+                           <w>wahrnehmbaren</w>
+                           <w>Welt</w>
+                           <w>zugeordnet</w>, <w>während</w>
+                           <w>Rettung</w>
+                           <w>und</w>
+                           <w>Wohltun</w>
+                           <w>der</w>
+                           <w>geistigen</w>
+                           <w>Welt</w>
+                           <w>angemessen</w>
+                           <w>sind</w>.</p>
                      </div>
                      <div type="cjh-ZitatGriech">
-                        <p>μήποτε δὲ καὶ ἐπιδαψιλεύεται τὰ τῶν δωρεῶν· τοῦ μὲν γὰρ
-                αἰσθητοῦ κόσμου δεσπότης καὶ εὐεργέτης ἀνείρηται διὰ τοῦ κύριος καὶ θεός, τοῦ δὲ
-                νοητοῦ ἀγαθοῦ σωτὴρ καὶ εὐεργέτης αὐτὸ μόνον, οὐχὶ δεσπότης ἢ κύριος· φίλον γὰρ τὸ
-                σοφὸν θεῷ μᾶλλον ἢ δοῦλον.</p>
+                        <p>
+                           <w>μήποτε</w>
+                           <w>δὲ</w>
+                           <w>καὶ</w>
+                           <w>ἐπιδαψιλεύεται</w>
+                           <w>τὰ</w>
+                           <w>τῶν</w>
+                           <w>δωρεῶν·</w>
+                           <w>τοῦ</w>
+                           <w>μὲν</w>
+                           <w>γὰρ</w>
+                           <w>αἰσθητοῦ</w>
+                           <w>κόσμου</w>
+                           <w>δεσπότης</w>
+                           <w>καὶ</w>
+                           <w>εὐεργέτης</w>
+                           <w>ἀνείρηται</w>
+                           <w>διὰ</w>
+                           <w>τοῦ</w>
+                           <w>κύριος</w>
+                           <w>καὶ</w>
+                           <w>θεός</w>, <w>τοῦ</w>
+                           <w>δὲ</w>
+                           <w>νοητοῦ</w>
+                           <w>ἀγαθοῦ</w>
+                           <w>σωτὴρ</w>
+                           <w>καὶ</w>
+                           <w>εὐεργέτης</w>
+                           <w>αὐτὸ</w>
+                           <w>μόνον</w>, <w>οὐχὶ</w>
+                           <w>δεσπότης</w>
+                           <w>ἢ</w>
+                           <w>κύριος·</w>
+                           <w>φίλον</w>
+                           <w>γὰρ</w>
+                           <w>τὸ</w>
+                           <w>σοφὸν</w>
+                           <w>θεῷ</w>
+                           <w>μᾶλλον</w>
+                           <w>ἢ</w>
+                           <w>δοῦλον</w>.</p>
                      </div>
                      <div type="cjh-ZitatÜbersetzung">
-                        <p>Vielleicht gibt er aber verschwenderisch noch etwas zu
-                den Geschenken dazu. Denn er wird durch „Herr und Gott“ als Herrscher und Wohltäter
-                der sinnlich wahrnehmbaren Welt bezeichnet, im geistig wahrnehmbaren Guten dagegen
-                nur als Retter und Wohltäter, nicht als Herrscher oder Herr, denn das Weise ist Gott
-                eher befreundet als untertan.</p>
+                        <p>
+                           <w>Vielleicht</w>
+                           <w>gibt</w>
+                           <w>er</w>
+                           <w>aber</w>
+                           <w>verschwenderisch</w>
+                           <w>noch</w>
+                           <w>etwas</w>
+                           <w>zu</w>
+                           <w>den</w>
+                           <w>Geschenken</w>
+                           <w>dazu</w>. <w>Denn</w>
+                           <w>er</w>
+                           <w>wird</w>
+                           <w>durch</w> „<w>Herr</w>
+                           <w>und</w>
+                           <w>Gott</w>“ <w>als</w>
+                           <w>Herrscher</w>
+                           <w>und</w>
+                           <w>Wohltäter</w>
+                           <w>der</w>
+                           <w>sinnlich</w>
+                           <w>wahrnehmbaren</w>
+                           <w>Welt</w>
+                           <w>bezeichnet</w>, <w>im</w>
+                           <w>geistig</w>
+                           <w>wahrnehmbaren</w>
+                           <w>Guten</w>
+                           <w>dagegen</w>
+                           <w>nur</w>
+                           <w>als</w>
+                           <w>Retter</w>
+                           <w>und</w>
+                           <w>Wohltäter</w>, <w>nicht</w>
+                           <w>als</w>
+                           <w>Herrscher</w>
+                           <w>oder</w>
+                           <w>Herr</w>, <w>denn</w>
+                           <w>das</w>
+                           <w>Weise</w>
+                           <w>ist</w>
+                           <w>Gott</w>
+                           <w>eher</w>
+                           <w>befreundet</w>
+                           <w>als</w>
+                           <w>untertan</w>.</p>
                      </div>
                   </div>
                </div>
                <div type="sectionE">
-                  <p> Der einzige paulinische Beleg für
-                σωτὴρ (Phil 3,20) bezieht sich auf Christus. Der Bezug auf Gott im 1Tim und die
-                wechselnden Bezüge in den Pastoralbriefen insgesamt spiegeln den divergenten Befund
-                innerhalb des jüd.-hell. Schrifttums. Auch zur Zeit der Entstehung der
-                Pastoralbriefe war die Zuordnung wichtiger Prädikate zu Gott oder Christus noch im
-                Fluss.</p>
+                  <p>
+                     <w>Der</w>
+                     <w>einzige</w>
+                     <w>paulinische</w>
+                     <w>Beleg</w>
+                     <w>für</w>
+                     <w>σωτὴρ</w> (<w>Phil 3</w>,<w>20</w>) <w>bezieht</w>
+                     <w>sich</w>
+                     <w>auf</w>
+                     <w>Christus</w>. <w>Der</w>
+                     <w>Bezug</w>
+                     <w>auf</w>
+                     <w>Gott</w>
+                     <w>im</w>
+                     <w>1Tim</w>
+                     <w>und</w>
+                     <w>die</w>
+                     <w>wechselnden</w>
+                     <w>Bezüge</w>
+                     <w>in</w>
+                     <w>den</w>
+                     <w>Pastoralbriefen</w>
+                     <w>insgesamt</w>
+                     <w>spiegeln</w>
+                     <w>den</w>
+                     <w>divergenten</w>
+                     <w>Befund</w>
+                     <w>innerhalb</w>
+                     <w>des</w>
+                     <w>jüd</w>.<w>-hell</w>. <w>Schrifttums</w>. <w>Auch</w>
+                     <w>zur</w>
+                     <w>Zeit</w>
+                     <w>der</w>
+                     <w>Entstehung</w>
+                     <w>der</w>
+                     <w>Pastoralbriefe</w>
+                     <w>war</w>
+                     <w>die</w>
+                     <w>Zuordnung</w>
+                     <w>wichtiger</w>
+                     <w>Prädikate</w>
+                     <w>zu</w>
+                     <w>Gott</w>
+                     <w>oder</w>
+                     <w>Christus</w>
+                     <w>noch</w>
+                     <w>im</w>
+                     <w>Fluss</w>.</p>
                </div>
             </div>
          </div>
