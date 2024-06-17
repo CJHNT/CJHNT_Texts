@@ -1,0 +1,1617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,5/2</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:5/2</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_5_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_005_002">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.5;" n="2">
+               <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>
+               <head type="cjh-Überschrift-2">1,5/2 Reines Herz, gutes Gewissen, ungeheuchelter Glaube</head>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">
+                        <w>Hans-Joachim</w>
+                        <w>Eckstein</w>
+                     </seg>, <w>Der</w>
+                     <w>Begriff</w>
+                     <w>Syneidesis</w>
+                     <w>bei</w>
+                     <w>Paulus</w>. <w>Eine</w>
+                     <w>neutestamentlich-exegetische</w>
+                     <w>Untersuchung</w>
+                     <w>zum</w> ‚<w>Gewissensbegriff</w>‘, <w>WUNT</w>
+                     <w>II/10</w>, <w>Tübingen</w>
+                     <w>1983</w>.</p>
+               </div>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">
+                        <w>Hans-Joachim</w>
+                        <w>Eckstein</w>
+                     </seg>, <w>Der</w>
+                     <w>Begriff</w>
+                     <w>Syneidesis</w>
+                     <w>bei</w>
+                     <w>Paulus</w>. <w>Eine</w>
+                     <w>neutestamentlich-exegetische</w>
+                     <w>Untersuchung</w>
+                     <w>zum</w> ‚<w>Gewissensbegriff</w>‘, <w>WUNT</w>
+                     <w>II/10</w>, <w>Tübingen</w>
+                     <w>1983</w>.</p>
+               </div>
+               <div type="sectionB">
+                  <p>
+                     <w>|</w>
+                     <seg type="beleg-section" n="Philo">
+                        <w>4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Jos 47</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>SpecLeg I 203</w>
+                     </seg>
+                     <seg type="bold">;</seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>II 49</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>Virt 124</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>Praem 84</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>Det 146</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>LegGai</w>
+                        <w>165</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>Prob 99</w>
+                     </seg>
+                     <seg type="beleg-section" n="Josephus">
+                        <w>|5|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Bell I 453</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>Ant II 50–52</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>Ap II 217–218</w>
+                     </seg>
+                     <seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">
+                        <w>|7|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>TestSim 4</w>,<w>7</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>TestNaf 3</w>,<w>1</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>TestJos 4</w>,<w>6</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Die</w>
+                     <w>dreifache</w>
+                     <w>modale</w>
+                     <w>Bestimmung</w> „<w>aus</w>
+                     <w>reinem</w>
+                     <w>Herzen</w>, <w>gutem</w>
+                     <w>Gewissen</w>
+                     <w>und</w>
+                     <w>ungeheucheltem</w>
+                     <w>Glauben</w>“ <w>lässt</w>
+                     <w>sich</w>
+                     <w>in</w>
+                     <w>1Tim 1</w>,<w>5</w>
+                     <w>kaum</w>
+                     <w>in</w>
+                     <w>ihre</w>
+                     <w>einzelnen</w>
+                     <w>Elemente</w>
+                     <w>differenzieren</w>, <w>sondern</w>
+                     <w>sie</w>
+                     <w>umschreibt</w>
+                     <w>in</w>
+                     <w>drei</w>
+                     <w>Aspekten</w>
+                     <w>die</w>
+                     <w>Grundhaltung</w>
+                     <w>des</w>
+                     <w>Menschen</w>, <w>welche</w>
+                     <w>die</w>
+                     <w>Intention</w>
+                     <w>der</w>
+                     <w>Liebe</w>
+                     <w>prägt</w>. <w>Vor</w>
+                     <w>allem</w>
+                     <w>die</w>
+                     <w>beiden</w>
+                     <w>ersten</w>
+                     <w>Glieder</w>
+                     <w>können</w>
+                     <w>als</w>
+                     <w>Synonyme</w>
+                     <w>gelten</w>. <w>Für</w>
+                     <w>den</w>
+                     <w>Begriff</w>
+                     <w>des</w>
+                     <w>Gewissens</w>
+                     <w>findet</w>
+                     <w>sich</w>
+                     <w>in</w>
+                     <w>der</w>
+                     <w>Literatur</w>
+                     <w>neben</w>
+                     <w>dem</w>
+                     <w>selteneren</w>
+                     <w>nomen</w>
+                     <w>abstractum</w>
+                     <seg type="cjh-Griechisch">
+                        <w>συνείδησις</w>
+                     </seg>
+                     <w>vorwiegend</w>
+                     <w>die</w>
+                     <w>kürzere</w>
+                     <w>Verbalbildung</w>
+                     <seg type="cjh-Griechisch">
+                        <w>τὸ</w>
+                        <w>συνειδός</w>.</seg>
+                  </p>
+               </div>
+               <div type="sectionD">
+                  <div type="cjh-Überschrift-3D">
+                     <p>
+                        <w>1</w>. <w>Philo</w>
+                        <w>zu</w>
+                        <w>den</w>
+                        <w>Wirkungen</w>
+                        <w>des</w>
+                        <w>Gewissens</w>
+                     </p>
+                  </div>
+                  <div type="cjh-PetitTexteinl.A">
+                     <p>
+                        <w>Wie</w>
+                        <w>bei</w>
+                        <w>der</w>
+                        <w>Schilderung</w>
+                        <w>der</w>
+                        <w>Begegnung</w>
+                        <w>zwischen</w>
+                        <w>Joseph</w>
+                        <w>und</w>
+                        <w>Potifars</w>
+                        <w>Frau</w>
+                        <w>bei</w>
+                        <w>Josephus</w> (<w>s</w>.<w> u</w>.), <w>so</w>
+                        <w>beschreibt</w>
+                        <w>auch</w>
+                        <w>Philo</w>
+                        <w>in</w>
+                        <w>SpecLeg II 49</w>, <w>wie</w>
+                        <w>sehr</w>
+                        <w>ein</w>
+                        <w>schlechtes</w>
+                        <w>Gewissen</w>
+                        <w>ein</w>
+                        <w>Leben</w>
+                        <w>in</w>
+                        <w>Offenheit</w>
+                        <w>und</w>
+                        <w>Freimut</w>
+                        <w>unmöglich</w>
+                        <w>macht</w>. <w>Philo</w>
+                        <w>schreibt</w>
+                        <w>dabei</w>
+                        <w>dem</w>
+                        <w>Gesetz</w>
+                        <w>und</w>
+                        <w>insbesondere</w>
+                        <w>den</w>
+                        <w>reinigenden</w>
+                        <w>Opfervorschriften</w>
+                        <w>eine</w>
+                        <w>entscheidende</w>, <w>das</w>
+                        <w>Gewissen</w>
+                        <w>befreiende</w>
+                        <w>Funktion</w>
+                        <w>zu</w> (<w>SpecLeg I 203</w>; <w>vgl</w>. <w>Prob 99</w>). <w>Die</w>
+                        <w>Wendung</w>
+                        <seg type="cjh-Griechisch">
+                           <w>ἐκ</w>
+                           <w>καθαροῦ</w>
+                           <w>τοῦ</w>
+                           <w>συνειδότος</w>
+                        </seg>
+                        <w>ist</w>
+                        <w>wohl</w>
+                        <w>synonym</w>
+                        <w>zur</w>
+                        <w>Vorstellung</w>
+                        <w>des</w>
+                        <w>reinen</w>
+                        <w>Herzens</w>
+                        <w>zu</w>
+                        <w>verstehen</w> (<w>vgl</w>. <w>auch</w>
+                        <w>Praem 84</w>; <w>LegGai 165</w>).</p>
+                  </div>
+                  <div type="beleg-subgruppe">
+                     <head type="cjh-Überschrift-4">
+                        <w>1</w>.<w>1</w>
+                        <w>Ein</w>
+                        <w>schlechtes</w>
+                        <w>Gewissen</w>
+                        <w>führt</w>
+                        <w>zu</w>
+                        <w>trostlosem</w>
+                        <w>Leben</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>SpecLeg II 49</w>
+                           </seg>
+                           <w>διὸ</w>
+                           <w>παρ᾽</w>
+                           <w>ἀληθείᾳ</w>
+                           <w>δικαζούσῃ</w>
+                           <w>τῶν</w>
+                           <w>φαύλων</w>
+                           <w>οὐδεὶς</w>
+                           <w>ἀλλ᾽</w>
+                           <w>οὐδὲ</w>
+                           <w>τὸν</w>
+                           <w>βραχύτατον</w>
+                           <w>χρόνον</w>
+                           <w>ἑορτάζει</w>, <w>συνειδήσει</w>
+                           <w>τῶν</w>
+                           <w>ἀδικημάτων</w>
+                           <w>ἀγχόμενος</w>
+                           <w>καὶ</w>
+                           <w>τῇ</w>
+                           <w>ψυχῇ</w>
+                           <w>κατηφῶν</w>, <w>εἰ</w>
+                           <w>καὶ</w>
+                           <w>τῷ</w>
+                           <w>προσώπῳ</w>
+                           <w>μειδιᾶν</w>
+                           <w>καθυποκρίνεται</w>
+                           <w>ποῦ</w>
+                           <w>γὰρ</w>
+                           <w>ἔχει</w>
+                           <w>καιρὸν</w>
+                           <w>ἀψευδοῦς</w>
+                           <w>εὐφροσύνης</w>
+                           <w>κακοβουλότατος</w>
+                           <w>ὢν</w>
+                           <w>καὶ</w>
+                           <w>συζῶν</w>
+                           <w>ἀφροσύνῃ</w>
+                           <w>καὶ</w>
+                           <w>περὶ</w>
+                           <w>πάντα</w>
+                           <w>ἀκαιρευόμενος</w>
+                           <ref type="erläuterungPointer" target="d1e116">
+                              <w>1</w>
+                           </ref>
+                           <w>γλῶτταν</w>, <w>γαστέρα</w>, <w>τὰ</w>
+                           <w>γεννητικά</w>;</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d1e116" n="1">
+                              <w>ἀκαρεύομαι</w>
+                              <w>in</w>
+                              <w>medialer</w>
+                              <w>Form</w>, <w>Philo</w>
+                              <w>einzige</w>
+                              <w>Referenz</w>: <seg type="italic">
+                                 <w>sich</w>
+                                 <w>unpassend</w>
+                                 <w>verhalten</w>
+                              </seg>.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Daher</w>
+                           <w>feiert</w>, <w>wenn</w>
+                           <w>die</w>
+                           <w>Wahrheit</w>
+                           <w>urteilt</w>, <w>keiner</w>
+                           <w>der</w>
+                           <w>Schlechten</w>, <w>auch</w>
+                           <w>nicht</w>
+                           <w>für</w>
+                           <w>einen</w>
+                           <w>sehr</w>
+                           <w>kurzen</w>
+                           <w>Augenblick</w>, <w>weil</w>
+                           <w>er</w>
+                           <w>durch</w>
+                           <w>das</w>
+                           <w>Bewusstsein</w>
+                           <w>seiner</w>
+                           <w>Vergehen</w>
+                           <w>verängstigt</w>
+                           <w>wird</w>
+                           <w>und</w>
+                           <w>im</w>
+                           <w>Herzen</w>
+                           <w>bestürzt</w>
+                           <w>ist</w>, <w>wenn</w>
+                           <w>er</w>
+                           <w>auch</w>
+                           <w>in</w>
+                           <w>seiner</w>
+                           <w>Miene</w>
+                           <w>zu</w>
+                           <w>lächeln</w>
+                           <w>vortäuscht</w>. <w>Wie</w>
+                           <w>nämlich</w>
+                           <w>hat</w>
+                           <w>er</w>
+                           <w>rechte</w>
+                           <w>Zeit</w>
+                           <w>wahrer</w>
+                           <w>Freude</w>, <w>er</w>, <w>der</w>
+                           <w>sehr</w>
+                           <w>übel</w>
+                           <w>beraten</w>
+                           <w>ist</w>
+                           <w>und</w>
+                           <w>mit</w>
+                           <w>Unverstand</w>
+                           <w>zusammenlebt</w>
+                           <w>und</w>
+                           <w>sich</w>
+                           <w>mit</w>
+                           <w>allem</w>
+                           <w>unpassend</w>
+                           <w>verhält</w>, <w>mit</w>
+                           <w>Zunge</w>, <w>Magen</w>
+                           <w>und</w>
+                           <w>Fortpflanzungswerkzeugen</w>?</p>
+                     </div>
+                  </div>
+                  <div type="cjh-ZitatGriech">
+                     <p>
+                        <seg type="belegstelle">
+                           <w>SpecLeg II 49</w>
+                        </seg>
+                        <w>διὸ</w>
+                        <w>παρ᾽</w>
+                        <w>ἀληθείᾳ</w>
+                        <w>δικαζούσῃ</w>
+                        <w>τῶν</w>
+                        <w>φαύλων</w>
+                        <w>οὐδεὶς</w>
+                        <w>ἀλλ᾽</w>
+                        <w>οὐδὲ</w>
+                        <w>τὸν</w>
+                        <w>βραχύτατον</w>
+                        <w>χρόνον</w>
+                        <w>ἑορτάζει</w>, <w>συνειδήσει</w>
+                        <w>τῶν</w>
+                        <w>ἀδικημάτων</w>
+                        <w>ἀγχόμενος</w>
+                        <w>καὶ</w>
+                        <w>τῇ</w>
+                        <w>ψυχῇ</w>
+                        <w>κατηφῶν</w>, <w>εἰ</w>
+                        <w>καὶ</w>
+                        <w>τῷ</w>
+                        <w>προσώπῳ</w>
+                        <w>μειδιᾶν</w>
+                        <w>καθυποκρίνεται</w>
+                        <w>ποῦ</w>
+                        <w>γὰρ</w>
+                        <w>ἔχει</w>
+                        <w>καιρὸν</w>
+                        <w>ἀψευδοῦς</w>
+                        <w>εὐφροσύνης</w>
+                        <w>κακοβουλότατος</w>
+                        <w>ὢν</w>
+                        <w>καὶ</w>
+                        <w>συζῶν</w>
+                        <w>ἀφροσύνῃ</w>
+                        <w>καὶ</w>
+                        <w>περὶ</w>
+                        <w>πάντα</w>
+                        <w>ἀκαιρευόμενος</w>
+                        <ref type="erläuterungPointer" target="d1e116">
+                           <w>1</w>
+                        </ref>
+                        <w>γλῶτταν</w>, <w>γαστέρα</w>, <w>τὰ</w>
+                        <w>γεννητικά</w>;</p>
+                  </div>
+                  <div type="cjh-Zitaterläuterung">
+                     <p>
+                        <note type="zitatErläuterung" xml:id="d1e116" n="1">
+                           <w>ἀκαρεύομαι</w>
+                           <w>in</w>
+                           <w>medialer</w>
+                           <w>Form</w>, <w>Philo</w>
+                           <w>einzige</w>
+                           <w>Referenz</w>: <seg type="italic">
+                              <w>sich</w>
+                              <w>unpassend</w>
+                              <w>verhalten</w>
+                           </seg>.</note>
+                     </p>
+                  </div>
+                  <div type="cjh-ZitatÜbersetzung">
+                     <p>
+                        <w>Daher</w>
+                        <w>feiert</w>, <w>wenn</w>
+                        <w>die</w>
+                        <w>Wahrheit</w>
+                        <w>urteilt</w>, <w>keiner</w>
+                        <w>der</w>
+                        <w>Schlechten</w>, <w>auch</w>
+                        <w>nicht</w>
+                        <w>für</w>
+                        <w>einen</w>
+                        <w>sehr</w>
+                        <w>kurzen</w>
+                        <w>Augenblick</w>, <w>weil</w>
+                        <w>er</w>
+                        <w>durch</w>
+                        <w>das</w>
+                        <w>Bewusstsein</w>
+                        <w>seiner</w>
+                        <w>Vergehen</w>
+                        <w>verängstigt</w>
+                        <w>wird</w>
+                        <w>und</w>
+                        <w>im</w>
+                        <w>Herzen</w>
+                        <w>bestürzt</w>
+                        <w>ist</w>, <w>wenn</w>
+                        <w>er</w>
+                        <w>auch</w>
+                        <w>in</w>
+                        <w>seiner</w>
+                        <w>Miene</w>
+                        <w>zu</w>
+                        <w>lächeln</w>
+                        <w>vortäuscht</w>. <w>Wie</w>
+                        <w>nämlich</w>
+                        <w>hat</w>
+                        <w>er</w>
+                        <w>rechte</w>
+                        <w>Zeit</w>
+                        <w>wahrer</w>
+                        <w>Freude</w>, <w>er</w>, <w>der</w>
+                        <w>sehr</w>
+                        <w>übel</w>
+                        <w>beraten</w>
+                        <w>ist</w>
+                        <w>und</w>
+                        <w>mit</w>
+                        <w>Unverstand</w>
+                        <w>zusammenlebt</w>
+                        <w>und</w>
+                        <w>sich</w>
+                        <w>mit</w>
+                        <w>allem</w>
+                        <w>unpassend</w>
+                        <w>verhält</w>, <w>mit</w>
+                        <w>Zunge</w>, <w>Magen</w>
+                        <w>und</w>
+                        <w>Fortpflanzungswerkzeugen</w>?</p>
+                  </div>
+                  <div type="beleg-subgruppe">
+                     <head type="cjh-Überschrift-4">
+                        <w>1</w>.<w>2</w>
+                        <w>Das</w>
+                        <w>befreite</w>
+                        <w>Gewissen</w>
+                        <w>beim</w>
+                        <w>Opfer</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>SpecLeg I 203</w>
+                           </seg>
+                           <w>βούλεται</w>
+                           <w>γὰρ</w>
+                           <w>τοῦ</w>
+                           <w>θύοντος</w>
+                           <w>πρῶτον</w>
+                           <w>μὲν</w>
+                           <w>τὸν</w>
+                           <w>νοῦν</w>
+                           <w>ὡσιῶσθαι</w>
+                           <w>γνώμαις</w>
+                           <w>ἀγαθαῖς</w>
+                           <w>καὶ</w>
+                           <w>συμφερούσαις</w>
+                           <w>ἐνασκούμενον</w>, <w>ἔπειτα</w>
+                           <w>δὲ</w>
+                           <w>τὸν</w>
+                           <w>βίον</w>
+                           <w>ἐξ</w>
+                           <w>ἀρίστων</w>
+                           <w>συνεστάναι</w>
+                           <w>πράξεων</w>, <w>ὡς</w>
+                           <w>ἅμα</w>
+                           <w>τῇ</w>
+                           <w>τῶν</w>
+                           <w>χειρῶν</w>
+                           <w>ἐπιθέσει</w>
+                           <w>δύνασθαί</w>
+                           <w>τινα</w>
+                           <w>παρρησιασάμενον</w>
+                           <w>ἐκ</w>
+                           <w>καθαροῦ</w>
+                           <w>τοῦ</w>
+                           <w>συνειδότος</w>
+                           <w>τοιαῦτα</w>
+                           <w>εἰπεῖν·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Denn</w> (<w>das</w>
+                           <w>Gesetz</w>) <w>will</w>
+                           <w>erstens</w>, <w>dass</w>
+                           <w>der</w>
+                           <w>Geist</w>
+                           <w>des</w>
+                           <w>Opfernden</w>
+                           <w>entsühnt</w>
+                           <w>sei</w>
+                           <w>durch</w>
+                           <w>Versenkung</w>
+                           <w>in</w>
+                           <w>gute</w>
+                           <w>und</w>
+                           <w>nützliche</w>
+                           <w>Gedanken</w>, <w>weiterhin</w>, <w>dass</w>
+                           <w>sein</w>
+                           <w>Leben</w>
+                           <w>sich</w>
+                           <w>aus</w>
+                           <w>besten</w>
+                           <w>Taten</w>
+                           <w>zusammensetze</w>, <w>sodass</w>
+                           <w>einer</w>
+                           <w>beim</w>
+                           <w>Auflegen</w>
+                           <w>der</w>
+                           <w>Hände</w>
+                           <w>fähig</w>
+                           <w>würde</w>
+                           <w>aus</w>
+                           <w>seinem</w>
+                           <w>reinen</w>
+                           <w>Gewissen</w>
+                           <w>freimütig</w>
+                           <w>sprechend</w>
+                           <w>etwa</w>
+                           <w>so</w>
+                           <w>etwas</w>
+                           <w>zu</w>
+                           <w>sagen</w>:</p>
+                     </div>
+                  </div>
+                  <div type="cjh-ZitatGriech">
+                     <p>
+                        <seg type="belegstelle">
+                           <w>SpecLeg I 203</w>
+                        </seg>
+                        <w>βούλεται</w>
+                        <w>γὰρ</w>
+                        <w>τοῦ</w>
+                        <w>θύοντος</w>
+                        <w>πρῶτον</w>
+                        <w>μὲν</w>
+                        <w>τὸν</w>
+                        <w>νοῦν</w>
+                        <w>ὡσιῶσθαι</w>
+                        <w>γνώμαις</w>
+                        <w>ἀγαθαῖς</w>
+                        <w>καὶ</w>
+                        <w>συμφερούσαις</w>
+                        <w>ἐνασκούμενον</w>, <w>ἔπειτα</w>
+                        <w>δὲ</w>
+                        <w>τὸν</w>
+                        <w>βίον</w>
+                        <w>ἐξ</w>
+                        <w>ἀρίστων</w>
+                        <w>συνεστάναι</w>
+                        <w>πράξεων</w>, <w>ὡς</w>
+                        <w>ἅμα</w>
+                        <w>τῇ</w>
+                        <w>τῶν</w>
+                        <w>χειρῶν</w>
+                        <w>ἐπιθέσει</w>
+                        <w>δύνασθαί</w>
+                        <w>τινα</w>
+                        <w>παρρησιασάμενον</w>
+                        <w>ἐκ</w>
+                        <w>καθαροῦ</w>
+                        <w>τοῦ</w>
+                        <w>συνειδότος</w>
+                        <w>τοιαῦτα</w>
+                        <w>εἰπεῖν·</w>
+                     </p>
+                  </div>
+                  <div type="cjh-ZitatÜbersetzung">
+                     <p>
+                        <w>Denn</w> (<w>das</w>
+                        <w>Gesetz</w>) <w>will</w>
+                        <w>erstens</w>, <w>dass</w>
+                        <w>der</w>
+                        <w>Geist</w>
+                        <w>des</w>
+                        <w>Opfernden</w>
+                        <w>entsühnt</w>
+                        <w>sei</w>
+                        <w>durch</w>
+                        <w>Versenkung</w>
+                        <w>in</w>
+                        <w>gute</w>
+                        <w>und</w>
+                        <w>nützliche</w>
+                        <w>Gedanken</w>, <w>weiterhin</w>, <w>dass</w>
+                        <w>sein</w>
+                        <w>Leben</w>
+                        <w>sich</w>
+                        <w>aus</w>
+                        <w>besten</w>
+                        <w>Taten</w>
+                        <w>zusammensetze</w>, <w>sodass</w>
+                        <w>einer</w>
+                        <w>beim</w>
+                        <w>Auflegen</w>
+                        <w>der</w>
+                        <w>Hände</w>
+                        <w>fähig</w>
+                        <w>würde</w>
+                        <w>aus</w>
+                        <w>seinem</w>
+                        <w>reinen</w>
+                        <w>Gewissen</w>
+                        <w>freimütig</w>
+                        <w>sprechend</w>
+                        <w>etwa</w>
+                        <w>so</w>
+                        <w>etwas</w>
+                        <w>zu</w>
+                        <w>sagen</w>:</p>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>2</w>. <w>Josephus</w>
+                        <w>über</w>
+                        <w>die</w>
+                        <w>Bedeutung</w>
+                        <w>des</w>
+                        <w>Gewissens</w>
+                     </head>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>2</w>.<w>1</w>
+                           <w>Das</w>
+                           <w>gute</w>
+                           <w>Gewissen</w>
+                           <w>als</w>
+                           <w>Richtschnur</w>
+                           <w>und</w>
+                           <w>Lohn</w>
+                           <w>für</w>
+                           <w>rechtes</w>
+                           <w>Handeln</w>
+                        </head>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <w>Ταῦτα</w>
+                              <w>λεγούσης</w>
+                              <w>τῆς</w>
+                              <w>γυναικὸς</w>
+                              <w>καὶ</w>
+                              <w>δακρυούσης</w>
+                              <w>οὔτε</w>
+                              <w>οἶκτος</w>
+                              <w>αὐτὸν</w>
+                              <w>μὴ</w>
+                              <w>σωφρονεῖν</w>
+                              <w>ἔπεισεν</w>
+                              <w>οὔτ᾽</w>
+                              <w>ἠνάγκασε</w>
+                              <w>φόβος</w>, <w>ἀλλὰ</w>
+                              <w>ταῖς</w>
+                              <w>δεήσεσιν</w>
+                              <w>ἀντέσχε</w>
+                              <w>καὶ</w>
+                              <w>ταῖς</w>
+                              <w>ἀπειλαῖς</w>
+                              <w>οὐκ</w>
+                              <w>ἐνέδωκε</w>
+                              <w>καὶ</w>
+                              <w>παθεῖν</w>
+                              <w>ἀδίκως</w>, <w>κἄν</w>
+                              <w>ὑπομένῃ</w>
+                              <w>τι</w>
+                              <w>τῶν</w>
+                              <w>χαλεπωτέρων</w>, <w>εἵλετο</w>
+                              <w>μᾶλλον</w>
+                              <w>ἢ</w>
+                              <w>τῶν</w>
+                              <w>παρόντων</w>
+                              <w>ἀπολαύειν</w>
+                              <w>χαρισάμενος</w>
+                              <w>ἐφ᾽</w>
+                              <w>οἷς</w>
+                              <w>ἂν</w>
+                              <w>αὑτῷ</w>
+                              <w>συνειδῇ</w>
+                              <w>δικαίως</w>
+                              <w>ἀπολουμένῳ</w>. (<w>51</w>)<w> γάμου</w>
+                              <w>τε</w>
+                              <w>αὐτὴν</w>
+                              <w>ὑπεμίμνησκε</w>
+                              <w>καὶ</w>
+                              <w>τῆς</w>
+                              <w>πρὸς</w>
+                              <w>τὸν</w>
+                              <w>ἄνδρα</w>
+                              <w>συμβιώσεως</w>
+                              <w>καὶ</w>
+                              <w>τούτοις</w>
+                              <w>τὸ</w>
+                              <w>πλέον</w>
+                              <w>νέμειν</w>
+                              <w>ἢ</w>
+                              <w>προσκαίρῳ</w>
+                              <w>τῆς</w>
+                              <w>ἐπιθυμίας</w>
+                              <w>ἡδονῇ</w>
+                              <w>παρεκάλει</w>, <w>τῆς</w>
+                              <w>μὲν</w>
+                              <w>καὶ</w>
+                              <w>μετάνοιαν</w>
+                              <w>ἑξούσης</w>
+                              <w>αὖθις</w>
+                              <w>ἐπ᾽</w>
+                              <w>ὀδύνῃ</w>
+                              <w>γενησομένην</w>
+                              <w>οὐκ</w>
+                              <w>ἐπὶ</w>
+                              <w>διορθώσει</w>
+                              <w>τῶν</w>
+                              <w>ἡμαρτημένων</w>
+                              <w>καὶ</w>
+                              <w>φόβον</w>
+                              <w>του</w>
+                              <w>μὴ</w>
+                              <w>κατάφωρον</w>
+                              <w>γενέσθαι</w>
+                              <w>καὶ</w>
+                              <w>χάριν</w>
+                              <w>τοῦ</w>
+                              <w>λαθεῖν</w>
+                              <w>ἀγνοουμένου</w>
+                              <w>τοῦ</w>
+                              <w>κακοῦ</w>, (<w>52</w>)<w> τῆς</w>
+                              <w>δὲ</w>
+                              <w>πρὸς</w>
+                              <w>τὸν</w>
+                              <w>ἄνδρα</w>
+                              <w>κοινωνίας</w>
+                              <w>ἀπόλαυσιν</w>
+                              <w>ἐχούσης</w>
+                              <w>ἀκίνδυνον</w>
+                              <w>καὶ</w>
+                              <w>προσέτι</w>
+                              <w>πολλὴν</w>
+                              <w>τὴν</w>
+                              <w>ἀπὸ</w>
+                              <w>τοῦ</w>
+                              <w>συνειδότος</w>
+                              <w>καὶ</w>
+                              <w>πρὸς</w>
+                              <w>τὸν</w>
+                              <w>θεὸν</w>
+                              <w>παρρησίαν</w>
+                              <w>καὶ</w>
+                              <w>πρὸς</w>
+                              <w>τοὺς</w>
+                              <w>ἀνθρώπους·</w>
+                              <w>καὶ</w>
+                              <w>ὡς</w>
+                              <w>αὐτοῦ</w>
+                              <w>δεσπόσει</w>
+                              <w>μᾶλλον</w>
+                              <w>μείνασα</w>
+                              <w>καθαρὰ</w>
+                              <w>καὶ</w>
+                              <w>δεσποίνης</w>
+                              <w>ἐξουσίᾳ</w>
+                              <w>χρήσεται</w>
+                              <w>πρὸς</w>
+                              <w>αὐτόν</w>, <w>ἀλλ᾽</w>
+                              <w>οὐ</w>
+                              <w>συνεξαμαρτάνοντος</w>
+                              <w>αἰδοῖ·</w>
+                              <w>πολὺ</w>
+                              <w>δὲ</w>
+                              <w>κρεῖττον</w>
+                              <w>εἶναι</w>
+                              <w>θαρρεῖν</w>
+                              <w>ἐπὶ</w>
+                              <w>γινωσκομένοις</w>
+                              <w>τοῖς</w>
+                              <w>εὖ</w>
+                              <w>βεβιωμένοις</w>
+                              <w>ἢ</w>
+                              <w>ἐπὶ</w>
+                              <w>λανθανούσῃ</w>
+                              <w>κακοπραγίᾳ</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>Als</w>
+                              <w>die</w>
+                              <w>Frau</w> (<w>des</w>
+                              <w>Potifar</w>) <w>dieses</w>
+                              <w>gesagt</w>
+                              <w>hatte</w>
+                              <w>und</w>
+                              <w>in</w>
+                              <w>Tränen</w>
+                              <w>ausgebrochen</w>
+                              <w>war</w>, <w>befiel</w>
+                              <w>ihn</w> (<w>sc</w>. <w>Josef</w>) <w>weder</w>
+                              <w>Mitleid</w>, <w>so</w>
+                              <w>dass</w>
+                              <w>er</w>
+                              <w>nicht</w>
+                              <w>mehr</w>
+                              <w>vernünftig</w>
+                              <w>gewesen</w>
+                              <w>wäre</w>, <w>noch</w>
+                              <w>setzte</w>
+                              <w>ihn</w>
+                              <w>Furcht</w>
+                              <w>unter</w>
+                              <w>Druck</w>, <w>sondern</w>
+                              <w>er</w>
+                              <w>widerstand</w>
+                              <w>den</w>
+                              <w>Bitten</w>
+                              <w>und</w>
+                              <w>Drohungen</w>
+                              <w>und</w>
+                              <w>willigte</w>
+                              <w>nicht</w>
+                              <w>ein</w>, <w>Unrecht</w>
+                              <w>zu</w>
+                              <w>tun</w>; <w>selbst</w>
+                              <w>wenn</w>
+                              <w>er</w>
+                              <w>das</w>
+                              <w>Schlimmste</w>
+                              <w>erdulden</w>
+                              <w>sollte</w>, <w>so</w>
+                              <w>wählte</w>
+                              <w>er</w>
+                              <w>dies</w>
+                              <w>umso</w>
+                              <w>mehr</w>, <w>als</w>
+                              <w>vergängliche</w>
+                              <w>Wohltaten</w>
+                              <w>zu</w>
+                              <w>genießen</w>, <w>durch</w>
+                              <w>die</w>
+                              <w>sein</w>
+                              <w>Gewissen</w>
+                              <w>zu</w>
+                              <w>Recht</w>
+                              <w>zugrunde</w>
+                              <w>gehen</w>
+                              <w>würde</w>. (<w>51</w>) <w>Er</w>
+                              <w>erinnerte</w>
+                              <w>sie</w>
+                              <w>auch</w>
+                              <w>ihrer</w>
+                              <w>Ehe</w>
+                              <w>und</w> (<w>ihrer</w>
+                              <w>Pflichten</w>) <w>des</w>
+                              <w>Zusammenlebens</w>
+                              <w>mit</w>
+                              <w>ihrem</w>
+                              <w>Mann</w>, <w>und</w>
+                              <w>ermahnte</w>
+                              <w>sie</w>, <w>diese</w>
+                              <w>ernster</w>
+                              <w>zu</w>
+                              <w>nehmen</w>
+                              <w>als</w>
+                              <w>die</w>
+                              <w>Begierde</w>
+                              <w>kurzer</w>
+                              <w>Lust</w>, <w>die</w>
+                              <w>unverzüglich</w>
+                              <w>unter</w>
+                              <w>Schmerzen</w>
+                              <w>Reue</w>
+                              <w>hervorrufen</w>
+                              <w>würde</w>, <w>die</w>
+                              <w>die</w>
+                              <w>Verfehlungen</w>
+                              <w>nicht</w>
+                              <w>wiedergutmachen</w>
+                              <w>könnte</w>; <w>sowie</w>
+                              <w>der</w>
+                              <w>Furcht</w>
+                              <w>entdeckt</w>
+                              <w>zu</w>
+                              <w>werden</w>
+                              <w>und</w>
+                              <w>der</w> (<w>einzigen</w>) <w>Freude</w>, <w>das</w>
+                              <w>unnennbare</w>
+                              <w>Böse</w>
+                              <w>geheim</w>
+                              <w>zu</w>
+                              <w>halten</w>. (<w>52</w>) <w>Die</w>
+                              <w>Gemeinschaft</w>
+                              <w>aber</w>
+                              <w>mit</w>
+                              <w>ihrem</w>
+                              <w>Mann</w>
+                              <w>bringe</w>
+                              <w>ungefährdete</w>
+                              <w>Freude</w>
+                              <w>und</w>
+                              <w>darüber</w>
+                              <w>hinaus</w>
+                              <w>viel</w>
+                              <w>Freimut</w>
+                              <w>Gott</w>
+                              <w>und</w>
+                              <w>den</w>
+                              <w>Menschen</w>
+                              <w>gegenüber</w>. <w>Auch</w>
+                              <w>werde</w>
+                              <w>sie</w>, <w>wenn</w>
+                              <w>sie</w>
+                              <w>rein</w>
+                              <w>bleibe</w>, <w>eher</w>
+                              <w>die</w>
+                              <w>Vollmacht</w>
+                              <w>der</w>
+                              <w>Herrin</w>
+                              <w>ihm</w>
+                              <w>gegenüber</w>
+                              <w>ausüben</w>
+                              <w>können</w>
+                              <w>als</w>
+                              <w>wenn</w>
+                              <w>die</w>
+                              <w>Scham</w>
+                              <w>über</w>
+                              <w>seine</w>
+                              <w>Mitwisserschaft</w>
+                              <w>in</w>
+                              <w>den</w>
+                              <w>Verfehlungen</w>
+                              <w>sie</w>
+                              <w>beschränke</w>. <w>Denn</w>
+                              <w>es</w>
+                              <w>ist</w>
+                              <w>viel</w>
+                              <w>besser</w>, <w>mutig</w>
+                              <w>zu</w>
+                              <w>sein</w>
+                              <w>im</w>
+                              <w>Wissen</w>
+                              <w>darum</w>, <w>ein</w>
+                              <w>gutes</w>
+                              <w>Leben</w>
+                              <w>zu</w>
+                              <w>führen</w>, <w>als</w>
+                              <w>im</w>
+                              <w>Geheimen</w>
+                              <w>Übeltaten</w>
+                              <w>zu</w>
+                              <w>vollziehen</w>.</p>
+                        </div>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>2</w>.<w>2</w>
+                           <w>Das</w>
+                           <w>Gewissen</w>
+                           <w>als</w>
+                           <w>Zeugnis</w>
+                           <w>eines</w>
+                           <w>gesetzestreuen</w>
+                           <w>Lebens</w>
+                        </head>
+                        <div source="Ap II 217–218" type="texteinleitung">
+                           <p>
+                              <w>In</w>
+                              <w>Ap II 217–218</w>
+                              <w>benennt</w>
+                              <w>Josephus</w>
+                              <w>das</w>
+                              <w>Gewissen</w> (<w>τὸ</w>
+                              <w>συνειδός</w>) <w>als</w>
+                              <w>Zeugnisinstanz</w>
+                              <w>für</w>
+                              <w>jeden</w>
+                              <w>Menschen</w>, <w>die</w>
+                              <w>ihn</w>
+                              <w>eines</w>
+                              <w>den</w>
+                              <w>Gesetzen</w>
+                              <w>Gottes</w>
+                              <w>gemäßen</w>
+                              <w>Lebens</w>
+                              <w>vergewissert</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <w>περὶ</w>
+                              <w>μὲν</w>
+                              <w>γὰρ</w>
+                              <w>γονέων</w>
+                              <w>ἀδικίας</w>
+                              <w>ἢ</w>
+                              <w>τῆς</w>
+                              <w>εἰς</w>
+                              <w>θεὸν</w>
+                              <w>ἀσεβείας</w>, <w>κἂν</w>
+                              <w>μελλῃ</w>
+                              <w>τις</w>, <w>εὐθὺς</w>
+                              <w>ἀπόλλυται</w>. <w>τοῖς</w>
+                              <w>μέντοι</w>
+                              <w>γε</w>
+                              <w>κατὰ</w>
+                              <w>τοὺς</w>
+                              <w>νόμους</w>
+                              <w>πάντα</w>
+                              <w>πράττουσι</w>
+                              <w>γέρας</w>
+                              <w>ἐστὶν</w>
+                              <w>οὐκ</w>
+                              <w>ἀργύριον</w>
+                              <w>οὐδὲ</w>
+                              <w>χρυσός</w>, <w>οὐ</w>
+                              <w>μὴν</w>
+                              <w>οὐδὲ</w>
+                              <w>κοτίνου</w>
+                              <w>στέφανος</w>
+                              <w>ἢ</w>
+                              <w>σελίνου</w>
+                              <w>καὶ</w>
+                              <w>τοιαύτη</w>
+                              <w>τις</w>
+                              <w>ἀνακήρυξις</w>
+                              <ref type="erläuterungPointer" target="d1e160">
+                                 <w>1</w>
+                              </ref>, (<w>218</w>)<w> ἀλλ᾿</w>
+                              <w>αὐτὸς</w>
+                              <w>ἕκαστος</w>
+                              <w>αὑτῷ</w>
+                              <w>τὸ</w>
+                              <w>συνειδὸς</w>
+                              <w>ἔχων</w>
+                              <w>μαρτυροῦν</w>
+                              <w>πεπίστευκε</w>, (<w>τοῦ</w>
+                              <w>μὲν</w>
+                              <w>νομοθέτου</w>
+                              <w>προφητεύσαντος</w>, <w>τοῦ</w>
+                              <w>δὲ</w>
+                              <w>θεοῦ</w>
+                              <w>τὴν</w>
+                              <w>πίστιν</w>
+                              <w>ἰσχυρὰν</w>
+                              <w>παρεσχηκότος</w>
+                              <ref type="erläuterungPointer" target="d1e168">
+                                 <w>2</w>
+                              </ref>) <w>ὅτι</w>
+                              <w>τοῖς</w>
+                              <w>τοὺς</w>
+                              <w>νόμους</w>
+                              <w>διαφυλάξασι</w>
+                              <w>κἂν</w>
+                              <w>εἰ</w>
+                              <w>δέοι</w>
+                              <w>θνήσκειν</w>
+                              <w>ὑπὲρ</w>
+                              <w>αὐτῶν</w>, <w>προθύμως</w>
+                              <w>ἀποθανοῦσιν</w>
+                              <w>ἔδωκεν</w>
+                              <w>ὁ</w>
+                              <w>θεὸς</w>
+                              <w>γενέσθαι</w>
+                              <w>τε</w>
+                              <w>πάλιν</w>
+                              <w>καὶ</w>
+                              <w>βίον</w>
+                              <w>ἀμείνω</w>
+                              <w>λαβεῖν</w>
+                              <w>ἐκ</w>
+                              <w>περιτροπῆς</w>.</p>
+                        </div>
+                        <div type="cjh-Zitaterläuterung">
+                           <p>
+                              <note type="zitatErläuterung" xml:id="d1e160" n="1">
+                                 <seg type="cjh-Griechisch">
+                                    <w>ἀνακήρυξις</w>
+                                 </seg>: <w>LSJ</w>
+                                 <seg type="italic">
+                                    <w>proclamation</w>
+                                 </seg>; <w>sehr</w>
+                                 <w>selten</w>
+                                 <w>gebraucht</w> (<w>Poll</w>. <w>8</w>,<w>130</w>; <w>Just</w>. <w>Nov</w>. <w>6</w>,<w>1</w>,<w>9</w>). <seg type="cjh-Hochzahl">
+                                    <w>2</w>
+                                 </seg>
+                              </note>
+                              <note type="zitatErläuterung" xml:id="d1e168" n="2">
+                                 <seg type="cjh-Griechisch">
+                                    <w>τοῦ</w>
+                                    <w>μὲν</w>
+                                    <w>νομοθέτου</w>
+                                    <w>προφητεύσαντος</w>, <w>τοῦ</w>
+                                    <w>δὲ</w>
+                                    <w>θεοῦ</w>
+                                    <w>τὴν</w>
+                                    <w>πίστιν</w>
+                                    <w>ἰσχυρὰν</w>
+                                    <w>παρεσχηκότος</w>
+                                 </seg>: <w>Genitivus</w>
+                                 <w>absolutus</w>.</note>
+                           </p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>Was</w>
+                              <w>das</w>
+                              <w>Unrecht</w>
+                              <w>gegenüber</w>
+                              <w>den</w>
+                              <w>Eltern</w>
+                              <w>oder</w>
+                              <w>die</w>
+                              <w>Gottlosigkeit</w>
+                              <w>gegenüber</w>
+                              <w>Gott</w>
+                              <w>angeht</w>, <w>wird</w>, <w>wenn</w>
+                              <w>jemand</w>
+                              <w>nur</w>
+                              <w>im</w>
+                              <w>Begriff</w>
+                              <w>ist</w>
+                              <w>es</w>
+                              <w>zu</w>
+                              <w>tun</w>, <w>er</w>
+                              <w>sofort</w>
+                              <w>zugrunde</w>
+                              <w>gehen</w>. <w>Diejenigen</w>
+                              <w>aber</w>, <w>die</w>
+                              <w>dem</w>
+                              <w>Gesetz</w>
+                              <w>gemäß</w>
+                              <w>leben</w>, <w>deren</w>
+                              <w>Lohn</w>
+                              <w>ist</w>
+                              <w>nicht</w>
+                              <w>Silber</w>
+                              <w>oder</w>
+                              <w>Gold</w>, <w>auch</w>
+                              <w>kein</w>
+                              <w>Kranz</w>
+                              <w>aus</w>
+                              <w>wilden</w>
+                              <w>Ölzweigen</w>
+                              <w>oder</w>
+                              <w>Eppich</w>, <w>und</w>
+                              <w>dergleichen</w>
+                              <w>Bekanntmachung</w>, (<w>218</w>) <w>sondern</w>
+                              <w>ein</w>
+                              <w>jeder</w>
+                              <w>hat</w>
+                              <w>ein</w>
+                              <w>Bewusstsein</w>
+                              <w>seiner</w>
+                              <w>selbst</w>
+                              <w>zum</w>
+                              <w>Zeugen</w>
+                              <w>und</w>
+                              <w>vertraut</w>
+                              <w>darauf</w>, <w>–</w>
+                              <w>was</w>
+                              <w>der</w>
+                              <w>Gesetzgeber</w>
+                              <w>prophezeit</w>
+                              <w>und</w>
+                              <w>Gott</w>
+                              <w>hinreichend</w>
+                              <w>bekräftigt</w>
+                              <w>hat</w>
+                              <w>–</w>
+                              <w>dass</w>
+                              <w>Gott</w>
+                              <w>denen</w>, <w>die</w>
+                              <w>die</w>
+                              <w>Gesetze</w>
+                              <w>hielten</w>
+                              <w>und</w>
+                              <w>wenn</w>
+                              <w>es</w>
+                              <w>sein</w>
+                              <w>musste</w>
+                              <w>auch</w>
+                              <w>für</w>
+                              <w>sie</w>
+                              <w>starben</w>, <w>bereitwillig</w>
+                              <w>starben</w>, <w>erneutes</w>
+                              <w>Werden</w>
+                              <w>und</w>
+                              <w>ein</w>
+                              <w>besseres</w>
+                              <w>Leben</w>
+                              <w>zu</w>
+                              <w>empfangen</w>
+                              <w>durch</w>
+                              <w>die</w>
+                              <w>Veränderung</w>
+                              <w>aller</w>
+                              <w>Dinge</w>
+                              <w>gewährt</w>
+                              <w>hat</w>.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>3</w>. <w>Das</w> „<w>reine</w>
+                        <w>Herz</w>“ <w>in</w>
+                        <w>den</w>
+                        <w>TestXII</w>
+                     </head>
+                     <div type="texteinleitung">
+                        <p>
+                           <w>Die</w>
+                           <w>vor</w>
+                           <w>Neid</w>
+                           <w>und</w>
+                           <w>Zweitracht</w>
+                           <w>bewahrende</w>
+                           <w>Kraft</w>
+                           <w>gegenseitiger</w>
+                           <w>Liebe</w>
+                           <w>mit</w>
+                           <w>einem</w> „<w>guten</w>
+                           <w>Herzen”</w>
+                           <w>betont</w>
+                           <w>TestSim 4</w>,<w>7</w>.</p>
+                        <p>
+                           <w>Eine</w>
+                           <w>theologische</w>
+                           <w>Bedeutung</w>
+                           <w>des</w>
+                           <w>reinen</w>
+                           <w>Herzens</w>
+                           <w>in</w>
+                           <w>einem</w>
+                           <w>paränetischen</w>
+                           <w>Kontext</w>
+                           <w>als</w>
+                           <w>Voraussetzung</w>
+                           <w>für</w>
+                           <w>die</w>
+                           <w>ein</w>
+                           <w>gottgefälliges</w>
+                           <w>Leben</w>
+                           <w>findet</w>
+                           <w>sich</w>
+                           <w>in</w>
+                           <w>TestNaf 3</w>,<w>1</w>
+                           <w>und</w>
+                           <w>TestJos 4</w>,<w>6</w>.</p>
+                        <p>
+                           <w>3</w>.<w>1</w>
+                           <w>Das</w>
+                           <w>gute</w>
+                           <w>Herz</w>
+                           <w>kennt</w>
+                           <w>keinen</w>
+                           <w>Neid</w>
+                        </p>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>3</w>.<w>1</w>
+                           <w>Das</w>
+                           <w>gute</w>
+                           <w>Herz</w>
+                           <w>kennt</w>
+                           <w>keinen</w>
+                           <w>Neid</w>
+                        </head>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <seg type="belegstelle">
+                                 <w>TestSim 4</w>,<w>7</w>
+                              </seg>
+                              <w>Καὶ</w>
+                              <w>ὐμεῖς</w>
+                              <w>οὖν</w>, <w>τέκνα</w>
+                              <w>μου</w>
+                              <w>ἀγαπητά</w>, <w>ἀγαπήσατε</w>
+                              <w>ἕκαστος</w>
+                              <w>τὸν</w>
+                              <w>ἀδελφόν</w>
+                              <w>αὐτοῦ</w>
+                              <w>ἐν</w>
+                              <w>ἀγαθῇ</w>
+                              <w>καρδίᾳ</w>, <w>καὶ</w>
+                              <w>ἀποστήσατε</w>
+                              <w>ἀφ᾽</w>
+                              <w>ὑμῶν</w>
+                              <w>τὸ</w>
+                              <w>πνεῦμα</w>
+                              <w>τοῦ</w>
+                              <w>φθόνου·</w>
+                           </p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>Und</w>
+                              <w>ihr</w>
+                              <w>nun</w>, <w>meine</w>
+                              <w>geliebten</w>
+                              <w>Kinder</w>, <w>liebt</w>
+                              <w>ein</w>
+                              <w>jeder</w>
+                              <w>seinen</w>
+                              <w>Bruder</w>
+                              <w>mit</w>
+                              <w>gutem</w>
+                              <w>Herzen</w>
+                              <w>und</w>
+                              <w>haltet</w>
+                              <w>von</w>
+                              <w>euch</w>
+                              <w>den</w>
+                              <w>Geist</w>
+                              <w>des</w>
+                              <w>Neides</w>
+                              <w>fern</w>.</p>
+                        </div>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>3</w>.<w>2</w>
+                           <w>Ein</w>
+                           <w>reines</w>
+                           <w>Herz</w>
+                           <w>handelt</w>
+                           <w>nach</w>
+                           <w>dem</w>
+                           <w>Willen</w>
+                           <w>Gottes</w>
+                        </head>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <seg type="belegstelle">
+                                 <w>TestNaf</w>
+                                 <w>3</w>,<w>1</w>
+                              </seg>
+                              <w>Μὴ</w>
+                              <w>οὖν</w>
+                              <w>σπουδάζετε</w>
+                              <w>ἐν</w>
+                              <w>πλεονεξίᾳ</w>
+                              <w>διαφθεῖραι</w>
+                              <w>τὰς</w>
+                              <w>πράξεις</w>
+                              <w>ὑμῶν</w>, <w>ἢ</w>
+                              <w>ἐν</w>
+                              <w>λόγοις</w>
+                              <w>κενοῖς</w>
+                              <w>ἀπατᾶν</w>
+                              <w>τὰς</w>
+                              <w>ψυχὰς</w>
+                              <w>ὑμῶν</w>, <w>ὅτι</w>
+                              <w>σιωπῶντες</w>
+                              <w>ἐν</w>
+                              <w>καθαρότητι</w>
+                              <w>καρδίας</w>
+                              <w>συνήσετε</w>
+                              <w>τὸ</w>
+                              <w>θέλημα</w>
+                              <w>τοῦ</w>
+                              <w>Θεοῦ</w>
+                              <w>κρατεῖν</w>
+                              <w>καὶ</w>
+                              <w>ἀπορρίπτειν</w>
+                              <w>τὸ</w>
+                              <w>θέλημα</w>
+                              <w>τοῦ</w>
+                              <w>διαβὸλου</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>Bemüht</w>
+                              <w>euch</w>
+                              <w>daher</w>
+                              <w>nicht</w>
+                              <w>in</w>
+                              <w>Habgier</w>
+                              <w>euer</w>
+                              <w>Tun</w>
+                              <w>zu</w>
+                              <w>zerstören</w>, <w>oder</w>
+                              <w>mit</w>
+                              <w>leeren</w>
+                              <w>Worten</w>
+                              <w>eure</w>
+                              <w>Seelen</w>
+                              <w>in</w>
+                              <w>die</w>
+                              <w>Irre</w>
+                              <w>zu</w>
+                              <w>führen</w>, <w>denn</w>
+                              <w>wenn</w>
+                              <w>ihr</w>
+                              <w>still</w>
+                              <w>seid</w>
+                              <w>mit</w>
+                              <w>reinem</w>
+                              <w>Herzen</w>, <w>werdet</w>
+                              <w>ihr</w>
+                              <w>verstehen</w>, <w>den</w>
+                              <w>Willen</w>
+                              <w>Gottes</w>
+                              <w>festzuhalten</w>
+                              <w>und</w>
+                              <w>den</w>
+                              <w>Willen</w>
+                              <w>des</w>
+                              <w>Teufels</w>
+                              <w>zu</w>
+                              <w>verwerfen</w>.</p>
+                        </div>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>3</w>.<w>3</w>
+                           <w>Ein</w>
+                           <w>reines</w>
+                           <w>Herz</w>
+                           <w>gefällt</w>
+                           <w>dem</w>
+                           <w>Herrn</w>
+                        </head>
+                        <div type="cjh-ZitatGriechA">
+                           <p>
+                              <seg type="belegstelle">
+                                 <w>TestJos 4</w>,<w>6</w>
+                              </seg>
+                              <w>Οὐκ</w>
+                              <w>ἐν</w>
+                              <w>ἀκαθαρσίᾳ</w>
+                              <w>θέλει</w>
+                              <w>κύριος</w>
+                              <w>τοὺς</w>
+                              <w>σεβομένους</w>
+                              <w>αὐτόν</w>, <w>οὔδε</w>
+                              <w>εν</w>
+                              <w>τοῖς</w>
+                              <w>μοιχεύουσιν</w>
+                              <w>εὐδοκεῖ</w>. </p>
+                        </div>
+                        <div type="cjh-ZitatGriechM">
+                           <p>(<w>ἀλλὰ</w>
+                              <w>τοῖς</w>
+                              <w>ἐν</w>
+                              <w>καθαρᾷ</w>
+                              <w>καρδίᾳ</w>
+                              <w>καὶ</w>
+                              <w>στόμασιν</w>
+                              <w>ἀμιάντοις</w>
+                              <w>αὐτῷ</w>
+                              <w>προσερχομένοις</w>.) </p>
+                        </div>
+                        <div type="cjh-ZitatübersA">
+                           <p>
+                              <w>Der</w>
+                              <w>Herr</w>
+                              <w>will</w>
+                              <w>nicht</w>, <w>dass</w>
+                              <w>die</w>, <w>die</w>
+                              <w>ihn</w>
+                              <w>verehren</w>, <w>in</w>
+                              <w>Unreinheit</w>
+                              <w>leben</w>, <w>er</w>
+                              <w>hat</w>
+                              <w>auch</w>
+                              <w>keinen</w>
+                              <w>Wohlgefallen</w>
+                              <w>an</w>
+                              <w>denen</w>, <w>die</w>
+                              <w>die</w>
+                              <w>Ehe</w>
+                              <w>brechen</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatübersM">
+                           <p>(<w>sondern</w>
+                              <w>an</w>
+                              <w>denen</w>, <w>die</w>
+                              <w>mit</w>
+                              <w>reinem</w>
+                              <w>Herzen</w>
+                              <w>und</w>
+                              <w>unbefleckten</w>
+                              <w>Lippen</w>
+                              <w>zu</w>
+                              <w>ihm</w>
+                              <w>kommen</w>.)</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,853 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,15</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:15</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_15</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_015">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.15;" n="1">
+               <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>
+               <head type="cjh-Überschrift-2">1,15 [Überschrift ἀποδοχῆς ἄξιος]</head>
+               <div type="sectionA"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Praem</w>
+                        <w>13</w>
+                     </seg>
+                     <seg type="beleg-section" n="Epigraphik">
+                        <w>|11</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle-erläutert">
+                        <w>Inschrift</w>
+                        <w>von</w>
+                        <w>Priene</w>
+                        <w>Nr</w>. <w>64</w>
+                     </seg>
+                     <seg type="bold">; </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>Inschrift</w>
+                        <w>von</w>
+                        <w>Priene</w>
+                        <w>65</w>
+                     </seg>
+                     <seg type="bold">; </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>SIG</w>
+                        <w>II</w>
+                        <w>799</w>
+                     </seg>
+                     <seg type="bold">; </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>New</w>
+                        <w>Docs</w>
+                        <w>IV</w>, <w>Nr</w>. <w>19</w>
+                        <w>A</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC"/>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>1</w>. <w>Über</w>
+                        <w>die</w>
+                        <w>Vortrefflichkeit</w>
+                        <w>des</w>
+                        <w>Moschinos</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>Inschrift</w>
+                              <w>von</w>
+                              <w>Priene</w>, <w>in</w>: <w>Blümel</w>
+                              <w>2014</w>, <w>Nr</w>. <w>64</w>, <w>Z</w>. <w>309–314</w>
+                           </seg>
+                           <w>πρὸς</w>
+                           <w>τὸν</w>
+                           <w>δῆμο[ν] εὐερ[γετικ]ῶς</w>
+                           <w>καὶ [τὴ]ν</w>
+                           <w>ἰδίαν</w>
+                           <w>κ[αλοκαγαθί]α̣[ν</w>, …<w>ἀεί]</w>
+                           <w>τινος</w>
+                           <w>ἀγαθοῦ παραίτιον</w>
+                           <w>γι̣νόμενον·</w>
+                           <w>ἵνα [κ]α̣ὶ</w>
+                           <w>οἱ</w>
+                           <w>μετὰ</w>
+                           <w>ταῦτα</w>
+                           <w>θεωροῦντες</w>
+                           <w>ἐν</w>
+                           <w>ἀποδοχῆι</w>
+                           <w>τῆι</w>
+                           <w>μεγίστηι</w>
+                           <w>γινομένους</w>
+                           <w>το[ὺς</w>
+                           <w>τοιού]τ̣ο̣υ̣ς</w>
+                           <w>ἄνδρας</w>
+                           <w>προθύμους</w>
+                           <w>ἑαυτοὺς</w>
+                           <w>παρασκευάζ[ω]σιν</w>
+                           <w>εἰς</w>
+                           <w>τὰ</w>
+                           <w>τῆ[ι</w>
+                           <w>πατρίδι]</w>
+                           <w>συμφέροντα</w>, <w>δεδόχθαι</w>
+                           <w>τῇ</w>
+                           <w>βουλῇ</w>
+                           <w>καὶ</w>
+                           <w>τῷ</w>
+                           <w>δήμῳ·</w>
+                           <w>ἐπῃνῆσθαί</w>
+                           <w>τε</w>
+                           <w>Μοσχίωνα</w>
+                           <w>Κυδίμου</w>
+                           <w>ἐπὶ</w>
+                           <w>τοῖς</w>
+                           <w>προγεγραμμένοις</w>
+                           <w>πᾶσιν </w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Wohltätig</w>
+                           <w>zum</w>
+                           <w>Volk</w>
+                           <w>und</w>
+                           <w>seine</w>
+                           <w>eigene</w>
+                           <w>Vortrefflichkeit</w>
+                           <w>[</w>...<w>]</w>, <w>indem</w>
+                           <w>er</w>
+                           <w>immer</w>
+                           <w>die</w>
+                           <w>Mitursache</w>
+                           <w>irgendetwas</w>
+                           <w>Guten</w>
+                           <w>wurde</w>. <w>Damit</w>
+                           <w>auch</w>
+                           <w>die</w>
+                           <w>Nachfolgenden</w>, <w>wenn</w>
+                           <w>sie</w>
+                           <w>sehen</w>, <w>dass</w>
+                           <w>solche</w>
+                           <w>mutigen</w>
+                           <w>Männer</w>
+                           <w>in</w>
+                           <w>höchster</w>
+                           <w>Gunst</w>
+                           <w>stehen</w>, <w>veranlasst</w>
+                           <w>werden</w>
+                           <w>in</w>
+                           <w>den</w>
+                           <w>Interessen</w>
+                           <w>der</w>
+                           <w>Stadt</w> (<w>zu</w>
+                           <w>handeln</w>), <w>möge</w>
+                           <w>von</w>
+                           <w>Rat</w>
+                           <w>und</w>
+                           <w>Volk</w>
+                           <w>beschlossen</w>
+                           <w>sein</w>: <w>Gelobt</w>
+                           <w>soll</w>
+                           <w>sein</w>
+                           <w>Moschion</w>
+                           <w>Sohn</w>
+                           <w>des</w>
+                           <w>Kydimos</w>
+                           <w>für</w>
+                           <w>all</w>
+                           <w>das</w>, <w>was</w>
+                           <w>vorstehend</w>
+                           <w>geschrieben</w>
+                           <w>steht</w>, <w>[</w>…<w>]</w>.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>2</w>. <w>Über</w>
+                        <w>die</w>
+                        <w>innigliche</w>
+                        <w>Zustimmung</w>
+                        <w>der</w>
+                        <w>Bürgerschaft</w>
+                     </head>
+                     <div type="cjh-ZitatGriechA">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>Inschrift</w>
+                              <w>von</w>
+                              <w>Priene</w>, <w>in</w>: <w>Blümel</w>
+                              <w>2014</w>, <w>Nr</w>. <w>65</w>
+                           </seg>
+                           <w>[</w>...<w>πλείστων</w>
+                           <w>ἀ]νθρώπων</w>
+                           <w>αὐτοῖς</w>
+                           <w>ἑπ̣[ομένων</w>
+                           <w>εἰς</w>
+                           <w>τὴν</w>
+                           <w>ἰ]δίαν</w>
+                           <w>[οἰκί]-</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechM">
+                        <p>
+                           <w>[αν</w>
+                           <w>τὴν</w>
+                           <w>νύμφην]</w>
+                           <w>εἰσήγετο</w>
+                           <w>σὺν</w>
+                           <w>δαιδο[υχίαις</w>
+                           <w>τε</w>
+                           <w>τὸ]ν</w>
+                           <w>γάμον</w>
+                           <w>[ἐποιήσατο]</w>, <w>διὰ</w>
+                           <w>πάντων</w>
+                           <w>δὲ</w>
+                           <w>μαρτυρομένην</w>
+                           <w>ἔ[σχηκὼς]</w>
+                           <w>τὴν</w>
+                           <w>[παρὰ</w>
+                           <w>τῶν</w>
+                           <w>θ]ε̣ῶν</w>
+                           <w>εὐμένειαν</w>
+                           <w>καὶ</w>
+                           <w>τὴν</w>
+                           <w>παρὰ</w>
+                           <w>τῶν</w>
+                           <w>πο[λιτ]ῶν</w>
+                           <w>ἐ[κτενῆ]</w>
+                           <w>ἀποδοχήν·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Er</w>
+                           <w>führte</w>
+                           <w>die</w>
+                           <w>Braut</w>
+                           <w>in</w>
+                           <w>sein</w>
+                           <w>eigenes</w>
+                           <w>Haus</w>, <w>während</w>
+                           <w>sehr</w>
+                           <w>viele</w>
+                           <w>Menschen</w>
+                           <w>ihnen</w>
+                           <w>folgten</w>
+                           <w>und</w>
+                           <w>vollzog</w>
+                           <w>die</w>
+                           <w>Ehe</w>
+                           <w>unter</w>
+                           <w>Fackelgeleit</w>, <w>da</w>
+                           <w>ihm</w>
+                           <w>immerfort</w>
+                           <w>Wohlwollen</w>
+                           <w>der</w>
+                           <w>Götter</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>innige</w>
+                           <w>Zustimmung</w>
+                           <w>der</w>
+                           <w>Bürger</w>
+                           <w>bezeugt</w>
+                           <w>worden</w>
+                           <w>ist</w>. </p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>3</w>. <w>Über</w>
+                        <w>die</w>
+                        <w>Zustimmung</w>
+                        <w>und</w>
+                        <w>Ablehnung</w>
+                        <w>durch</w>
+                        <w>die</w>
+                        <w>Bürgerschaft</w>
+                     </head>
+                     <div type="cjh-ZitatGriechA">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>SIG</w>
+                              <w>II</w>
+                              <w>799</w>, <w>Seite</w>
+                              <w>489</w>
+                              <w>Z</w>. <w>16</w>
+                              <w>bis</w>
+                              <w>Seite</w>
+                              <w>490</w>
+                              <w>Z</w>. <w>4</w>
+                           </seg>
+                           <w>τὸν</w>
+                           <w>δὲ</w>
+                           <w>κακουργοῦντ[α</w>
+                           <w>πε]-ρ</w>(<w>ὶ</w>
+                           <w>τ</w>)<w>ὴν</w>
+                           <w>κοινὴν</w>
+                           <w>τῆς</w>
+                           <w>πόλεως</w>
+                           <w>εὐετηρίαν</w>
+                           <w>καὶ παραφθίραντά</w>
+                           <ref type="erläuterungPointer" target="d1e135">
+                              <w>1</w>
+                           </ref>
+                           <w> τι</w>
+                           <w>τὴν</w>
+                           <w>ἀγορὰν</w>
+                           <w>τῶν</w>
+                           <w>ὠ[νί]-ων [ὡ]ς</w>
+                           <w>κοινὸν</w>
+                           <w>τῆς</w>
+                           <w>πόλεως</w>
+                           <w>λυμεῶνα</w>
+                           <w>ἐπάρατον</w>
+                           <w>εἶναι</w>
+                           <w>ζημιοῦσθαί</w>
+                           <w>τε</w>
+                           <w>ὑπὸ</w>
+                           <w>τῶν [ἀρχόν]-των</w>, <w>καὶ</w>
+                           <w>ἀναχθέντα</w>
+                           <w>εἰς</w>
+                           <w>τὸν</w>
+                           <w>δῆμον</w>
+                           <w>ἐὰν</w>
+                           <w>μὲν</w>
+                           <w>πολείτης</w>
+                           <w>ᾖ</w>, <w>ἀποξενοῦσθαι</w>, <w>ἐ[ὰν</w>
+                           <w>δὲ</w>
+                           <w>ξέ]νος</w>
+                           <w>ἢ</w>
+                           <w>μέτοικος</w>, <w>καὶ</w>
+                           <w>τῆς</w>
+                           <w>πόλεως</w>
+                           <w>εἴργεσθαι</w>, <w>τό</w>
+                           <w>τε</w>
+                           <w>ἐργαστήριον</w>
+                           <w>αὐτοῦ</w>
+                           <w>σ̣ανι̣δίοι[ς]</w>
+                           <w>προσηλοῦσθαι</w>, <w>ἄχρι</w>
+                           <w>οὗ</w>
+                           <w>συντελεσθῇ</w>
+                           <w>τὸ</w>
+                           <w>ἔργον</w>, <w>ἔχον</w>
+                           <w>καὶ</w>
+                           <w>τὴν</w>
+                           <w>τῆς</w>
+                           <w>ζημίας</w>
+                           <w>ἐπιγραφή[ν]·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechM">
+                        <p>
+                           <w>τοὺς</w>
+                           <w>δὲ</w>
+                           <w>ἐκ</w>
+                           <w>σπουδῆς</w>
+                           <w>τε</w>
+                           <w>καὶ</w>
+                           <w>εὐνοίας</w>
+                           <w>ταῖς</w>
+                           <w>τῶν</w>
+                           <w>ἔργων</w>
+                           <w>ἑαυτοὺς</w>
+                           <w>ἐνπαρασχόντας</w>
+                           <w>ὑπηρεσία[ις</w>
+                           <w>τε]χνείτας</w>
+                           <w>τε</w>
+                           <w>καὶ</w>
+                           <w>ἐπιστ</w>(<w>άτ</w>)<w>ας</w>
+                           <w>καὶ</w>
+                           <w>ἀρχιτέκτονας</w>
+                           <w>μαρτυρηθέντας</w>
+                           <w>ὑπὸ</w>
+                           <w>τῆς</w>
+                           <w>σεμνοτάτης</w>
+                           <w>Τρυφαίν[ης</w>
+                           <w>με]-</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechM">
+                        <p>
+                           <w>τὰ</w>
+                           <w>τὴν</w>
+                           <w>τελεί[ω]σιν</w>
+                           <w>τοῦ</w>
+                           <w>ἔργου</w>
+                           <w>καὶ</w>
+                           <w>τῆς</w>
+                           <w>παρὰ</w>
+                           <w>τῷ</w>
+                           <w>δήμῳ</w>
+                           <w>τυχεῖν</w>
+                           <w>ἀπο</w>(<w>δο</w>)<w>χῆς·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p/>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d1e94" n="1 ">
+                              <seg type="cjh-Griechisch">
+                                 <w>παραφθίραντά</w>
+                              </seg>
+                              <w>ist</w>
+                              <w>ein</w>
+                              <w>Partizip</w>
+                              <w>Aorist</w>
+                              <w>Aktiv</w>
+                              <w>Maskulinum</w>
+                              <w>Plural</w>
+                              <w>von</w>
+                              <w>παρα</w>
+                              <w>und</w>
+                              <w>entweder</w>
+                              <w>φθειρω</w>
+                              <w>oder</w>
+                              <w>φθινω</w>
+                              <seg type="annotation_reference">Akzente?</seg>. <w>Aufgrund</w>
+                              <w>der</w>
+                              <w>Ähnlichkeit</w>
+                              <w>der</w>
+                              <w>Wörter</w>, <w>auch</w>
+                              <w>hinsichtlich</w>
+                              <w>der</w>
+                              <w>Bedeutung</w>, <w>wurden</w>
+                              <w>sie</w>
+                              <w>wohl</w>
+                              <w>vermischt</w>. <w>Übersetzt</w>
+                              <w>wird</w>
+                              <w>es</w>
+                              <w>hier</w>
+                              <w>dementsprechend</w>
+                              <w>als</w>
+                              <w>vernichten</w>.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatübersA">
+                        <p>(<w>Es</w>
+                           <w>gilt</w>, <w>dass</w>…)</p>
+                     </div>
+                     <div type="cjh-ZitatübersM">
+                        <p>
+                           <w>Wer</w>
+                           <w>Schlimmes</w>
+                           <w>gegen</w>
+                           <w>den</w>
+                           <w>gemeinsamen</w>
+                           <w>Wohlstand</w>
+                           <w>der</w>
+                           <w>Stadt</w>
+                           <w>tut</w>, <w>und</w>
+                           <w>etwas</w>
+                           <w>von</w>
+                           <w>den</w>
+                           <w>Waren</w>
+                           <w>auf</w>
+                           <w>dem</w>
+                           <w>Markt</w>
+                           <w>vernichtet</w>, <w>verflucht</w>
+                           <w>ist</w>
+                           <w>als</w>
+                           <w>jemand</w>, <w>der</w>
+                           <w>einer</w>
+                           <w>öffentlichen</w>
+                           <w>Angelegenheit</w>
+                           <w>der</w>
+                           <w>Stadt</w>
+                           <w>schadet</w>, <w>und</w>
+                           <w>dass</w>
+                           <w>er</w>
+                           <w>von</w>
+                           <w>den</w>
+                           <w>Archonten</w>
+                           <w>bestraft</w>
+                           <w>wird</w>, <w>und</w>, <w>nachdem</w>
+                           <w>er</w>
+                           <w>dem</w>
+                           <w>Volk</w>
+                           <w>vorgeführt</w>
+                           <w>wurde</w>, <w>sofern</w>
+                           <w>er</w>
+                           <w>ein</w>
+                           <w>Bürger</w>
+                           <w>ist</w>, <w>in</w>
+                           <w>die</w>
+                           <w>Fremde</w>
+                           <w>gejagt</w>
+                           <w>wird</w>, <w>und</w>
+                           <w>wenn</w>
+                           <w>er</w>
+                           <w>ein</w>
+                           <w>Fremder</w>
+                           <w>oder</w>
+                           <w>Metöke</w>
+                           <w>ist</w>, <w>auch</w>
+                           <w>aus</w>
+                           <w>der</w>
+                           <w>Stadt</w>
+                           <w>ausgeschlossen</w>
+                           <w>wird</w>
+                           <w>und</w>
+                           <w>seine</w>
+                           <w>Arbeitsstelle</w>
+                           <w>mit</w>
+                           <w>Brettern</w>
+                           <w>vernagelt</w>
+                           <w>wird</w>, <w>und</w>
+                           <w>solange</w>
+                           <w>die</w>
+                           <w>Arbeit</w>
+                           <w>nicht</w>
+                           <w>vollendet</w>
+                           <w>ist</w>, <w>eine</w>
+                           <w>Inschrift</w>, <w>die</w>
+                           <w>auf</w>
+                           <w>die</w>
+                           <w>Strafe</w>
+                           <w>hinweist</w>, <w>trägt</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatübersM">
+                        <p>(<w>Es</w>
+                           <w>gilt</w>
+                           <w>ferner</w>, <w>dass</w>…)</p>
+                     </div>
+                     <div type="cjh-ZitatübersS">
+                        <p>
+                           <w>Wer</w>
+                           <w>sich</w>, <w>aus</w>
+                           <w>Eifer</w>
+                           <w>und</w>
+                           <w>guter</w>
+                           <w>Gesinnung</w>, <w>selbst</w>
+                           <w>darbietet</w>
+                           <w>für</w>
+                           <w>Dienstleistungen</w>, <w>als</w>
+                           <w>Handwerker</w>, <w>Aufseher</w>
+                           <w>und</w>
+                           <w>Baumeister</w>, <w>von</w>
+                           <w>der</w>
+                           <w>ehrwürdigen</w>
+                           <w>Tryphaina</w>
+                           <w>nach</w>
+                           <w>Vollendung</w>
+                           <w>des</w>
+                           <w>Werkes</w>
+                           <w>und</w>
+                           <w>der</w>
+                           <w>vom</w>
+                           <w>Volk</w>
+                           <w>empfangenen</w>
+                           <w>Zustimmung</w>
+                           <w>ein</w>
+                           <w>gutes</w>
+                           <w>Arbeitszeugnis</w>
+                           <w>erhält</w>.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>4</w>. <w>Über</w>
+                        <w>die</w>
+                        <w>Anordnung</w>
+                        <w>und</w>
+                        <w>Bekanntgabe</w>
+                        <w>heiliger</w>
+                        <w>Tage</w>
+                     </head>
+                     <div type="cjh-ZitatGriechA">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>New</w>
+                              <w>Docs</w>
+                              <w>IV</w>, <w>Nr</w>. <w>19</w>
+                              <w>A</w>
+                           </seg>
+                           <w>[Γ</w>(<w>άϊος</w>) <w>Πο]πίλλιος</w>
+                           <w>Κᾶρος</w>
+                           <w>Πέδω[ν]</w>
+                           <w>ἀνθύπατος</w>
+                           <w>λέγει·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechM">
+                        <p>
+                           <w>[ἔ]μαθον</w>
+                           <w>ἐκ</w>
+                           <w>τοῦ</w>
+                           <w>πεμφθέντος [πρός]</w>
+                           <w>με ψηφίσματος</w>
+                           <w>ὑπὸ τῆς</w>
+                           <w>λαμπροτ[ά]-της</w>
+                           <w>Ἐφεσίων</w>
+                           <w>βουλῆς</w>
+                           <w>τοὺς</w>
+                           <w>πρὸ</w>
+                           <w>ἐμ[οῦ]</w>
+                           <w>κρατίστους</w>
+                           <w>ἀνθυπάτους</w>
+                           <w>ἱε[ρὰς]</w>
+                           <w>νομίσαι</w>
+                           <w>τὰς</w>
+                           <w>ἡμέρας</w>
+                           <w>τῆς</w>
+                           <w>π[α]νη̣[γύρεως]</w>
+                           <w>τῶ̣ν</w>
+                           <w>Ἀρτε̣[μισίων] καὶ</w>
+                           <w>τοῦτο</w>
+                           <w>διατάγματι</w>
+                           <w>δεδηλωκέναι·</w>
+                           <w>ὅθεν</w>
+                           <w>ἀναγκαῖον</w>
+                           <w>ἡγησάμην</w>
+                           <w>καὶ</w>
+                           <w>αὐτὸς</w>
+                           <w>ἀποβλέπων</w>
+                           <w>εἴς</w>
+                           <w>τε</w>
+                           <w>τὴν</w>
+                           <w>εὐσέβειαν</w>
+                           <w>τῆς</w>
+                           <w>θεοῦ̣</w>
+                           <w>καὶ</w>
+                           <w>εἰς</w>
+                           <w>τὴν</w>
+                           <w>τῆς</w>
+                           <w>λαμπροτάτης</w>
+                           <w>Ἐφεσίων</w>
+                           <w>πόλεως</w>
+                           <ref type="erläuterungPointer" target="d1e135">
+                              <w>1</w>
+                           </ref>
+                           <w>τειμὴν</w>
+                           <w>φανερὸν</w>
+                           <w>ποιῆσαι</w>
+                           <w>διατάγματι</w>
+                           <w>ἔσεσθαι</w>
+                           <w>τὰς</w>
+                           <w>ἡμέρας</w>
+                           <w>ταύτας</w>
+                           <w>ἱερὰς</w>
+                           <w>καὶ</w>
+                           <w>τὰς</w>
+                           <w>ἐπ’</w>
+                           <w>αὐταῖς</w>
+                           <w>ἐκεχ̣ειρίας</w>
+                           <w>φυλαχθήσεσθαι·</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechM">
+                        <p>
+                           <w>προεστῶτος</w>
+                           <w>τῆς</w>
+                           <w>πανηγύρεως</w>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatGriechS">
+                        <p>
+                           <w>Τίτου</w>
+                           <w>Αἰλίου</w>
+                           <w>Μαρκιανοῦ</w>
+                           <w>Πρίσκου</w>
+                           <w>τοῦ</w>
+                           <w>ἀγωνοθέτου</w>, <w>ὑοῦ</w>
+                           <w>Αἰλίου</w>
+                           <w>Πρίσκου</w>, <w>ἀνδρὸς</w>
+                           <w>δοκιμωτάτου</w>
+                           <w>καὶ</w>
+                           <w>πάσης</w>
+                           <w>τειμῆς</w>
+                           <seg type="superscript">
+                              <w>1</w>
+                           </seg>
+                           <w>καὶ</w>
+                           <w>ἀποδοχῆς</w>
+                           <w>ἀξίου</w>.</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d1e135" n="1">
+                              <seg type="cjh-Griechisch">
+                                 <w>τειμὴν</w>
+                              </seg>
+                              <w>=</w>
+                              <seg type="cjh-Griechisch">
+                                 <w>τιμήν</w>
+                              </seg>
+                              <w>Ehre</w>
+                           </note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatübersA">
+                        <p>
+                           <w>Prokonsul</w>
+                           <w>Gaius</w>
+                           <w>Popillius</w>
+                           <w>Carus</w>
+                           <w>Pedo</w>
+                           <w>sagt</w>: </p>
+                     </div>
+                     <div type="cjh-ZitatübersM">
+                        <p>„<w>Ich</w>
+                           <w>erfuhr</w>
+                           <w>durch</w>
+                           <w>den</w>
+                           <w>Beschluss</w>, <w>welcher</w>
+                           <w>vom</w>
+                           <w>äußerst</w>
+                           <w>glanzvollen</w>
+                           <w>Rat</w>
+                           <w>der</w>
+                           <w>Epheser</w>
+                           <w>an</w>
+                           <w>mich</w>
+                           <w>geschickt</w>
+                           <w>worden</w>
+                           <w>war</w>, <w>dass</w>
+                           <w>die</w>
+                           <w>äußerst</w>
+                           <w>tüchtigen</w>
+                           <w>Prokonsuln</w>
+                           <w>vor</w>
+                           <w>mir</w>
+                           <w>die</w>
+                           <w>Tage</w>
+                           <w>des</w>
+                           <w>Festes</w>
+                           <w>der</w>
+                           <w>Artemisien</w>
+                           <w>als</w>
+                           <w>heilig</w>
+                           <w>ansahen</w>
+                           <w>und</w>
+                           <w>dies</w>
+                           <w>per</w>
+                           <w>Anordnung</w>
+                           <w>bekannt</w>
+                           <w>gemacht</w>
+                           <w>haben</w>; <w>weshalb</w>
+                           <w>ich</w>
+                           <w>es</w>
+                           <w>für</w>
+                           <w>notwendig</w>
+                           <w>hielt</w>, <w>weil</w>
+                           <w>ich</w>
+                           <w>ebenso</w>
+                           <w>die</w>
+                           <w>Frömmigkeit</w>
+                           <w>gegenüber</w>
+                           <w>der</w>
+                           <w>Göttin</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>Ehre</w>
+                           <w>der</w>
+                           <w>äußerst</w>
+                           <w>glänzenden</w>
+                           <w>Stadt</w>
+                           <w>Ephesos</w>
+                           <w>im</w>
+                           <w>Blick</w>
+                           <w>habe</w>, <w>per</w>
+                           <w>Anordnung</w>
+                           <w>bekannt</w>
+                           <w>zu</w>
+                           <w>machen</w>, <w>dass</w>
+                           <w>diese</w>
+                           <w>Tage</w>
+                           <w>heilig</w>
+                           <w>sein</w>
+                           <w>sollen</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>Feiertagsruhe</w>
+                           <w>beachtet</w>
+                           <w>werden</w>
+                           <w>soll</w>.“</p>
+                     </div>
+                     <div type="cjh-ZitatübersS">
+                        <p>(<w>Diese</w>
+                           <w>Anordnung</w>
+                           <w>wurde</w>
+                           <w>bekannt</w>
+                           <w>gegeben</w>) <w>während</w>
+                           <w>Titus</w>
+                           <w>Aelius</w>
+                           <w>Marcianus</w>
+                           <w>Priscus</w>, <w>Sohn</w>
+                           <w>des</w>
+                           <w>Aelius</w>
+                           <w>Priscus</w>, <w>ein</w>
+                           <w>sehr</w>
+                           <w>bekannter</w>
+                           <w>Mann</w>
+                           <w>und</w>
+                           <w>wert</w>
+                           <w>aller</w>
+                           <w>Ehre</w>
+                           <w>und</w>
+                           <w>Anerkennung</w>, <w>Präsident</w>
+                           <w>der</w>
+                           <w>athletischen</w>
+                           <w>Spiele</w> (<w>war</w>).</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

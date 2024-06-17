@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,20</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:20</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_20</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_020">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.20;" n="1">
+               <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>
+               <head type="cjh-Überschrift-2">1,20 (Gottes-) Lästerung</head>
+               <div type="sectionΑ"/>
+               <div type="sectionΒ">
+                  <p>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>VitMos</w>
+                        <w>II</w>
+                        <w>206</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>Fug</w>
+                        <w>84</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC"/>
+               <div type="sectionD">
+                  <div type="cjh-Überschrift-3D">
+                     <p>
+                        <w>Todesstrafe</w>
+                        <w>für</w>
+                        <w>Gotteslästerung</w>
+                     </p>
+                  </div>
+                  <div type="cjh-ZitatGriech">
+                     <p>
+                        <seg type="belegstelle">
+                           <w>VitMos</w>
+                           <w>II</w>
+                           <w>206</w>
+                        </seg>
+                        <w>εἰ</w>
+                        <w>δέ</w>
+                        <w>τις</w>
+                        <w>οὐ</w>
+                        <w>λέγω</w>
+                        <w>βλασφημήσειεν</w>
+                        <w>εἰς</w>
+                        <w>τὸν</w>
+                        <w>ἀνθρώπων</w>
+                        <w>καὶ</w>
+                        <w>θεῶν</w>
+                        <w>κύριον</w>, <w>ἀλλὰ</w>
+                        <w>καὶ</w>
+                        <w>τολμήσειεν</w>
+                        <w>ἀκαίρως</w>
+                        <w>αὐτοῦ</w>
+                        <w>φθέγξασθαι</w>
+                        <w>τοὔνομα</w>, <w>θάνατον</w>
+                        <w>ὑπομεινάτω</w>
+                        <w>τὴν</w>
+                        <w>δίκην</w>.</p>
+                  </div>
+                  <div type="cjh-ZitatÜbersetzung">
+                     <p>
+                        <w>Wenn</w>
+                        <w>aber</w>
+                        <w>einer</w>
+                        <w>gegen</w>
+                        <w>den</w>
+                        <w>Herrn</w>
+                        <w>von</w>
+                        <w>Menschen</w>
+                        <w>und</w>
+                        <w>Göttern</w>, <w>ich</w>
+                        <w>sage</w>
+                        <w>nicht</w>, <w>Böses</w>
+                        <w>redet</w>, <w>sondern</w>
+                        <w>es</w>
+                        <w>auch</w> (<w>nur</w>) <w>wagt</w>, <w>ungelegen</w>
+                        <w>dessen</w>
+                        <w>Namen</w>
+                        <w>zu</w>
+                        <w>sagen</w>, <w>soll</w>
+                        <w>er</w>
+                        <w>den</w>
+                        <w>Tod</w>
+                        <w>als</w>
+                        <w>Strafe</w>
+                        <w>erleiden</w>.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

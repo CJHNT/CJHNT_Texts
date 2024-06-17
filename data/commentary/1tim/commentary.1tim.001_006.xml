@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,6</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:6</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_6</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_006">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.6;" n="1">
+               <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>
+               <head type="cjh-Überschrift-2">1,6 Die Zuwendung zum Falschen</head>
+               <div type="sectionA"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>SpecLeg</w>
+                        <w>II</w>
+                        <w>23</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC"/>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>Philo</w>
+                        <w>zur</w>
+                        <w>Abweichung</w>
+                        <w>vom</w>
+                        <w>rechten</w>
+                        <w>Weg</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>SpecLeg</w>
+                              <w>II</w>
+                              <w>23</w>
+                           </seg>
+                           <w>τὰ</w>
+                           <w>δὲ</w>
+                           <w>τῶν</w>
+                           <w>νεοπλούτων</w>
+                           <w>ἐκεῖνα</w>
+                           <w>πλάνῳ</w>
+                           <w>τινὶ</w>
+                           <w>τύχης</w>
+                           <w>εἰς</w>
+                           <w>πολυχρηματίαν</w>
+                           <w>περιηκόντων</w>, <w>οἳ</w>
+                           <w>τὸν</w>
+                           <w>ἀληθῆ</w>
+                           <w>καὶ</w>
+                           <w>βλέποντα</w>
+                           <w>πλοῦτον</w>
+                           <w>ἐξ</w>
+                           <w>ἀρετῶν</w>
+                           <w>τελείων</w>
+                           <w>συνεστῶτα</w>
+                           <w>καὶ</w>
+                           <w>τῶν</w>
+                           <w>κατ᾽ἀρετὰς</w>
+                           <w>πράξεων</w>
+                           <w>οὐδ᾽ὄναρ</w>
+                           <w>ἴσασι</w>, <w>τῷ</w>
+                           <w>δὲ</w>
+                           <w>τυφλῷ</w>
+                           <w>προσέπταισαν</w>, <w>ἐφ᾽οὗ</w>
+                           <w>σκηριπτόμενοι</w>
+                           <w>κατ᾽ἀναγκαῖον</w>
+                           <w>τὴν</w>
+                           <w>ἄγουσαν</w>
+                           <w>ὁδὸν</w>
+                           <w>οὐχ</w>
+                           <w>ὁρῶντες</w>
+                           <w>εἰς</w>
+                           <w>ἀνοδίας</w>
+                           <w>ἐκτρέπονται</w>, <w>θαυμάζοντες</w>
+                           <w>τὰ</w>
+                           <w>μηδεμιᾶς</w>
+                           <w>ἄξια</w>
+                           <w>σπουδῆς</w>
+                           <w>καὶ</w>
+                           <w>τὰ</w>
+                           <w>φύσει</w>
+                           <w>τίμια</w>
+                           <w>γελῶντες·</w>
+                           <w>οἷς</w>
+                           <w>ὁ</w>
+                           <w>ἱερὸς</w>
+                           <w>λόγος</w>
+                           <w>ὅρκον</w>
+                           <w>ἐν</w>
+                           <w>οὐ</w>
+                           <w>δέοντι</w>
+                           <w>καιρῷ</w>
+                           <w>ποιουμένοις</w>
+                           <w>οὐ</w>
+                           <w>μετρίως</w>
+                           <w>ἐπιτιμᾷ</w>
+                           <w>καὶ</w>
+                           <w>ὀνειδίζει·</w>
+                           <w>δυσκάθαρτοι</w>
+                           <w>γὰρ</w>
+                           <w>καὶ</w>
+                           <w>δυσίατοι</w>, <w>ὡς</w>
+                           <w>μηδὲ</w>
+                           <w>παρὰ</w>
+                           <w>θεῷ</w>
+                           <w>τῷ</w>
+                           <w>τὴν</w>
+                           <w>φύσιν</w>
+                           <ref type="erläuterungPointer" target="d1e52">
+                              <w>1</w>
+                           </ref>
+                           <w>ἵλεῳ</w>
+                           <w>συγγνώμης</w>
+                           <w>ἀξιοῦσθαι</w>.</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d1e52" n="1">
+                              <w> Hinsichtlich</w>
+                              <w>der</w>
+                              <w>Satzstellung</w>
+                              <w>wohl</w>
+                              <w>Bezug</w>
+                              <w>auf</w>
+                              <w>Gott</w>
+                              <w>als</w>
+                              <w>Accusativus</w>
+                              <w>Graecus</w>. <w>Zur</w>
+                              <w>Anmerkung</w>: <w>Im</w>
+                              <w>Griechischen</w>
+                              <w>sind</w>
+                              <w>alle</w>
+                              <w>Accusativi</w>
+                              <w>Graeci</w> (<w>d</w>.<w>h</w>. <w>dort</w>, <w>wo</w>
+                              <w>er</w>
+                              <w>im</w>
+                              <w>Lateinischen</w>
+                              <w>den</w>
+                              <w>Abl</w>. <w>limitations</w>
+                              <w>vertritt</w>) <w>–</w>
+                              <w>im</w>
+                              <w>Prinzip</w>
+                              <w>also</w>
+                              <w>ein</w>
+                              <w>Akk</w>. <w>limitationis</w>, <w>aber</w>
+                              <w>mit</w>
+                              <w>weiterreichender</w>
+                              <w>adverbialer</w>
+                              <w>Bedeutung</w>.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Anders</w>
+                           <w>jene</w>
+                           <w>Neureichen</w>, <w>die</w>
+                           <w>durch</w>
+                           <w>irgendeinen</w>
+                           <w>Irrweg</w>
+                           <w>des</w>
+                           <w>Schicksals</w>
+                           <w>zu</w>
+                           <w>Luxusgut</w>
+                           <w>gelangt</w>
+                           <w>sind</w>, <w>die</w>
+                           <w>den</w>
+                           <w>wahren</w>
+                           <w>und</w>
+                           <w>sehenden</w>
+                           <w>Reichtum</w>, <w>der</w>
+                           <w>aus</w>
+                           <w>vollendeten</w>
+                           <w>Tugenden</w>
+                           <w>und</w>
+                           <w>aus</w>
+                           <w>Handlungen</w>
+                           <w>gemäß</w>
+                           <w>der</w>
+                           <w>Tugenden</w>
+                           <w>besteht</w>, <w>nicht</w>
+                           <w>im</w>
+                           <w>Traum</w>
+                           <w>verstehen</w>, <w>sie</w>
+                           <w>stolperten</w>
+                           <w>vielmehr</w>
+                           <w>in</w>
+                           <w>den</w>
+                           <w>blinden</w>
+                           <w>Reichtum</w>, <w>und</w>, <w>wenn</w>
+                           <w>sie</w>
+                           <w>sich</w>
+                           <w>auf</w>
+                           <w>diesen</w>
+                           <w>stützen</w>, <w>notgedrungen</w>
+                           <w>den</w>
+                           <w>führenden</w>
+                           <w>Weg</w>
+                           <w>nicht</w>
+                           <w>sehen</w>
+                           <w>und</w>
+                           <w>schließlich</w>
+                           <w>in</w>
+                           <w>unwegsame</w>
+                           <w>Gegend</w>
+                           <w>abschweifen</w>, <w>weil</w>
+                           <w>sie</w>
+                           <w>das</w>
+                           <w>bewundern</w>, <w>was</w>
+                           <w>keiner</w>
+                           <w>Beachtung</w>
+                           <w>wert</w>
+                           <w>ist</w>, <w>und</w>
+                           <w>weil</w>
+                           <w>sie</w>
+                           <w>das</w>
+                           <w>verlachen</w>, <w>was</w>
+                           <w>der</w>
+                           <w>Natur</w>
+                           <w>nach</w>
+                           <w>ehrvoll</w>
+                           <w>ist</w>. <w>Das</w>
+                           <w>göttliche</w>
+                           <w>Wort</w>
+                           <w>straft</w>
+                           <w>und</w>
+                           <w>tadelt</w>
+                           <w>diejenigen</w>
+                           <w>nicht</w>
+                           <w>wenig</w>, <w>die</w>
+                           <w>einen</w>
+                           <w>Schwur</w>
+                           <w>bei</w>
+                           <w>ungehöriger</w>
+                           <w>Gelegenheit</w>
+                           <w>ablegen</w>. <w>Denn</w>
+                           <w>sie</w>
+                           <w>sind</w>
+                           <w>schwer</w>
+                           <w>zu</w>
+                           <w>versöhnen</w>
+                           <w>und</w>
+                           <w>schwer</w>
+                           <w>zu</w>
+                           <w>heilen</w>, <w>sodass</w>
+                           <w>sie</w>
+                           <w>beim</w>
+                           <w>der</w>
+                           <w>Natur</w>
+                           <w>nach</w>
+                           <w>gütigen</w>
+                           <w>Gott</w>
+                           <w>nicht</w>
+                           <w>der</w>
+                           <w>Vergebung</w>
+                           <w>für</w>
+                           <w>würdig</w>
+                           <w>gehalten</w>
+                           <w>werden</w>.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

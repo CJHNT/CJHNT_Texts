@@ -1,0 +1,539 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,1/2</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:1/2</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_1_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_001_002">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;" n="2">
+               <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
+               <head type="cjh-Überschrift-2">1,1/2 Der Messias als ἐλπίς</head>
+               <div type="sectionΑ"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">
+                        <w>|7|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>1Hen</w>
+                        <w>48</w>,<w>4</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Der</w>
+                     <w>einzige</w>
+                     <w>bekannte</w>
+                     <w>Beleg</w>
+                     <w>für</w>
+                     <w>die</w>
+                     <w>Titulierung</w>
+                     <w>des</w>
+                     <w>Menschensohns</w>
+                     <w>als</w> „<w>Hoffnung</w>“ <w>findet</w>
+                     <w>sich</w>
+                     <w>im</w>
+                     <w>1Hen</w>.</p>
+               </div>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>Der</w>
+                        <w>Menschensohn</w>
+                        <w>als</w>
+                        <w>Hoffnung</w>
+                        <w>für</w>
+                        <w>Welt</w>
+                     </head>
+                     <div type="cjh-PetitTexteinl.A">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>1Hen</w>
+                              <w>48</w>,<w>4</w>
+                           </seg>
+                           <w>Der</w>
+                           <w>Menschensohn</w>
+                           <w>wird</w>
+                           <w>an</w>
+                           <w>dieser</w>
+                           <w>Stelle</w>
+                           <w>der</w>
+                           <w>Bilderreden</w>
+                           <w>des</w>
+                           <w>äthiopischen</w>
+                           <w>Henochbuches</w>
+                           <w>als</w>
+                           <w>messianische</w>
+                           <w>Gestalt</w>
+                           <w>und</w>
+                           <w>als</w>
+                           <w>Hoffnung</w>
+                           <w>für</w>
+                           <w>die</w>
+                           <w>Welt</w>
+                           <w>präsentiert</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="">
+                              <w>ውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>በትረ</w> ፡ <w>ለጻድቃን</w> ፡ <w>ከመ</w> ፡ <w>ቦቱ</w> ፡ <w>ይትመርጐዙ</w> ፡ <w>ወኢይደቁ</w> ። <w>ወውእቱ</w> ፡ <w>ብርሃነ</w> ፡ <w>አሕዛብ</w> ፡ <w>ወውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>ተስፋ</w> ፡ <w>ለእለ</w> ፡ <w>የሐሙ</w> ፡ <w>በልቦሙ</w> ።</seg>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>waʔətu</w>
+                           <w>yəkawwən</w>
+                           <w>batra</w>
+                           <w>laṣādqān</w>
+                           <w>kama</w>
+                           <w>botu</w>
+                           <w>yətmarg</w>
+                           <seg type="superscript">
+                              <w>w</w>
+                           </seg>
+                           <w>azu</w>
+                           <w>waʔiyədaqu</w>. <w>Wawəʔətu</w>
+                           <w>bərhāna</w>
+                           <w>ʔaḥzāb</w>
+                           <w>wawəʔətu</w>
+                           <w>yekawwən</w>
+                           <w>tasfā</w>
+                           <w>laʔəlla</w>
+                           <w>yaḥammu</w>
+                           <w>baləbomu</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Er</w>
+                           <w>wird</w>
+                           <w>ein</w>
+                           <w>Stab</w>
+                           <w>für</w>
+                           <w>die</w>
+                           <w>Gerechten</w>
+                           <w>sein</w>, <w>damit</w>
+                           <w>sie</w>
+                           <w>sich</w>
+                           <w>auf</w>
+                           <w>ihn</w>
+                           <w>stützen</w>
+                           <w>können</w>
+                           <w>und</w>
+                           <w>nicht</w>
+                           <w>fallen</w>
+                           <w>werden</w>. <w>Er</w>
+                           <w>[wird]</w>
+                           <w>ein</w>
+                           <w>Licht</w>
+                           <w>der</w>
+                           <w>Völker</w>
+                           <w>[sein]</w>
+                           <w>und</w>
+                           <w>er</w>
+                           <w>wird</w>
+                           <w>eine</w>
+                           <w>Hoffnung</w>
+                           <w>sein</w>
+                           <w>für</w>
+                           <w>die</w>, <w>die</w>
+                           <w>in</w>
+                           <w>ihrem</w>
+                           <w>Herzen</w>
+                           <w>leiden</w>.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>The</w>
+                        <w>Son</w>
+                        <w>of</w>
+                        <w>Man</w>
+                        <w>as</w>
+                        <w>Hope</w>
+                        <w>for</w>
+                        <w>the</w>
+                        <w>World</w>
+                     </head>
+                     <div type="cjh-PetitTexteinl.A">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>1Hen</w>
+                              <w>48</w>,<w>4</w>
+                           </seg>
+                           <w>In</w>
+                           <w>the</w>
+                           <w>parables</w>
+                           <w>of</w>
+                           <w>1</w>
+                           <w>Enoch</w>
+                           <w>the</w>
+                           <w>Son</w>
+                           <w>of</w>
+                           <w>Man</w>
+                           <w>is</w>
+                           <w>presented</w>
+                           <w>as</w>
+                           <w>messianic</w>
+                           <w>figure</w>
+                           <w>and</w>
+                           <w>as</w>
+                           <w>hope</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>world</w>. </p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="">
+                              <w>ውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>በትረ</w> ፡ <w>ለጻድቃን</w> ፡ <w>ከመ</w> ፡ <w>ቦቱ</w> ፡ <w>ይትመርጐዙ</w> ፡ <w>ወኢይደቁ</w> ። <w>ወውእቱ</w> ፡ <w>ብርሃነ</w> ፡ <w>አሕዛብ</w> ፡ <w>ወውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>ተስፋ</w> ፡ <w>ለእለ</w> ፡ <w>የሐሙ</w> ፡ <w>በልቦሙ</w> ።</seg>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>waʔətu</w>
+                           <w>yəkawwən</w>
+                           <w>batra</w>
+                           <w>laṣādqān</w>
+                           <w>kama</w>
+                           <w>botu</w>
+                           <w>yətmarg</w>
+                           <seg type="superscript">
+                              <w>w</w>
+                           </seg>
+                           <w>azu</w>
+                           <w>waʔiyədaqu</w>. <w>Wawəʔətu</w>
+                           <w>bərhāna</w>
+                           <w>ʔaḥzāb</w>
+                           <w>wawəʔətu</w>
+                           <w>yekawwən</w>
+                           <w>tasfā</w>
+                           <w>laʔəlla</w>
+                           <w>yaḥammu</w>
+                           <w>baləbomu</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>He</w>
+                           <w>will</w>
+                           <w>be</w>
+                           <w>a</w>
+                           <w>staff</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>rigtheous</w>, <w>so</w>
+                           <w>that</w>
+                           <w>they</w>
+                           <w>can</w>
+                           <w>lean</w>
+                           <w>on</w>
+                           <w>him</w>
+                           <w>and</w>
+                           <w>they</w>
+                           <w>will</w>
+                           <w>not</w>
+                           <w>fall</w>. <w>He</w>
+                           <w>will</w>
+                           <w>be</w>
+                           <w>a</w>
+                           <w>light</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>peoples</w>
+                           <w>and</w>
+                           <w>a</w>
+                           <w>hope</w>
+                           <w>for</w>
+                           <w>those</w>, <w>who</w>
+                           <w>suffer</w>
+                           <w>pain</w>
+                           <w>in</w>
+                           <w>their</w>
+                           <w>hearts</w>.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p>
+                     <w>Aufgrund</w>
+                     <w>der</w>
+                     <w>Parallele</w>
+                     <w>im</w>
+                     <w>1Hen</w>
+                     <w>lässt</w>
+                     <w>sich</w>
+                     <w>zum</w>
+                     <w>einen</w>
+                     <w>weder</w>
+                     <w>behaupten</w>, <w>die</w>
+                     <w>Gleichsetzung</w>
+                     <w>von</w>
+                     <w>Hoffnung</w>
+                     <w>und</w>
+                     <w>dem</w>
+                     <w>Messias/dem</w>
+                     <w>Menschensohn</w>
+                     <w>sei</w>
+                     <w>ein</w>
+                     <w>Unikum</w>. <w>Zum</w>
+                     <w>anderen</w>
+                     <w>macht</w>
+                     <w>sie</w>
+                     <w>deutlich</w>, <w>dass</w>
+                     <w>die</w>
+                     <w>für</w>
+                     <w>das</w>
+                     <w>christl</w>. <w>Selbstverständnis</w>
+                     <w>naheliegende</w>
+                     <w>Identifikation</w>
+                     <w>alles</w>
+                     <w>andere</w>
+                     <w>als</w>
+                     <w>die</w>
+                     <w>Regel</w>
+                     <w>ist</w>.</p>
+                  <p>
+                     <w>I</w>. <w>Prescript</w> (<w>1</w>,<w>1–2</w>)</p>
+                  <p>
+                     <w>1</w>,<w>1/2</w>
+                     <w>The</w>
+                     <w>Messiah</w>
+                     <w>as</w>
+                     <w>ἐλπίς</w>
+                  </p>
+               </div>
+               <head type="cjh-Überschrift-1">I. Prescript (1,1–2)</head>
+               <head type="cjh-Überschrift-2">1,1/2 The Messiah as ἐλπίς</head>
+               <div type="sectionΑ"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">
+                        <w>|7|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>1Hen</w>
+                        <w>48</w>,<w>4</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>The</w>
+                     <w>only</w>
+                     <w>known</w>
+                     <w>evidence</w>
+                     <w>for</w>
+                     <w>the</w>
+                     <w>title</w> "<w>hope</w>" <w>for</w>
+                     <w>the</w>
+                     <w>Son</w>
+                     <w>of</w>
+                     <w>Man</w>
+                     <w>is</w>
+                     <w>found</w>
+                     <w>in</w>
+                     <w>1</w>
+                     <w>Enoch</w>.</p>
+               </div>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>The</w>
+                        <w>Son</w>
+                        <w>of</w>
+                        <w>Man</w>
+                        <w>as</w>
+                        <w>Hope</w>
+                        <w>for</w>
+                        <w>the</w>
+                        <w>World</w>
+                     </head>
+                     <div type="cjh-PetitTexteinl.A">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>1Hen</w>
+                              <w>48</w>,<w>4</w>
+                           </seg>
+                           <w>In</w>
+                           <w>the</w>
+                           <w>parables</w>
+                           <w>of</w>
+                           <w>1</w>
+                           <w>Enoch</w>
+                           <w>the</w>
+                           <w>Son</w>
+                           <w>of</w>
+                           <w>Man</w>
+                           <w>is</w>
+                           <w>presented</w>
+                           <w>as</w>
+                           <w>messianic</w>
+                           <w>figure</w>
+                           <w>and</w>
+                           <w>as</w>
+                           <w>hope</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>world</w>. </p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="">
+                              <w>ውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>በትረ</w> ፡ <w>ለጻድቃን</w> ፡ <w>ከመ</w> ፡ <w>ቦቱ</w> ፡ <w>ይትመርጐዙ</w> ፡ <w>ወኢይደቁ</w> ። <w>ወውእቱ</w> ፡ <w>ብርሃነ</w> ፡ <w>አሕዛብ</w> ፡ <w>ወውእቱ</w> ፡ <w>ይከውን</w> ፡ <w>ተስፋ</w> ፡ <w>ለእለ</w> ፡ <w>የሐሙ</w> ፡ <w>በልቦሙ</w> ።</seg>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>waʔətu</w>
+                           <w>yəkawwən</w>
+                           <w>batra</w>
+                           <w>laṣādqān</w>
+                           <w>kama</w>
+                           <w>botu</w>
+                           <w>yətmarg</w>
+                           <seg type="superscript">
+                              <w>w</w>
+                           </seg>
+                           <w>azu</w>
+                           <w>waʔiyədaqu</w>. <w>Wawəʔətu</w>
+                           <w>bərhāna</w>
+                           <w>ʔaḥzāb</w>
+                           <w>wawəʔətu</w>
+                           <w>yekawwən</w>
+                           <w>tasfā</w>
+                           <w>laʔəlla</w>
+                           <w>yaḥammu</w>
+                           <w>baləbomu</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>He</w>
+                           <w>will</w>
+                           <w>be</w>
+                           <w>a</w>
+                           <w>staff</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>rigtheous</w>, <w>so</w>
+                           <w>that</w>
+                           <w>they</w>
+                           <w>can</w>
+                           <w>lean</w>
+                           <w>on</w>
+                           <w>him</w>
+                           <w>and</w>
+                           <w>they</w>
+                           <w>will</w>
+                           <w>not</w>
+                           <w>fall</w>. <w>He</w>
+                           <w>will</w>
+                           <w>be</w>
+                           <w>a</w>
+                           <w>light</w>
+                           <w>for</w>
+                           <w>the</w>
+                           <w>peoples</w>
+                           <w>and</w>
+                           <w>a</w>
+                           <w>hope</w>
+                           <w>for</w>
+                           <w>those</w>, <w>who</w>
+                           <w>suffer</w>
+                           <w>pain</w>
+                           <w>in</w>
+                           <w>their</w>
+                           <w>hearts</w>.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p>
+                     <w>Aufgrund</w>
+                     <w>der</w>
+                     <w>Parallele</w>
+                     <w>im</w>
+                     <w>1Hen</w>
+                     <w>lässt</w>
+                     <w>sich</w>
+                     <w>zum</w>
+                     <w>einen</w>
+                     <w>weder</w>
+                     <w>behaupten</w>, <w>die</w>
+                     <w>Gleichsetzung</w>
+                     <w>von</w>
+                     <w>Hoffnung</w>
+                     <w>und</w>
+                     <w>dem</w>
+                     <w>Messias/dem</w>
+                     <w>Menschensohn</w>
+                     <w>sei</w>
+                     <w>ein</w>
+                     <w>Unikum</w>. <w>Zum</w>
+                     <w>anderen</w>
+                     <w>macht</w>
+                     <w>sie</w>
+                     <w>deutlich</w>, <w>dass</w>
+                     <w>die</w>
+                     <w>für</w>
+                     <w>das</w>
+                     <w>christl</w>. <w>Selbstverständnis</w>
+                     <w>naheliegende</w>
+                     <w>Identifikation</w>
+                     <w>alles</w>
+                     <w>andere</w>
+                     <w>als</w>
+                     <w>die</w>
+                     <w>Regel</w>
+                     <w>ist</w>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

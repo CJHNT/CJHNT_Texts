@@ -1,0 +1,1339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,4/2</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:4/2</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_4_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_004_002">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;" n="2">
+               <head type="cjh-Überschrift-2">1,4/2 Kritik an Mythen und Genealogien (μῦθοι καὶ γενεαλογίαι)</head>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">
+                        <w>Francis</w>
+                        <w>H</w>. <w>Colson</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>„<w>Myths</w>
+                     <w>and</w>
+                     <w>Genealogies</w>“ <w>–</w>
+                     <w>A</w>
+                     <w>Note</w>
+                     <w>on</w>
+                     <w>the</w>
+                     <w>Polemic</w>
+                     <w>of</w>
+                     <w>the</w>
+                     <w>Pastoral</w>
+                     <w>Epistles</w>, <w>JThS</w>
+                     <w>19</w> (<w>1918</w>), <w>265–271</w>
+                     <w>•</w>
+                     <seg type="cjh-Autorennamen">
+                        <w>Gerhard</w>
+                        <w>Kittel</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>
+                     <w>Die</w>
+                     <w>γενεαλογίαι</w>
+                     <w>der</w>
+                     <w>Pastoralbriefe</w>, <w>ZNW</w>
+                     <w>20</w> (<w>1921</w>), <w>49–69</w>
+                     <w>•</w>
+                     <seg type="cjh-Autorennamen">
+                        <w>Philipp</w>
+                        <w>H</w>. <w>Towner</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>
+                     <w>Gnosis</w>
+                     <w>and</w>
+                     <w>Realized</w>
+                     <w>Eschatology</w>
+                     <w>in</w>
+                     <w>Ephesus</w> (<w>of</w>
+                     <w>the</w>
+                     <w>Pastoral</w>
+                     <w>Epistles</w>) <w>and</w>
+                     <w>the</w>
+                     <w>Corinthian</w>
+                     <w>Enthusiasm</w>, <w>JSNT</w>
+                     <w>31</w> (<w>1987</w>), <w>95–124</w> (<w>weiterhin</w>
+                     <w>vgl</w>. <w>Lit</w>. <w>zu</w>
+                     <w>1</w>,<w>3</w>).</p>
+               </div>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">
+                        <w>Francis</w>
+                        <w>H</w>. <w>Colson</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>„<w>Myths</w>
+                     <w>and</w>
+                     <w>Genealogies</w>“ <w>–</w>
+                     <w>A</w>
+                     <w>Note</w>
+                     <w>on</w>
+                     <w>the</w>
+                     <w>Polemic</w>
+                     <w>of</w>
+                     <w>the</w>
+                     <w>Pastoral</w>
+                     <w>Epistles</w>, <w>JThS</w>
+                     <w>19</w> (<w>1918</w>), <w>265–271</w>
+                     <w>•</w>
+                     <seg type="cjh-Autorennamen">
+                        <w>Gerhard</w>
+                        <w>Kittel</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>
+                     <w>Die</w>
+                     <w>γενεαλογίαι</w>
+                     <w>der</w>
+                     <w>Pastoralbriefe</w>, <w>ZNW</w>
+                     <w>20</w> (<w>1921</w>), <w>49–69</w>
+                     <w>•</w>
+                     <seg type="cjh-Autorennamen">
+                        <w>Philipp</w>
+                        <w>H</w>. <w>Towner</w>
+                     </seg>
+                     <seg type="smallcaps">, </seg>
+                     <w>Gnosis</w>
+                     <w>and</w>
+                     <w>Realized</w>
+                     <w>Eschatology</w>
+                     <w>in</w>
+                     <w>Ephesus</w> (<w>of</w>
+                     <w>the</w>
+                     <w>Pastoral</w>
+                     <w>Epistles</w>) <w>and</w>
+                     <w>the</w>
+                     <w>Corinthian</w>
+                     <w>Enthusiasm</w>, <w>JSNT</w>
+                     <w>31</w> (<w>1987</w>), <w>95–124</w> (<w>weiterhin</w>
+                     <w>vgl</w>. <w>Lit</w>. <w>zu</w>
+                     <w>1</w>,<w>3</w>).</p>
+               </div>
+               <div type="sectionB">
+                  <p>
+                     <seg type="cjh-Fett">
+                        <w>|3|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>AristobExeg 2</w>,<w>2–3</w>
+                     </seg>
+                     <seg type="cjh-Fett">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>Abr 31–33</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>VitMos II 42</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>Congr 44</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle-erläutert">
+                        <w>QuaestGen I 96</w>
+                     </seg>
+                     <seg type="cjh-Fett">
+                        <w>|5|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Bell I 476</w>
+                     </seg>; <w>Bell</w>
+                     <seg type="belegstelle">
+                        <w>III 430</w>
+                     </seg>; <w>Ant</w>
+                     <w>I</w>
+                     <w>22</w>; <seg type="belegstelle-erläutert">
+                        <w>Ant</w>
+                        <w>XI 68–71</w>;</seg>
+                     <w>Ant</w>
+                     <w>XI</w>
+                     <w>341</w>; <w>Ap I 16</w>; <w>Ap</w>
+                     <w>II 256</w>
+                     <seg type="cjh-Fett">
+                        <w>|8|</w>
+                     </seg>
+                     <w>TestSal </w>(<w>D</w>)<w> 1</w>,<w>12</w>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Ein</w>
+                     <w>Problem</w>
+                     <w>der</w>
+                     <w>Beurteilung</w>
+                     <w>des</w>
+                     <w>Lexems</w>
+                     <w>μῦθοι</w>
+                     <w>καὶ</w>
+                     <w>γενεαλογίαι</w>
+                     <w>bzw</w>. <w>der</w>
+                     <w>Einzelbegriffe</w>
+                     <w>in</w>
+                     <w>den</w>
+                     <w>Pastoralbriefen</w>
+                     <w>ist</w>
+                     <w>die</w>
+                     <w>Frage</w>
+                     <w>nach</w>
+                     <w>dem</w>
+                     <w>vorauszusetzenden</w>
+                     <w>Hintergrund</w>
+                     <w>einer</w>
+                     <w>eher</w>
+                     <w>jüd</w>. <w>oder</w>
+                     <w>spezifischeren</w>
+                     <w>gnostischen</w>
+                     <w>bzw</w>. <w>jüdisch-gnostischen</w>
+                     <w>Prägung</w>. <w>Beide</w>
+                     <w>Begriffe</w>
+                     <w>werden</w>
+                     <w>entweder</w>
+                     <w>einzeln</w> (<w>2Tim</w>; <w>Tit</w>) <w>oder</w>
+                     <w>in</w>
+                     <w>der</w>
+                     <w>seltenen</w>
+                     <w>und</w>
+                     <w>dadurch</w>
+                     <w>charakteristischen</w>
+                     <w>Zusammenstellung</w>
+                     <w>ausschließlich</w>
+                     <w>zur</w>
+                     <w>Charakterisierung</w>
+                     <w>der</w>
+                     <w>vom</w>
+                     <w>Glauben</w>
+                     <w>bzw</w>. <w>der</w>
+                     <w>rechten</w>
+                     <w>Lehre</w>
+                     <w>Abweichenden</w>
+                     <w>verwendet</w>. <w>Der</w>
+                     <w>negative</w>
+                     <w>Unterton</w>
+                     <w>wird</w>
+                     <w>in</w>
+                     <w>1Tim 1</w>,<w>4</w>
+                     <w>durch</w>
+                     <w>das</w>
+                     <w>Attribut</w> „<w>endlos</w>“ <w>angezeigt</w>. <w>Die</w>
+                     <w>Verbindung</w>
+                     <w>beider</w>
+                     <w>Begriffe</w>
+                     <w>findet</w>
+                     <w>sich</w>
+                     <w>im</w>
+                     <w>Corpus</w>
+                     <w>der</w>
+                     <w>jüd</w>.<w>-hell</w>. <w>und</w>
+                     <w>biblischen</w>
+                     <w>Lit</w>. <w>nur</w>
+                     <w>im</w>
+                     <w>1Tim</w> (<w>vgl</w>. <w>aber</w>
+                     <w>z</w>.<w>B</w>. <w>Polybios IX 2</w>,<w>1</w>), <w>später</w>
+                     <w>dann</w>
+                     <w>erst</w>
+                     <w>in</w>
+                     <w>der</w>
+                     <w>davon</w>
+                     <w>abhängigen</w>
+                     <w>christl</w>. <w>Literatur</w>.</p>
+                  <p>
+                     <w>Philo</w> (<w>Belege</w>
+                     <w>vollständig</w>) <w>interpretiert</w>
+                     <w>den</w>
+                     <w>Begriff</w>
+                     <w>γενεαλογία</w>
+                     <w>allegorisch</w> (<w>Abr 31–33</w>, <w>QuaestGen I 96</w>) <w>und</w>
+                     <w>mit</w>
+                     <w>ethischer</w>
+                     <w>Ausrichtung</w>. <w>In</w>
+                     <w>VitMos 2</w>,<w>47</w>
+                     <w>unterscheidet</w>
+                     <w>er</w>
+                     <w>–</w>
+                     <w>wohl</w>
+                     <w>in</w>
+                     <w>Anlehnung</w>
+                     <w>an</w>
+                     <w>den</w>
+                     <w>bei</w>
+                     <w>Polybios IX 1</w>,<w>4</w>
+                     <w>benannten</w>
+                     <w>γενεαλογικός</w>
+                     <w>τρόπος</w>
+                     <w>–</w>
+                     <w>die</w>
+                     <w>Genesis</w>
+                     <w>in</w>
+                     <w>einen</w>
+                     <w>Schöpfungsbericht</w>
+                     <w>und</w>
+                     <w>ein</w>
+                     <w>γενεαλογικόν</w>
+                     <w>als</w>
+                     <w>Geschichte</w>
+                     <w>der</w>
+                     <w>Erzfamilien</w>. <w>Josephus</w> (<w>Belege</w>
+                     <w>vollständig</w>) <w>veranschaulicht</w>
+                     <w>in</w>
+                     <w>Ant XI 71</w>
+                     <w>im</w>
+                     <w>Unterschied</w>
+                     <w>zum</w>
+                     <w>ntl</w>. <w>Gebrauch</w>
+                     <w>positiv</w>
+                     <w>die</w>
+                     <w>Bedeutung</w>
+                     <w>des</w>
+                     <w>Abstammungsnachweises</w>
+                     <w>in</w>
+                     <w>frühjüd</w>. <w>Perspektive</w>, <w>wie</w>
+                     <w>er</w>
+                     <w>in</w>
+                     <w>der</w>
+                     <w>Tradition</w>
+                     <w>Esras</w>
+                     <w>und</w>
+                     <w>Nehemias</w>
+                     <w>besonders</w>
+                     <w>hinsichtlich</w>
+                     <w>der</w>
+                     <w>Mischehenproblematik</w>
+                     <w>auch</w>
+                     <w>in</w>
+                     <w>anderen</w>
+                     <w>Schriften</w>
+                     <w>zu</w>
+                     <w>finden</w>
+                     <w>ist</w>, <w>ohne</w>
+                     <w>dass</w>
+                     <w>immer</w>
+                     <w>der</w>
+                     <w>Begriff</w>
+                     <w>der</w>
+                     <w>Genealogie</w>
+                     <w>verwendet</w>
+                     <w>werden</w>
+                     <w>muss</w> (<w>vgl</w>. <w>z</w>.<w>B</w>. <w>4Bar 8</w>,<w>4–5</w>). <w>Einen</w>
+                     <w>vergleichbaren</w>
+                     <w>Duktus</w>
+                     <w>hat</w>
+                     <w>der</w>
+                     <w>Bezug</w>
+                     <w>zur</w>
+                     <w>Genealogie</w>
+                     <w>der</w>
+                     <w>Samaritaner</w>
+                     <w>in</w>
+                     <w>Ant XI 341</w>. <w>Ohne</w>
+                     <w>den</w>
+                     <w>Begriff</w>
+                     <w>γενεαλογία</w>
+                     <w>zu</w>
+                     <w>gebrauchen</w>
+                     <w>wird</w>
+                     <w>in</w>
+                     <w>einer</w>
+                     <w>jüd</w>. <w>Praxis</w>
+                     <w>konformen</w>
+                     <w>Weise</w>
+                     <w>der</w>
+                     <w>Stammbaum</w>
+                     <w>Jesu</w>
+                     <w>in</w>
+                     <w>Mt 1</w>,<w>1–17</w>
+                     <w>und</w>
+                     <w>Lk 3</w>,<w>23–38</w>
+                     <w>angeführt</w>; <w>TestSal </w>(<w>D</w>)<w> 1</w>,<w>12</w>
+                     <w>greift</w>
+                     <w>dies</w>
+                     <w>als</w>
+                     <w>christl</w>. <w>Schrift</w>
+                     <w>auf</w>, <w>wenn</w>
+                     <w>von</w>
+                     <w>der</w> „<w>Kette</w>
+                     <w>der</w>
+                     <w>Genealogie</w>“ <w>von</w>
+                     <w>David</w>
+                     <w>bis</w>
+                     <w>Jesus</w>
+                     <w>Christus</w>
+                     <w>die</w>
+                     <w>Rede</w>
+                     <w>ist</w>. <w>In</w>
+                     <w>den</w>
+                     <w>Apokryphen</w>
+                     <w>und</w>
+                     <w>Pseudepigraphen</w>
+                     <w>ist</w>
+                     <w>γενεαλογία</w>
+                     <w>sonst</w>
+                     <w>nicht</w>
+                     <w>belegt</w>. </p>
+                  <p>
+                     <w>Häufiger</w>, <w>wenngleich</w>
+                     <w>wenig</w>
+                     <w>spezifisch</w>
+                     <w>geprägt</w>
+                     <w>ist</w>
+                     <w>der</w>
+                     <w>meist</w>
+                     <w>pluralisch</w>
+                     <w>gebrauchte</w>
+                     <w>Begriff</w>
+                     <w>μῦθος</w>, <w>der</w>
+                     <w>z</w>.<w>B</w>. <w>in</w>
+                     <w>Ap II 256</w>
+                     <w>erfundene</w>, <w>die</w>
+                     <w>rechte</w>
+                     <w>Gotteserkenntnis</w>
+                     <w>behindernde</w>
+                     <w>Göttergeschichten</w>
+                     <w>der</w>
+                     <w>Griechen</w>
+                     <w>bezeichnet</w> (<w>vgl</w>. <w>Bell III 420</w>). <w>In</w>
+                     <w>Ant I 22</w>
+                     <w>werden</w>
+                     <w>im</w>
+                     <w>Gegenüber</w>
+                     <w>zu</w>
+                     <w>Mose</w>
+                     <w>die</w>
+                     <w>Lehren</w> „<w>anderer</w>
+                     <w>Gesetzgeber</w>“ <w>als</w>
+                     <w>μῦθοι</w>
+                     <w>bezeichnet</w> (<w>ähnlich</w>
+                     <w>Philo</w>
+                     <w>Opif 1–2</w>
+                     <w>u</w>.<w>v</w>.<w>a</w>.: <w>Mythen</w>
+                     <w>sind</w>
+                     <w>menschliche</w>
+                     <w>Erfindungen</w>). <w>AristobExeg 2</w>,<w>2–3</w>
+                     <w>warnt</w>
+                     <w>vor</w>
+                     <w>falschen</w>
+                     <w>Gottesvorstellungen</w>, <w>die</w>
+                     <w>als</w>
+                     <w>Mythen</w>
+                     <w>menschlicher</w>
+                     <w>Natur</w>
+                     <w>sind</w>.</p>
+               </div>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>1</w>. <w>Warnung</w>
+                        <w>vor</w>
+                        <w>menschlichen</w>
+                        <w>Mythen</w>
+                        <w>über</w>
+                        <w>Gott</w>
+                     </head>
+                     <div source="AristobExeg 2,2–3" type="texteinleitung">
+                        <p>
+                           <w>In</w>
+                           <w>AristobExeg</w>
+                           <w>2</w>
+                           <w>wird</w>
+                           <w>die</w>
+                           <w>Vertrautheit</w>
+                           <w>des</w>
+                           <w>Aristobulos</w>
+                           <w>–</w>
+                           <w>neben</w>
+                           <w>der</w>
+                           <w>eigenen</w>
+                           <w>jüd</w>. <w>Tradition</w>
+                           <w>–</w>
+                           <w>mit</w>
+                           <w>aristotelischer</w>
+                           <w>Philosophie</w>
+                           <w>notiert</w>. <w>In</w>
+                           <w>einer</w>
+                           <w>an</w>
+                           <w>König</w>
+                           <w>Ptolemaios</w>
+                           <w>adressierten</w>
+                           <w>Rede</w>
+                           <w>über</w>
+                           <w>das</w>
+                           <w>Gesetz</w>
+                           <w>sagt</w>
+                           <w>er</w>:</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <w>παρακαλέσαι</w>
+                           <w>δέ</w>
+                           <w>σε</w>
+                           <w>βούλομαι</w>
+                           <w>πρὸς</w>
+                           <w>τὸ</w>
+                           <w>φυσικῶς</w>
+                           <w>λαμβάνειν</w>
+                           <w>τὰς</w>
+                           <w>ἐκδοχὰς</w>
+                           <w>καὶ</w>
+                           <w>τὴν</w>
+                           <w>ἁρμόζουσαν</w>
+                           <w>ἔννοιαν</w>
+                           <w>περὶ</w>
+                           <w>θεοῦ</w>
+                           <w>κρατεῖν</w>, <w>καὶ</w>
+                           <w>μὴ</w>
+                           <w>ἐκπίπτειν</w>
+                           <w>εἰς</w>
+                           <w>τὸ</w>
+                           <w>μυθῶδες</w>
+                           <w>καὶ</w>
+                           <w>ἀνθρώπινον</w>
+                           <w>κατάστημα</w>. (<w>3</w>)<w> πολλαχῶς</w>
+                           <w>γὰρ</w>
+                           <w>ὃ</w>
+                           <w>βούλεται</w>
+                           <w>λέγειν</w>
+                           <w>ὁ</w>
+                           <w>νομοθέτης</w>
+                           <w>ἡμῶν</w>
+                           <w>Μωσῆς</w>
+                           <w>ἐφ᾽</w>
+                           <w>ἑτέρων</w>
+                           <w>πραγμάτων</w>
+                           <w>λόγους</w>
+                           <w>ποιούμενος</w>
+                           <w>λέγω</w>
+                           <w>δὲ</w>
+                           <w>τῶν</w>
+                           <w>κατὰ</w>
+                           <w>τὴν</w>
+                           <w>ἐπιφάνειαν</w>, <w>φυσικὰς</w>
+                           <w>διαθέσεις</w>
+                           <w>ἀπαγγέλλει</w>
+                           <w>καὶ</w>
+                           <w>μεγάλων</w>
+                           <w>πραγμάτων</w>
+                           <w>κατασκευάς</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Ich</w>
+                           <w>möchte</w>
+                           <w>dich</w>
+                           <w>aber</w>
+                           <w>dazu</w>
+                           <w>ermuntern</w>, <w>die</w>
+                           <w>Überlieferungen</w>
+                           <w>in</w>
+                           <w>natürlicher</w>
+                           <w>Weise</w>
+                           <w>hinzunehmen</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>zusammenpassende</w>
+                           <w>Gesinnung</w>
+                           <w>über</w>
+                           <w>Gott</w>
+                           <w>festzuhalten</w>
+                           <w>und</w>
+                           <w>nicht</w>
+                           <w>in</w>
+                           <w>den</w>
+                           <w>fabulierenden</w>
+                           <w>und</w>
+                           <w>menschlichen</w>
+                           <w>Zustand</w>
+                           <w>zu</w>
+                           <w>verfallen</w>. (<w>3</w>) <w>Denn</w>
+                           <w>vielfältig</w>
+                           <w>ist</w>, <w>was</w>
+                           <w>unser</w>
+                           <w>Gesetzgeber</w>
+                           <w>Moses</w>
+                           <w>sagen</w>
+                           <w>will</w>; <w>indem</w>
+                           <w>er</w>
+                           <w>über</w>
+                           <w>andere</w>
+                           <w>Sachen</w>
+                           <w>redet</w>
+                           <w>–</w>
+                           <w>ich</w>
+                           <w>meine</w>
+                           <w>hinsichtlich</w>
+                           <w>deren</w>
+                           <w>Erscheinungsform</w>
+                           <w>–</w>
+                           <w>berichtet</w>
+                           <w>er</w>
+                           <w>über</w>
+                           <w>die</w>
+                           <w>natürlichen</w>
+                           <w>Zustände</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>Beschaffenheit</w>
+                           <w>großer</w>
+                           <w>Dinge</w>.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>2</w>. <w>Die</w>
+                        <w>Genealogie</w>
+                        <w>des</w>
+                        <w>tugendhaften</w>
+                        <w>Menschen</w>
+                        <w>bei</w>
+                        <w>Philo</w>
+                     </head>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>2</w>.<w>1</w>
+                           <w>Genealogien</w>
+                           <w>als</w>
+                           <w>Verzeichnisse</w>
+                           <w>der</w>
+                           <w>Tugendhaften</w>
+                        </head>
+                        <div source="Abr 31–33" type="texteinleitung">
+                           <p>
+                              <w>In</w>
+                              <w>Abr 31–33</w>
+                              <w>bietet</w>
+                              <w>Philo</w>
+                              <w>eine</w>
+                              <w>allegorische</w>
+                              <w>Interpretation</w>
+                              <w>der</w>
+                              <w>Genealogien</w>
+                              <w>der</w>
+                              <w>Urgeschichte</w>, <w>die</w>
+                              <w>nicht</w>
+                              <w>auf</w>
+                              <w>die</w>
+                              <w>menschliche</w>
+                              <w>Generationenfolge</w>
+                              <w>selbst</w>
+                              <w>abhebt</w>, <w>sondern</w>
+                              <w>auf</w>
+                              <w>eine</w>
+                              <w>Genealogie</w>
+                              <w>des</w>
+                              <w>tugendhaften</w>
+                              <w>Menschen</w>. <w>Eine</w>
+                              <w>Erläuterung</w>
+                              <w>dazu</w>
+                              <w>findet</w>
+                              <w>sich</w>
+                              <w>in</w>
+                              <w>QuaestGen I 97</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <w>οὕτως</w>
+                              <w>δ᾽</w>
+                              <w>ἀποσεμνύνει</w>
+                              <w>τὸν</w>
+                              <w>φιλάρετον</w>, <w>ὥστε</w>
+                              <w>καὶ</w>
+                              <w>γενεαλογῶν</w>
+                              <w>αὐτὸν</w>
+                              <w>οὐ</w>, <w>καθάπερ</w>
+                              <w>ἔθος</w>
+                              <w>ἐπὶ</w>
+                              <w>τῶν</w>
+                              <w>ἄλλων</w>, <w>πάππων</w>
+                              <w>ἢ</w>
+                              <w>προπάππων</w>
+                              <w>ἢ</w>
+                              <w>προγόνων</w>
+                              <w>ποιεῖται</w>
+                              <w>κατάλογον</w>, <w>ὅσοι</w>
+                              <w>πρὸς</w>
+                              <w>ἀνδρῶν</w>
+                              <w>ἢ</w>
+                              <w>πρὸς</w>
+                              <w>γυναικῶν</w>
+                              <w>εἰσιν</w>, <w>ἀλλά</w>
+                              <w>τινων</w>
+                              <w>ἀρετῶν</w>, <w>μόνον</w>
+                              <w>οὐχὶ</w>
+                              <w>βοῶν</w>
+                              <w>ἄντικρυς</w>, <w>ὅτι</w>
+                              <w>οἰκία</w>
+                              <w>καὶ</w>
+                              <w>συγγένεια</w>
+                              <w>καὶ</w>
+                              <w>πατρὶς</w>
+                              <w>οὐδεμία</w>
+                              <w>ἐστὶν</w>
+                              <w>ἑτέρα</w>
+                              <w>σοφῷ</w>
+                              <w>ὅτι</w>
+                              <w>μὴ</w>
+                              <w>ἀρεταὶ</w>
+                              <w>καὶ</w>
+                              <w>αἱ</w>
+                              <w>κατ᾽</w>
+                              <w>ἀρετὰς</w>
+                              <w>πράξεις·</w> „<w>αὗται</w>“ <w>γάρ</w>
+                              <w>φησιν</w> „<w>αἱ</w>
+                              <w>γενέσεις</w>
+                              <w>Νῶε·</w>
+                              <w>Νῶε</w>
+                              <w>ἄνθρωπος</w>
+                              <w>δίκαιος</w>, <w>τέλειος</w>
+                              <w>ἐν</w>
+                              <w>τῇ</w>
+                              <w>γενεᾷ</w>
+                              <w>αὐτοῦ</w>, <w>τῷ</w>
+                              <w>θεῷ</w>
+                              <w>εὐηρέστησεν</w>“ (<w>32</w>)<w> οὐ</w>
+                              <w>δεῖ</w>
+                              <w>δὲ</w>
+                              <w>ἀγνοεῖν</w>, <w>ὅτι</w>
+                              <w>νῦν</w> „<w>ἄνθρωπον</w>“ <w>οὐ</w>
+                              <w>κοινῷ</w>
+                              <w>τύπῳ</w>
+                              <w>τὸ</w>
+                              <w>λογικὸν</w>
+                              <w>θνητὸν</w>
+                              <w>ζῷον</w>
+                              <w>καλεῖ</w>, <w>τὸν</w>
+                              <w>μέντοι</w>
+                              <w>κατ᾽</w>
+                              <w>ἐξοχήν</w>, <w>ὃς</w>
+                              <w>ἐπαληθεύει</w>
+                              <w>τοὔνομα</w>
+                              <w>τὰ</w>
+                              <w>ἀτίθασα</w>
+                              <w>καὶ</w>
+                              <w>λελυττηκότα</w>
+                              <w>πάθη</w>
+                              <w>καὶ</w>
+                              <w>τὰς</w>
+                              <w>θηριωδεστάτας</w>
+                              <w>κακίας</w>
+                              <w>τῆς</w>
+                              <w>ψυχῆς</w>
+                              <w>ἀπεληλακώς</w>. (<w>33</w>)<w> σημεῖον</w>
+                              <w>δέ·</w>
+                              <w>μετὰ</w>
+                              <w>τὸν</w> „<w>ἄνθρωπον</w>“ <w>ἐπιλέγει</w>
+                              <w>τὸν</w> „<w>δίκαιον</w>“ <w>εἰπὼν</w> „<w>ἄνθρωπος</w>
+                              <w>δίκαιος</w>“, <w>ὡς</w>
+                              <w>ἀδίκου</w>
+                              <w>μὲν</w>
+                              <w>οὐδενὸς</w>
+                              <w>ὄντος</w>
+                              <w>ἀνθρώπου</w>
+                              <w>κυριώτερον</w>
+                              <w>δ᾽</w>
+                              <w>εἰπεῖν</w>
+                              <w>ἀνθρωπομόρφου</w>
+                              <w>θηρίου</w>, <w>μόνου</w>
+                              <w>δὲ</w>
+                              <w>ὃς</w>
+                              <w>ἂν</w>
+                              <w>ζηλωτὴς</w>
+                              <w>ᾖ</w>
+                              <w>δικαιοσύνης</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>Er</w>
+                              <w>preist</w>
+                              <w>aber</w>
+                              <w>den</w>
+                              <w>Tugendfreund</w> (<w>sc</w>. <w>Noah</w>) <w>in</w>
+                              <w>der</w>
+                              <w>Weise</w>, <w>dass</w>
+                              <w>er</w>
+                              <w>während</w>
+                              <w>der</w>
+                              <w>Ermittlung</w>
+                              <w>von</w>
+                              <w>dessen</w>
+                              <w>Herkunft</w>
+                              <w>nicht</w>, <w>ganz</w>
+                              <w>so</w>
+                              <w>wie</w>
+                              <w>es</w>
+                              <w>seine</w>
+                              <w>Gewohnheit</w>
+                              <w>bei</w>
+                              <w>anderen</w>
+                              <w>ist</w>, <w>ein</w>
+                              <w>Verzeichnis</w>
+                              <w>von</w>
+                              <w>Ahnen</w>
+                              <w>oder</w>
+                              <w>Urahnen</w>
+                              <w>oder</w>
+                              <w>Vorfahren</w>
+                              <w>erstellt</w>, <w>wie</w>
+                              <w>viele</w>
+                              <w>von</w>
+                              <w>den</w>
+                              <w>Männern</w>
+                              <w>oder</w>
+                              <w>den</w>
+                              <w>Frauen</w>
+                              <w>abstammen</w>, <w>sondern</w> (<w>ein</w>
+                              <w>Verzeichnis</w>) <w>einiger</w>
+                              <w>Tugenden</w>, <w>während</w>
+                              <w>er</w>
+                              <w>beinahe</w>
+                              <w>geradewegs</w>
+                              <w>kundtut</w>, <w>dass</w>
+                              <w>für</w>
+                              <w>einen</w>
+                              <w>Weisen</w>
+                              <w>Häuser</w>, <w>Verwandtschaft</w>
+                              <w>und</w>
+                              <w>Heimat</w>
+                              <w>nichts</w>
+                              <w>anderes</w>
+                              <w>sind</w>
+                              <w>als</w>
+                              <w>Tugenden</w>
+                              <w>und</w>
+                              <w>Handlungen</w>
+                              <w>gemäß</w>
+                              <w>den</w>
+                              <w>Tugenden</w>. „<w>Diese</w>
+                              <w>sind</w>“, <w>sagt</w>
+                              <w>er</w>
+                              <w>nämlich</w>, „<w>die</w>
+                              <w>Geschlechter</w>
+                              <w>Noahs</w>. <w>Noah</w>, <w>ein</w>
+                              <w>gerechter</w>
+                              <w>Mann</w>, <w>vollkommen</w>
+                              <w>in</w>
+                              <w>seinem</w>
+                              <w>Zeitalter</w>, <w>war</w>
+                              <w>gottgefällig</w>.“ (<w>32</w>) <w>Man</w>
+                              <w>muss</w>
+                              <w>aber</w>
+                              <w>wohl</w>
+                              <w>wissen</w>, <w>dass</w>
+                              <w>er</w>
+                              <w>nun</w>
+                              <w>mit</w> „<w>Mensch</w>“ <w>nicht</w>
+                              <w>nach</w>
+                              <w>allgemeinem</w>
+                              <w>Bild</w>
+                              <w>das</w>
+                              <w>vernünftige</w>, <w>sterbliche</w>
+                              <w>Lebewesen</w>
+                              <w>benennt</w>, <w>sondern</w>
+                              <w>vorzugsweise</w>
+                              <w>den</w>, <w>der</w>
+                              <w>den</w>
+                              <w>Namen</w>
+                              <w>bestätigt</w>, <w>indem</w>
+                              <w>er</w>
+                              <w>die</w>
+                              <w>ungezähmten</w>
+                              <w>und</w>
+                              <w>tollen</w>
+                              <w>Begierden</w>
+                              <w>und</w>
+                              <w>die</w>
+                              <w>tierischen</w>
+                              <w>Laster</w>
+                              <w>der</w>
+                              <w>Seele</w>
+                              <w>vertrieben</w>
+                              <w>hat</w>. (<w>33</w>) <w>Der</w>
+                              <w>Beweis</w>
+                              <w>ist</w>: <w>Nach</w> „<w>Mensch</w>“ <w>fügt</w>
+                              <w>er</w> „<w>gerecht</w>“ <w>hinzu</w>
+                              <w>und</w>
+                              <w>sagt</w> „<w>gerechter</w>
+                              <w>Mensch</w>“, <w>weil</w>
+                              <w>kein</w>
+                              <w>Ungerechter</w>
+                              <w>ein</w>
+                              <w>Mensch</w>
+                              <w>ist</w>
+                              <w>–</w>
+                              <w>es</w>
+                              <w>wäre</w>
+                              <w>passender</w>
+                              <w>zu</w>
+                              <w>sagen</w>: <w>menschlich</w>
+                              <w>gestaltetes</w>
+                              <w>Tier</w>
+                              <w>–</w>, <w>sondern</w>
+                              <w>der</w>
+                              <w>allein</w>, <w>der</w>
+                              <w>ein</w>
+                              <w>Verehrer</w>
+                              <w>der</w>
+                              <w>Gerechtigkeit</w>
+                              <w>ist</w>.</p>
+                        </div>
+                     </div>
+                     <div type="beleg-subgruppe">
+                        <head type="cjh-Überschrift-4">
+                           <w>2</w>.<w>2</w>
+                           <w>Noahs</w>
+                           <w>Ursprung</w>
+                           <w>in</w>
+                           <w>der</w>
+                           <w>Tugend</w>
+                        </head>
+                        <div source="QuaestGen I 96" type="texteinleitung">
+                           <p>
+                              <w>Obwohl</w>
+                              <w>auch</w>
+                              <w>von</w>
+                              <w>Noah</w>
+                              <w>ein</w>
+                              <w>Stammbaum</w>
+                              <w>überliefert</w>
+                              <w>ist</w> (<w>Gen 5</w>,<w>1–32</w>), <w>interpretiert</w>
+                              <w>Philo</w>
+                              <w>die</w>
+                              <w>Tatsache</w>, <w>dass</w>
+                              <w>er</w>
+                              <w>als</w>
+                              <w>einziger</w>
+                              <w>seiner</w>
+                              <w>Generation</w>
+                              <w>als</w>
+                              <w>gerechter</w>
+                              <w>Mann</w>
+                              <w>gilt</w> (<w>Gen 6</w>,<w>9</w>), <w>allegorisch</w>
+                              <w>und</w>
+                              <w>führt</w>
+                              <w>seinen</w>
+                              <w>wahren</w>
+                              <w>Ursprung</w>
+                              <w>auf</w>
+                              <w>die</w>
+                              <w>Tugend</w>
+                              <w>zurück</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatGriech">
+                           <p>
+                              <w>[</w>…<w>]</w>
+                              <w>Διὸ</w>
+                              <w>καὶ</w>
+                              <w>ἀπὸ</w>
+                              <w>τῶν</w>
+                              <w>ἀρετῶν</w>
+                              <w>αὐτὸν</w>
+                              <w>γενεαλογεῖ·</w>
+                              <w>τοῦ</w>
+                              <w>γὰρ</w>
+                              <w>σπουδαίου</w>
+                              <w>τὸ</w>
+                              <w>πρὸς</w>
+                              <w>ἀλήθειαν</w>
+                              <w>γένος</w>
+                              <w>ἐστὶν</w>
+                              <w>ἀρετή</w>. <w>Πρὸς</w>
+                              <w>ὃν</w>
+                              <w>καὶ</w>
+                              <w>φησι·</w> „<w>καιρὸς</w>
+                              <w>παντὸς</w>
+                              <w>ἀνθρώπου</w>
+                              <w>ἣκει</w>
+                              <w>ἐναντίον</w>
+                              <w>ἐμοῦ</w>.“ <w>Ὄντως</w>
+                              <w>γὰρ</w>
+                              <w>οὐδὲν</w>
+                              <w>ὡς</w>
+                              <w>ἀδικία</w>
+                              <w>πρὸς</w>
+                              <w>τὸν</w>
+                              <w>θεὸν</w>
+                              <w>ἐναντίον</w>.</p>
+                        </div>
+                        <div type="cjh-ZitatÜbersetzung">
+                           <p>
+                              <w>[</w>…<w>]</w>
+                              <w>Deshalb</w>
+                              <w>leitet</w>
+                              <w>er</w>
+                              <w>dessen</w>
+                              <w>Herkunft</w>
+                              <w>von</w>
+                              <w>den</w>
+                              <w>Tugenden</w>
+                              <w>her</w>. <w>Denn</w>
+                              <w>die</w>
+                              <w>wahre</w>
+                              <w>Abstammung</w>
+                              <w>des</w>
+                              <w>Tüchtigen</w>
+                              <w>ist</w>
+                              <w>Tugend</w>. <w>Zu</w>
+                              <w>ihm</w>
+                              <w>sagte</w>
+                              <w>er</w>
+                              <w>auch</w>: „<w>Die</w>
+                              <w>rechte</w>
+                              <w>Beschaffenheit</w>
+                              <w>eines</w>
+                              <w>jeden</w>
+                              <w>Menschen</w>
+                              <w>soll</w>
+                              <w>gegenüber</w>
+                              <w>mir</w>
+                              <w>gekommen</w>
+                              <w>sein</w>.“ <w>Denn</w>
+                              <w>nichts</w>
+                              <w>ist</w>
+                              <w>wie</w>
+                              <w>Unrecht</w>
+                              <w>gegenüber</w>
+                              <w>Gott</w>.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>3</w>. <w>Die</w>
+                        <w>praktische</w>
+                        <w>Notwendigkeit</w>
+                        <w>von</w>
+                        <w>Genealogien</w>
+                        <w>nach</w>
+                        <w>dem</w>
+                        <w>Zeugnis</w>
+                        <w>des</w>
+                        <w>Josephus</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <w>Καὶ</w>
+                           <w>οἱ</w>
+                           <w>μὲν</w>
+                           <w>οὕτως</w>
+                           <w>ἀπῄεσαν</w>
+                           <w>ἐξ</w>
+                           <w>ἑκάστης</w>
+                           <w>πατριᾶς</w>
+                           <w>ἀριθμὸς</w>
+                           <w>ὄντες</w>
+                           <w>ὡρισμένος</w>. <w>ἐμοὶ</w>
+                           <w>δὲ</w>
+                           <w>οὐκ</w>
+                           <w>ἔδοξε</w>
+                           <w>τὰ</w>
+                           <w>τῶν</w>
+                           <w>πατριῶν</w>
+                           <w>καταλέγειν</w>
+                           <w>ὀνόματα</w>, <w>ἵνα</w>
+                           <w>μὴ</w>
+                           <w>τὴν</w>
+                           <w>τῶν</w>
+                           <w>ἀναγινωσκόντων</w>
+                           <w>διάνοιαν</w>
+                           <w>τῆς</w>
+                           <w>συναφῆς</w>
+                           <w>τῶν</w>
+                           <w>πραγμάτων</w>
+                           <w>ἀποσπάσας</w>
+                           <w>δυσπαρακολούθητον</w>
+                           <w>αὐτοῖς</w>
+                           <w>ποιήσω</w>
+                           <w>τὴν</w>
+                           <w>διήγησιν</w>. <w>[</w>…<w>]</w> (<w>70</w>) <w>[</w>…<w>]</w>
+                           <w>ἄλλοι</w>
+                           <w>τε</w>
+                           <w>πρὸς</w>
+                           <w>τούτοις</w>
+                           <w>λέγοντες</w>
+                           <w>μὲν</w>
+                           <w>εἶναι</w>
+                           <w>τῶν</w>
+                           <w>Ἰσραηλιτῶν</w>
+                           <w>οὐ</w>
+                           <w>δυνάμενοι</w>
+                           <w>δὲ</w>
+                           <w>ἐπιδεῖξαι</w>
+                           <w>τὸ</w>
+                           <w>γένος</w>
+                           <w>αὐτῶν</w>
+                           <w>ἑξακόσιοι</w>
+                           <w>πεντηκονταδύο</w>. (<w>71</w>) <w>ἐξεβλήθησαν</w>
+                           <w>δὲ</w>
+                           <w>καὶ</w>
+                           <w>τῶν</w>
+                           <w>ἱερέων</w>
+                           <w>ἐκ</w>
+                           <w>τῆς</w>
+                           <w>τιμῆς</w>
+                           <w>ἠγμένοι</w>
+                           <w>γυναῖκας</w>, <w>ὧν</w>
+                           <w>οὔτ᾽</w>
+                           <w>αὐτοὶ</w>
+                           <w>τὸ</w>
+                           <w>γένος</w>
+                           <w>εἶχον</w>
+                           <w>εἰπεῖν</w>
+                           <w>οὔτ᾽</w>
+                           <w>ἐν</w>
+                           <w>ταῖς</w>
+                           <w>γενεαλογίαις</w>
+                           <w>τῶν</w>
+                           <w>Λευιτῶν</w>
+                           <w>καὶ</w>
+                           <w>ἱερέων</w>
+                           <w>εὑρέθησαν·</w>
+                           <w>ἦσαν</w>
+                           <w>δὲ</w>
+                           <w>ὡς</w>
+                           <w>πεντακόσιοι</w>
+                           <w>καὶ</w>
+                           <w>πέντε</w>
+                           <w>καὶ</w>
+                           <w>εἴκοσι</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Und</w>
+                           <w>auf</w>
+                           <w>diese</w>
+                           <w>Weise</w>
+                           <w>zog</w>
+                           <w>aus</w>
+                           <w>jeder</w>
+                           <w>Familie</w>
+                           <w>eine</w>
+                           <w>bestimmte</w>
+                           <w>Anzahl</w>
+                           <w>aus</w>. <w>Mir</w>
+                           <w>aber</w>
+                           <w>schien</w>
+                           <w>es</w>
+                           <w>nicht</w>
+                           <w>angemessen</w>, <w>die</w>
+                           <w>Namen</w>
+                           <w>der</w>
+                           <w>Familien</w>
+                           <w>aufzuführen</w>, <w>damit</w>
+                           <w>nicht</w>
+                           <w>die</w>
+                           <w>Wahrnehmung</w>
+                           <w>der</w>
+                           <w>Lesenden</w>
+                           <w>abgelenkt</w>
+                           <w>werde</w>
+                           <w>von</w>
+                           <w>dem</w>
+                           <w>Verstehen</w>
+                           <w>des</w>
+                           <w>Zusammenhanges</w>
+                           <w>der</w>
+                           <w>Dinge</w>
+                           <w>und</w>
+                           <w>ich</w>
+                           <w>ihnen</w>
+                           <w>die</w>
+                           <w>schwer</w>
+                           <w>verständliche</w>
+                           <w>Erzählung</w>
+                           <w>nahebringe</w>. <w>[</w>…<w>]</w> (<w>70</w>) <w>[</w>…<w>]</w>
+                           <w>Zu</w>
+                           <w>diesen</w>
+                           <w>aber</w>
+                           <w>kamen</w>
+                           <w>weitere</w>
+                           <w>662</w>, <w>die</w>
+                           <w>zwar</w>
+                           <w>behaupteten</w>, <w>Israeliten</w>
+                           <w>zu</w>
+                           <w>sein</w>, <w>aber</w>
+                           <w>nicht</w>
+                           <w>in</w>
+                           <w>der</w>
+                           <w>Lage</w>
+                           <w>waren</w>, <w>ihre</w>
+                           <w>Abstammung</w>
+                           <w>nachzuweisen</w>. (<w>71</w>)<w> Auch</w>
+                           <w>von</w>
+                           <w>den</w>
+                           <w>Priestern</w>
+                           <w>wurden</w>
+                           <w>einige</w>
+                           <w>ihres</w>
+                           <w>Amtes</w>
+                           <w>enthoben</w>, <w>weil</w>
+                           <w>sie</w>
+                           <w>Frauen</w>
+                           <w>geheiratet</w>
+                           <w>hatten</w>, <w>deren</w>
+                           <w>Abstammung</w>
+                           <w>sie</w>
+                           <w>selbst</w>
+                           <w>nicht</w>
+                           <w>nennen</w>
+                           <w>konnten</w>
+                           <w>und</w>
+                           <w>die</w>
+                           <w>auch</w>
+                           <w>nicht</w>
+                           <w>in</w>
+                           <w>den</w>
+                           <w>Genealogien</w>
+                           <w>der</w>
+                           <w>Leviten</w>
+                           <w>und</w>
+                           <w>Priester</w>
+                           <w>zu</w>
+                           <w>finden</w>
+                           <w>waren</w>. <w>Dies</w>
+                           <w>waren</w>
+                           <w>ungefähr</w>
+                           <w>525</w>.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p>
+                     <w>Die</w>
+                     <w>Art</w>
+                     <w>und</w>
+                     <w>Weise</w>, <w>wie</w>
+                     <w>der</w>
+                     <w>Begriff</w>
+                     <w>der</w>
+                     <w>Genealogie</w>
+                     <w>in</w>
+                     <w>jüd</w>. <w>Schriften</w>
+                     <w>gebraucht</w>
+                     <w>wird</w>, <w>zeigt</w>
+                     <w>den</w>
+                     <w>Unterschied</w>
+                     <w>zu</w>
+                     <w>seiner</w>
+                     <w>negativen</w>
+                     <w>Bewertung</w>
+                     <w>innerhalb</w>
+                     <w>der</w>
+                     <w>Pastoralbriefe</w>. <w>Die</w>
+                     <w>Tatsache</w>, <w>dass</w>
+                     <w>die</w>
+                     <w>als</w>
+                     <w>häretisch</w>
+                     <w>bewertete</w>
+                     <w>Position</w>
+                     <w>vor</w>
+                     <w>allem</w>
+                     <w>im</w>
+                     <w>1Tim</w> (<w>vgl</w>. <w>die</w>
+                     <w>andere</w>, <w>auf</w>
+                     <w>Auseinandersetzungen</w>
+                     <w>um</w>
+                     <w>das</w>
+                     <w>Gesetz</w>
+                     <w>bezogene</w>
+                     <w>Akzentuierung</w>
+                     <w>in</w>
+                     <w>Tit 3</w>,<w>9</w>) <w>durch</w>
+                     <w>das</w>
+                     <w>Lexem</w>
+                     <w>μῦθοι</w>
+                     <w>καὶ</w>
+                     <w>γενεαλογίαι</w>
+                     <w>auf</w>
+                     <w>einen</w>
+                     <w>offenbar</w>
+                     <w>charakteristischen</w>
+                     <w>Punkt</w>
+                     <w>gebracht</w>
+                     <w>werden</w>
+                     <w>kann</w>, <w>legt</w>
+                     <w>angesichts</w>
+                     <w>der</w>
+                     <w>keineswegs</w>
+                     <w>zentralen</w>
+                     <w>Bedeutung</w>
+                     <w>von</w>
+                     <w>Genealogien</w>
+                     <w>im</w>
+                     <w>Judentum</w>
+                     <w>nahe</w>, <w>nicht</w>
+                     <w>an</w>
+                     <w>einen</w>
+                     <w>spezifisch</w>
+                     <w>jüd</w>. <w>Kontext</w>
+                     <w>zu</w>
+                     <w>denken</w>, <w>sondern</w>
+                     <w>eine</w>
+                     <w>bereits</w>
+                     <w>spezifisch</w>
+                     <w>gnostische</w>
+                     <w>Prägung</w>
+                     <w>anzunehmen</w> (<w>vgl</w>. <w>1Tim 6</w>,<w>20</w>), <w>so</w>
+                     <w>dass</w>
+                     <w>die</w>
+                     <w>Verbindung</w>
+                     <w>μῦθοι</w>
+                     <w>καὶ</w>
+                     <w>γενεαλογίαι</w>
+                     <w>in</w>
+                     <w>1Tim 1</w>,<w>4</w>
+                     <w>als</w>
+                     <w>ein</w>
+                     <w>Hendiadyoin</w>
+                     <w>verstanden</w>
+                     <w>werden</w>
+                     <w>kann</w>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

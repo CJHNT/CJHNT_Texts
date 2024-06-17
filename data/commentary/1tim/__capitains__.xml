@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../../capitains.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<collection xmlns:ti="http://chs.harvard.edu/xmlns/cts"
-            xmlns:dct="http://purl.org/dc/terms/"
+<collection xmlns="http://purl.org/capitains/ns/1.0#"
+            xmlns:bib="http://bibliotek-o.org/1.0/ontology/"
             xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns="http://purl.org/capitains/ns/1.0#"
+            xmlns:dct="http://purl.org/dc/terms/"
             xmlns:owl="http://www.w3.org/2002/07/owl#"
-            xmlns:bib="http://bibliotek-o.org/1.0/ontology/">
+            xmlns:ti="http://chs.harvard.edu/xmlns/cts">
    <identifier>urn:cts:cjhnt:commentary.1tim</identifier>
    <parent>urn:cts:cjhnt:commentary</parent>
    <dc:title xml:lang="deu">Kommentar zu 1. Timotheus</dc:title>
@@ -14,92 +14,560 @@
    <dc:contributor>Karl-Wilhelm Niebuhr</dc:contributor>
    <dc:contributor>Jan Quenstedt</dc:contributor>
    <members>
-      <collection readable="true" path="./commentary.1tim.1_1_1.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_1_1</identifier>
+      <collection readable="true" path="./commentary.1tim.001_001_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_001_001</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,1</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:1</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,1/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:1/1</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_1_2.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_1_2</identifier>
+      <collection readable="true" path="./commentary.1tim.001_001_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_001_002</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,1</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:1</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,1/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:1/2</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_2_1.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_2_1</identifier>
+      <collection readable="true" path="./commentary.1tim.001_002_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_002_001</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,2</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:2</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,2/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:2/1</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_2_2.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_2_2</identifier>
+      <collection readable="true" path="./commentary.1tim.001_002_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_002_002</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,2</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:2</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,2/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:2/2</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_3_1.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_3_1</identifier>
+      <collection readable="true" path="./commentary.1tim.001_003.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_003</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus1,3</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,3</dc:title>
          <dc:title xml:lang="eng">Commentary on 1 Timothy 1:3</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_4_1.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_4_1</identifier>
+      <collection readable="true" path="./commentary.1tim.001_004_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_004_001</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4/1</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_4_2.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_4_2</identifier>
+      <collection readable="true" path="./commentary.1tim.001_004_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_004_002</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4/2</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_4_3.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_4_3</identifier>
+      <collection readable="true" path="./commentary.1tim.001_004_003.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_004_003</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,4/3</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:4/3</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_5_1.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_5_1</identifier>
+      <collection readable="true" path="./commentary.1tim.001_005_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_005_001</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,5</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:5</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,5/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:5/1</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>
       </collection>
-      <collection readable="true" path="./commentary.1tim.1_5_2.xml">
-         <identifier>urn:cts:cjhnt:commentary.1tim.1_5_2</identifier>
+      <collection readable="true" path="./commentary.1tim.001_005_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_005_002</identifier>
          <parent>urn:cts:cjhnt:commentary.1tim</parent>
-         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,5</dc:title>
-         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:5</dc:title>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,5/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:5/2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_006.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_006</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,6</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:6</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_008bis10.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_008bis10</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,8-10</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:8-10</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_011.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_011</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,11</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:11</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_012.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_012</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,12</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:12</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_013.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_013</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,13</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:13</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_015.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_015</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,15</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:15</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_018.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_018</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,18</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:18</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_019.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_019</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,19</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:19</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.001_020.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.001_020</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 1,20</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 1:20</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_002</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_004.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_004</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,4</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:4</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_005.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_005</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,5</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:5</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_006.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_006</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,6</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:6</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_007.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_007</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,7</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:7</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_008.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_008</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,8</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:8</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_013.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_013</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,13</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:13</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_014.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_014</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,14</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:14</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_015_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_015_001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,15/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:15/1</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.002_015_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.002_015_002</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 2,15/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 2:15/2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_001_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_001_001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,1/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:1/1</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_001_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_001_002</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,1/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:1/2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_015.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_015</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,15</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:15</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_016_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_016_001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,16/1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:16/1</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_016_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_016_002</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,16/2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:16/2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_016_003.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_016_003</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,16/3</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:16/3</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_016_004.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_016_004</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,16/4</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:16/4</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.003_016_005.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.003_016_005</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 3,16/5</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 3:16/5</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:1</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_003.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_003</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,3</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:3</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_005.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_005</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,5</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:5</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_007.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_007</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,7</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:7</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_010.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_010</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,10</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:10</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_012.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_012</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,12</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:12</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_013.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_013</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,13</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:13</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_014.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_014</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,14</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:14</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.004_015.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.004_015</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 4,15</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 4:15</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_001.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_001</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,1</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:1</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_004.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_004</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,4</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:4</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_005.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_005</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,5</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:5</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_006.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_006</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,6</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:6</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_019.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_019</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,19</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:19</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_020.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_020</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,20</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:20</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.005_021.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.005_021</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 5,21</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 5:21</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_002.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_002</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,2</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:2</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_004.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_004</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,4</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:4</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_011.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_011</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,11</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:11</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_012.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_012</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,12</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:12</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_014.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_014</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,14</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:14</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_017.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_017</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,17</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:17</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_018.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_018</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,18</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:18</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_019.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_019</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,19</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:19</dc:title>
+         <dc:language>deu</dc:language>
+         <dc:type>commentary-part</dc:type>
+         <dc:format>application/tei+xml</dc:format>
+      </collection>
+      <collection readable="true" path="./commentary.1tim.006_020.xml">
+         <identifier>urn:cts:cjhnt:commentary.1tim.006_020</identifier>
+         <parent>urn:cts:cjhnt:commentary.1tim</parent>
+         <dc:title xml:lang="deu">Kommentar zu 1. Timotheus 6,20</dc:title>
+         <dc:title xml:lang="eng">Commentary on 1 Timothy 6:20</dc:title>
          <dc:language>deu</dc:language>
          <dc:type>commentary-part</dc:type>
          <dc:format>application/tei+xml</dc:format>

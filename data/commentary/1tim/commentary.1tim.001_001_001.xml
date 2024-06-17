@@ -2,12 +2,12 @@
    <teiHeader xml:lang="deu">
       <fileDesc>
          <titleStmt>
-            <title n="de">Kommentar zu 1. Timotheus 1,1</title>
-            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:1</title>
+            <title n="de">Kommentar zu 1. Timotheus 1,1/1</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:1/1</title>
             <author>Oesterreich</author>
          </titleStmt>
          <editionStmt>
-            <edition>Digitale Edition von 1tim_1_1_1_gott</edition>
+            <edition>Digitale Edition von 1tim_1_1_1</edition>
             <respStmt>
                <resp>Autor</resp>
                <resp xml:lang="eng">Author</resp>
@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>CJHNT-Digital Projekt</publisher>
             <pubPlace>Leipzig</pubPlace>
-            <date when="2024-06-12"/>
+            <date when="2024-06-13"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
                             Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
@@ -48,7 +48,7 @@
    </teiHeader>
    <text>
       <body>
-         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_1_1">
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_001_001">
             <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.1;" n="1">
                <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
                <head type="cjh-Überschrift-2">1,1/1 Gott, der Retter: θεός σωτήρ</head>

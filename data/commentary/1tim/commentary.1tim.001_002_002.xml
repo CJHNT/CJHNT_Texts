@@ -1,0 +1,129 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,2/2</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:2/2</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_2_2</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_002_002">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2;" n="2">
+               <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
+               <head type="cjh-Überschrift-2">1,2/2 Zur dreiteiligen Grußformel χάρις ἔλεος εἰρήνη	</head>
+               <div type="sectionA"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Septuaginta Rezensionen">
+                        <w>|2|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>SapSal 3</w>,<w>9</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>4</w>,<w>15</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>Tob</w> (<w>GII</w>) <w>7</w>,<w>11</w>
+                     </seg>
+                     <seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">
+                        <w>|7|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>2Bar</w>
+                        <w>78</w>,<w>2</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>1Hen grHen</w>
+                        <w>5</w>,<w>7</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Außerhalb</w>
+                     <w>des</w>
+                     <w>NT</w> (<w>1Tim 1</w>,<w>2</w>; <w>2Tim 1</w>,<w>2</w>; <w>2Joh 3</w>) <w>ist</w>
+                     <w>für</w>
+                     <w>die</w>
+                     <w>dreigliedrige</w>
+                     <w>Grußformel</w>
+                     <w>bisher</w>
+                     <w>keine</w>
+                     <w>einschlägige</w>
+                     <w>Parallele</w>
+                     <w>gefunden</w>
+                     <w>worden</w>. <w>Als</w>
+                     <w>Wunsch</w>
+                     <w>oder</w>
+                     <w>Prophezeiung</w>
+                     <w>für</w>
+                     <w>die</w>
+                     <w>Auserwählten</w>
+                     <w>begegnen</w>
+                     <w>φῶς</w>
+                     <w>καὶ</w>
+                     <w>χάρις</w>
+                     <w>καὶ</w>
+                     <w>εἰρήνη</w>
+                     <w>in</w>
+                     <w>1Hen grHen 5</w>,<w>7</w> (<w>vgl</w>. <w>1</w>,<w>8</w>; <w>5</w>,<w>5–9</w>). <w>Paarweises</w>
+                     <w>Auftreten</w>
+                     <w>der</w>
+                     <w>Elemente</w>
+                     <w>in</w>
+                     <w>unterschiedlichen</w>
+                     <w>Konstellationen</w>
+                     <w>findet</w>
+                     <w>sich</w>
+                     <w>dagegen</w>
+                     <w>häufig</w>: <w>SapSal 3</w>,<w>9</w>; <w>4</w>,<w>15</w> (<w>χάρις</w>
+                     <w>καὶ</w>
+                     <w>ἔλεος</w>); <w>Tob </w>(<w>GII</w>)<w> 7</w>,<w>11</w> (<w>ἔλεος</w>
+                     <w>καὶ</w>
+                     <w>εἰρήνη</w>).</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

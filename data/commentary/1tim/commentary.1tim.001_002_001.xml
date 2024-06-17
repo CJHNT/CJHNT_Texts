@@ -1,0 +1,427 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,2/1</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:2/1</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_2_1</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_002_001">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2;" n="1">
+               <head type="cjh-Überschrift-1">I. Präskript (1,1–2)</head>
+               <head type="cjh-Überschrift-2">1,2/1 Timotheus, das wahre Kind im Glauben</head>
+               <div type="sectionA"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Abr</w>
+                        <w>168</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>SpecLeg</w>
+                        <w>IV</w>
+                        <w>184</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>Virt</w>
+                        <w>59</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle-erläutert">
+                        <w>VitCont 72</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Der</w>
+                     <w>Verfasser</w>
+                     <w>des</w>
+                     <w>1Tim</w>
+                     <w>spricht</w>
+                     <w>von</w>
+                     <w>Kindschaft</w>
+                     <w>im</w>
+                     <w>übertragenen</w>
+                     <w>Sinne</w>. <w>Vergleichbar</w>
+                     <w>fragt</w>
+                     <w>Philo</w>
+                     <w>nach</w>
+                     <w>dem</w>
+                     <w>geistig-philosophischen</w>
+                     <w>Sinn</w>
+                     <w>hinter</w>
+                     <w>den</w>
+                     <w>biblischen</w>
+                     <w>Texten</w>. <w>Seine</w>
+                     <w>Abhandlung</w> „<w>über</w>
+                     <w>das</w>
+                     <w>betrachtende</w>
+                     <w>Leben</w>“ <w>befasst</w>
+                     <w>sich</w>
+                     <w>mit</w>
+                     <w>der</w>
+                     <w>Gemeinschaft</w>
+                     <w>der</w>
+                     <w>Therapeuten</w> (<w>vermutlich</w>
+                     <w>Essener</w>). <w>Von</w>
+                     <w>daher</w>
+                     <w>legt</w>
+                     <w>sich</w>
+                     <w>nahe</w>, <w>nach</w>
+                     <w>Berührungen</w>
+                     <w>zum</w>
+                     <w>ersten</w>
+                     <w>Brief</w>
+                     <w>des</w>
+                     <w>Timotheus</w>
+                     <w>an</w>
+                     <w>die</w>
+                     <w>junge</w>
+                     <w>Gemeinschaft</w>
+                     <w>der</w>
+                     <w>Christen</w>
+                     <w>zu</w>
+                     <w>fragen</w>: <w>Wer</w>
+                     <w>sind</w>
+                     <w>die</w>
+                     <w>wahren</w> (<w>γνήσιοι</w>) <w>Mitglieder</w>
+                     <w>der</w>
+                     <w>Gemeinde</w>?</p>
+               </div>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>Philo</w>
+                        <w>zur</w>
+                        <w>besonderen</w>
+                        <w>Stellung</w>
+                        <w>ehelicher</w>
+                        <w>Kinder</w>
+                     </head>
+                     <div type="cjh-PetitTexteinl.A">
+                        <p>
+                           <w>VitCont</w>
+                           <w>72</w>
+                           <w>Um</w>
+                           <w>den</w>
+                           <w>Stellenwert</w>
+                           <w>des</w> „<w>wahren</w>
+                           <w>Kindes</w>“ <w>zu</w>
+                           <w>verdeutlichen</w>, <w>bemüht</w>
+                           <w>Philo</w>
+                           <w>eine</w>
+                           <w>Hierarchie</w>: <w>Der</w>
+                           <w>Sklave</w>
+                           <w>leistet</w>
+                           <w>Dienste</w>
+                           <w>aus</w>
+                           <w>Pflicht</w>. <w>Dem</w>
+                           <w>Sklaven</w>
+                           <w>aber</w>
+                           <w>bleiben</w>
+                           <w>wie</w>
+                           <w>dem</w>
+                           <w>einfachen</w>
+                           <w>Freien</w>
+                           <w>bestimmte</w>
+                           <w>Dienste</w>
+                           <w>verschlossen</w>. <w>Für</w>
+                           <w>diese</w>
+                           <w>kommen</w>
+                           <w>nicht</w>
+                           <w>einmal</w>
+                           <w>alle</w>
+                           <w>Blutsverwandten</w>
+                           <w>in</w>
+                           <w>Frage</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <w>οὐδὲ</w>
+                           <w>γὰρ</w>
+                           <w>οἱ</w>
+                           <w>τυχόντες</w>
+                           <w>ἐλεύθεροι</w>
+                           <w>τάττονται</w>
+                           <w>πρὸς</w>
+                           <w>ταῖς</w>
+                           <w>ὑπουργίαις</w>
+                           <w>ταύταις</w>, <w>ἀλλ᾽οἱ</w>
+                           <w>νέοι</w>
+                           <w>τῶν</w>
+                           <w>ἐν</w>
+                           <w>τῷ</w>
+                           <w>συστήματι</w>
+                           <w>μετὰ</w>
+                           <w>πάσης</w>
+                           <w>ἐπιμελείας</w>
+                           <w>ἀριστίνδην</w>
+                           <w>ἐπικριθέντες</w>, <w>ὃν</w>
+                           <w>χρὴ</w>
+                           <w>τρόπον</w>
+                           <ref type="erläuterungPointer" target="d1e69">
+                              <w>1</w>
+                           </ref>
+                           <w>ἀστείους</w>
+                           <w>καὶ</w>
+                           <w>εὐγενεῖς</w>
+                           <w>πρὸς</w>
+                           <w>ἄκραν</w>
+                           <w>ἀρετὴν</w>
+                           <w>ἐπειγομένους</w>
+                           <seg type="superscript">
+                              <w>2</w>
+                           </seg>
+                           <w>·</w>
+                           <w>οἳ</w>
+                           <w>καθάπερ</w>
+                           <w>υἱοὶ</w>
+                           <w>γνήσιοι</w>
+                           <w>φιλοτίμως</w>
+                           <w>ἄσμενοι</w>
+                           <w>πατράσι</w>
+                           <w>καὶ</w>
+                           <w>μητράσιν</w>
+                           <w>ὑπουργοῦσι</w>, <w>κοινοὺς</w>
+                           <w>αὑτῶν</w>
+                           <w>γονεῖς</w>
+                           <w>νομίζοντες</w>
+                           <w>οἰκειοτέρους</w>
+                           <w>τῶν</w>
+                           <w>ἀφ᾽αἵματος</w>, <w>εἴ</w>
+                           <w>γε</w>
+                           <w>καλοκἀγαθίασ</w>
+                           <w>οὐδὲν</w>
+                           <w>οἰκειότερόν</w>
+                           <w>ἐστι</w>
+                           <w>τοῖς</w>
+                           <w>εὖ</w>
+                           <w>φρονοῦσιν·</w>
+                           <w>ἄζωστοι</w>
+                           <w>δὲ</w>
+                           <w>καὶ</w>
+                           <w>καθειμένοι</w>
+                           <w>τοὺς</w>
+                           <w>χιτωνίσκους</w>
+                           <w>εἰσίασιν</w>
+                           <w>ὑπηρετήσοντες</w>, <w>ἕνεκα</w>
+                           <w>τοῦ</w>
+                           <w>μηδὲν</w>
+                           <w>εἴδωλον</w>
+                           <w>ἐπιφέρεσθαι</w>
+                           <w>δουλοπρεποῦς</w>
+                           <w>σχήματος</w>.</p>
+                     </div>
+                     <div type="cjh-Zitaterläuterung">
+                        <p>
+                           <note type="zitatErläuterung" xml:id="d1e69" n="1"> (<w>τόν</w>) <w>τρόπον</w>
+                              <w>ist</w>
+                              <w>hier</w>
+                              <w>Adv</w>. <w>als</w>
+                              <w>Acc</w>. <w>limitationis</w>: <seg type="italic">
+                                 <w>auf</w>
+                                 <w>die</w>
+                                 <w>Weise</w>
+                              </seg>, <seg type="italic">
+                                 <w>dem</w>
+                                 <w>Charakter</w>
+                                 <w>nach</w>
+                              </seg>. <seg type="superscript">
+                                 <w>2</w>
+                              </seg>
+                              <w> Wörtlich</w>: <seg type="italic">
+                                 <w>die</w>
+                                 <w>zur</w>
+                                 <w>höchsten</w>
+                                 <w>Tugend</w>
+                                 <w>eilen</w>
+                              </seg>.</note>
+                        </p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Denn</w>
+                           <w>nicht</w>
+                           <w>einmal</w>
+                           <w>die</w>
+                           <w>einfachen</w>
+                           <w>freien</w>
+                           <w>Leute</w>
+                           <w>sind</w>
+                           <w>bestimmt</w>
+                           <w>für</w>
+                           <w>diese</w>
+                           <w>Dienstleistungen</w>, <w>sondern</w>
+                           <w>die</w>
+                           <w>Jungen</w>
+                           <w>aus</w>
+                           <w>der</w>
+                           <w>Gruppe</w>, <w>die</w>
+                           <w>mit</w>
+                           <w>höchster</w>
+                           <w>Sorgfalt</w>
+                           <w>nach</w>
+                           <w>ihrer</w>
+                           <w>Tüchtigkeit</w>
+                           <w>ausgewählt</w>
+                           <w>werden</w>, <w>von</w>
+                           <w>solchem</w>
+                           <w>Charakter</w>, <w>wie</w>
+                           <w>er</w>
+                           <w>für</w>
+                           <w>Gebildete</w>
+                           <w>und</w>
+                           <w>Edle</w>
+                           <w>nötig</w>
+                           <w>ist</w>, <w>die</w>
+                           <w>die</w>
+                           <w>höchste</w>
+                           <w>Tugend</w>
+                           <w>anstreben</w>. <w>Diese</w> (<w>Auserwählten</w>) <w>leisten</w>
+                           <w>eifrig</w>
+                           <w>erfreut</w>
+                           <w>Dienste</w>, <w>gleichwie</w>
+                           <w>eheliche</w>
+                           <w>Söhne</w>
+                           <w>ihren</w>
+                           <w>Vätern</w>
+                           <w>und</w>
+                           <w>Müttern</w>, <w>die</w>
+                           <w>ihre</w>
+                           <w>gemeinsamen</w>
+                           <w>Eltern</w>
+                           <w>für</w>
+                           <w>vertrauter</w>
+                           <w>halten</w>
+                           <w>als</w>
+                           <w>die</w>
+                           <w>aus</w>
+                           <w>der</w>
+                           <w>Verwandtschaft</w>, <w>weil</w>
+                           <w>gewiss</w>
+                           <w>den</w>
+                           <w>Gutgesinnten</w>
+                           <w>nichts</w>
+                           <w>vertrauter</w>
+                           <w>ist</w>
+                           <w>als</w>
+                           <w>das</w>
+                           <w>Wesen</w>
+                           <w>eines</w>
+                           <w>edlen</w>
+                           <w>Mannes</w>. <w>Ungegürtet</w>
+                           <w>und</w>
+                           <w>mit</w>
+                           <w>herabhängenden</w>
+                           <w>kurzen</w>
+                           <w>Untergewändern</w>
+                           <w>treten</w>
+                           <w>sie</w>
+                           <w>auf</w>, <w>um</w>
+                           <w>zu</w>
+                           <w>dienen</w>, <w>damit</w>
+                           <w>kein</w>
+                           <w>Bild</w>
+                           <w>einer</w>
+                           <w>einem</w>
+                           <w>Sklaven</w>
+                           <w>entsprechenden</w>
+                           <w>Gestalt</w>
+                           <w>dargelegt</w>
+                           <w>wird</w>.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="sectionE">
+                  <p>
+                     <w>Die</w>
+                     <w>Philo-Parallele</w>
+                     <w>verdeutlicht</w>
+                     <w>den</w>
+                     <w>Stellenwert</w>
+                     <w>des</w>
+                     <w>wahren</w> (<w>γνήσιος</w>) <w>Kindes</w>. <w>Letztlich</w>
+                     <w>steht</w>
+                     <w>ein</w>
+                     <w>solcher</w>
+                     <w>tugendhafter</w>
+                     <w>Mensch</w>
+                     <w>noch</w>
+                     <w>über</w>
+                     <w>den</w>
+                     <w>leiblichen</w>
+                     <w>und</w>
+                     <w>ehelichen</w>
+                     <w>Nachkommen</w>. <w>γνήσιος</w>
+                     <w>bezeichnet</w>
+                     <w>damit</w>
+                     <w>die</w>
+                     <w>höchstmögliche</w>
+                     <w>Qualifikation</w>
+                     <w>und</w>
+                     <w>Eignung</w>
+                     <w>für</w>
+                     <w>eine</w>
+                     <w>bestimmte</w>
+                     <w>Aufgabe</w>
+                     <w>und</w>
+                     <w>dürfte</w>
+                     <w>in</w>
+                     <w>diesem</w>
+                     <w>Sinne</w>
+                     <w>auch</w>
+                     <w>in</w>
+                     <w>1Tim</w>
+                     <w>1</w>,<w>2</w>
+                     <w>gebraucht</w>
+                     <w>sein</w>.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

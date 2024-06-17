@@ -2,16 +2,16 @@
    <teiHeader xml:lang="deu">
       <fileDesc>
          <titleStmt>
-            <title>Kommentar zu 1. Timotheus 1,2</title>
-            <title xml:lang="eng">Commentary on 1 Timothy 1:2</title>
-            <author>Dr. Roland Deines</author>
+            <title n="de">Kommentar zu 1. Timotheus 6,17</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 6:17</title>
+            <author>Oesterreich</author>
          </titleStmt>
          <editionStmt>
-            <edition>Digitale Edition von 1Tim_1_2_2</edition>
+            <edition>Digitale Edition von 1tim_6_17</edition>
             <respStmt>
                <resp>Autor</resp>
                <resp xml:lang="eng">Author</resp>
-               <persName>Dr. Roland Deines</persName>
+               <persName>Oesterreich</persName>
             </respStmt>
             <respStmt>
                <resp>Hauptentwickler</resp>
@@ -23,7 +23,7 @@
          <publicationStmt>
             <publisher>CJHNT-Digital Projekt</publisher>
             <pubPlace>Leipzig</pubPlace>
-            <date when="2024-04-24"/>
+            <date when="2024-06-13"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
                             Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
@@ -38,7 +38,7 @@
          <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
          <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
          <refsDecl n="CTS">
-            <cRefPattern n="commentary_section"
+            <cRefPattern n="section"
                          matchPattern="(.+)"
                          replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
                <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
@@ -48,28 +48,8 @@
    </teiHeader>
    <text>
       <body>
-         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.1_2_2">
-            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.2" n="2">
-               <head type="cjh-Überschrift-2">1,2/2 Zur dreiteiligen Grußformel χάρις ἔλεος
-                εἰρήνη</head>
-               <div type="sectionA">
-                  <p/>
-               </div>
-               <div type="sectionB">
-                  <p> |<seg type="beleg-section" n="Septuaginta Rezensionen">2</seg>|
-                <seg type="belegstelle">SapSal 3,9</seg>; <seg type="belegstelle">4,15</seg>; <seg type="belegstelle">Tob (GII) 7,11</seg> |<seg type="beleg-section"
-                          n="Biblische Pseudepigraphen und anonyme Schriften">7</seg>| <seg type="belegstelle">2Bar 78,2</seg>; <seg type="belegstelle">1Hen grHen 5,7</seg>
-                  </p>
-               </div>
-               <div type="sectionC">
-                  <p> Außerhalb des NT (1Tim 1,2;
-                2Tim 1,2; 2Joh 3) ist für die dreigliedrige Grußformel bisher keine einschlägige
-                Parallele gefunden worden. Als Wunsch oder Prophezeiung für die Auserwählten
-                begegnen φῶς καὶ χάρις καὶ εἰρήνη in 1Hen grHen 5,7 (vgl. 1,8; 5,5–9). Paarweises
-                Auftreten der Elemente in unterschiedlichen Konstellationen findet sich dagegen
-                häufig: SapSal 3,9; 4,15 (χάρις καὶ ἔλεος); Tob (GII) 7,11 (ἔλεος καὶ εἰρήνη).</p>
-               </div>
-            </div>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.006_017">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;6.17;" n="1"/>
          </div>
       </body>
    </text>

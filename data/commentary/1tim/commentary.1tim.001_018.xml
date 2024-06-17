@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,18</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:18</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_18</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_018">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.18;" n="1">
+               <div type="sectionII. Proömium: Die Weisung des Apostels (1,3–20)">
+                  <p>
+                     <w>1</w>,<w>18</w>
+                     <w>Der</w>
+                     <w>gute</w>
+                     <w>Kampf</w>
+                  </p>
+               </div>
+               <head type="cjh-Überschrift-2">1,18 Der gute Kampf</head>
+               <div type="sectionA"/>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>LegAll</w>
+                        <w>III</w>
+                        <w>14</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC"/>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>Philo</w>
+                        <w>über</w>
+                        <w>den</w>
+                        <w>tugendhaften</w>
+                        <w>Kampf</w>
+                        <w>des</w>
+                        <w>Mose</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>LegAll</w>
+                              <w>III</w>
+                              <w>14</w>
+                           </seg>
+                           <w>ἀξιοῦται</w>
+                           <w>μέντοι</w>
+                           <w>τῆς</w>
+                           <w>χάριτος·</w>
+                           <w>στρατευσάμενος</w>
+                           <w>γὰρ</w>
+                           <w>στρατείαν</w>
+                           <w>τὴν</w>
+                           <w>ὑπὲρ</w>
+                           <w>ἀρετῆς</w>
+                           <w>οὐ</w>
+                           <w>παύεται</w>
+                           <w>πολεμῶν</w>, <w>πρὶν</w>
+                           <w>ἐπιδεῖν</w>
+                           <w>πρηνεῖς</w>
+                           <w>καὶ</w>
+                           <w>ἀπράκτους</w>
+                           <w>τὰς</w>
+                           <w>ἡδονάς</w>. <w>οὗ</w>
+                           <w>χάριν</w>
+                           <w>οὐ</w>
+                           <w>φεύγει</w>
+                           <w>Μωυσῆς</w>
+                           <w>ἀπὸ</w>
+                           <w>τοῦ</w>
+                           <w>Φαραώ</w>, <w>ἀνεπιστρεπτὶ</w>
+                           <w>γὰρ</w>
+                           <w>ἂν</w>
+                           <w>ἀπεδίδρασκεν</w>, <w>ἀλλ᾽ἀναχωρεῖ</w>, <w>τουτέστιν</w>
+                           <w>ἀνακωχὴν</w>
+                           <w>ποιεῖται</w>
+                           <w>τοῦ</w>
+                           <w>πολέμου</w>
+                           <w>ἀθλητοῦ</w>
+                           <w>τρόπον</w>
+                           <w>διαπνέοντος</w>
+                           <w>καὶ</w>
+                           <w>συλλεγομένου</w>
+                           <w>τὸ</w>
+                           <w>πνεῦμα</w>, <w>μέχρις</w>
+                           <w>ἂν</w>
+                           <w>ἐγείρας</w>
+                           <w>τὴν</w>
+                           <w>φρονήσεως</w>
+                           <w>καὶ</w>
+                           <w>τῆς</w>
+                           <w>ἄλλης</w>
+                           <w>ἀρετῆς</w>
+                           <w>συμμαχίαν</w>
+                           <w>διὰ</w>
+                           <w>λόγων</w>
+                           <w>θείων</w>
+                           <w>μετὰ</w>
+                           <w>δυνάμεως</w>
+                           <w>ἐρρωμενεστάτης</w>
+                           <w>ἐπίθηται</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>Freilich</w>
+                           <w>wird</w>
+                           <w>er</w>
+                           <w>der</w>
+                           <w>Gnade</w>
+                           <w>für</w>
+                           <w>angemessen</w>
+                           <w>erachtet</w>. <w>Nachdem</w>
+                           <w>er</w>
+                           <w>nämlich</w>
+                           <w>einen</w>
+                           <w>Kriegszug</w>
+                           <w>für</w>
+                           <w>die</w>
+                           <w>Tugend</w>
+                           <w>unternommen</w>
+                           <w>hat</w>, <w>hört</w>
+                           <w>er</w>
+                           <w>nicht</w>
+                           <w>auf</w>
+                           <w>mit</w>
+                           <w>den</w>
+                           <w>Kriegen</w>, <w>bis</w>
+                           <w>er</w>
+                           <w>nicht</w>
+                           <w>die</w>
+                           <w>Begierden</w>
+                           <w>zu</w>
+                           <w>Boden</w>
+                           <w>geworfen</w>
+                           <w>und</w>
+                           <w>wirkungslos</w>
+                           <w>sieht</w>. <w>Deswegen</w>
+                           <w>flieht</w>
+                           <w>Moses</w>
+                           <w>nicht</w>
+                           <w>vor</w>
+                           <w>dem</w>
+                           <w>Pharao</w>, <w>denn</w>
+                           <w>er</w>
+                           <w>wäre</w>
+                           <w>unumkehrbar</w>
+                           <w>entflohen</w>, <w>sondern</w>
+                           <w>er</w>
+                           <w>weicht</w>
+                           <w>allmählich</w>
+                           <w>zurück</w>, <w>das</w>
+                           <w>heißt</w>, <w>er</w>
+                           <w>lässt</w>
+                           <w>für</w>
+                           <w>sich</w>
+                           <w>einen</w>
+                           <w>Waffenstillstand</w>
+                           <w>bereiten</w>, <w>nach</w>
+                           <w>der</w>
+                           <w>Art</w>
+                           <w>eines</w>
+                           <w>Wettkämpfers</w>, <w>der</w>
+                           <w>sich</w>
+                           <w>erholt</w>
+                           <w>und</w>
+                           <w>den</w>
+                           <w>Atem</w>
+                           <w>für</w>
+                           <w>sich</w>
+                           <w>sammelt</w>, <w>bis</w>
+                           <w>er</w>, <w>indem</w>
+                           <w>er</w>
+                           <w>die</w>
+                           <w>Verbündung</w>
+                           <w>mit</w>
+                           <w>dem</w>
+                           <w>Verstand</w>
+                           <w>und</w>
+                           <w>den</w>
+                           <w>anderen</w>
+                           <w>Tugenden</w>
+                           <w>durch</w>
+                           <w>göttliche</w>
+                           <w>Vernunft</w>
+                           <w>erweckt</w>
+                           <w>hat</w>, <w>wieder</w>
+                           <w>mit</w>
+                           <w>stärkster</w>
+                           <w>Kraft</w>
+                           <w>angreifen</w>
+                           <w>kann</w>.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

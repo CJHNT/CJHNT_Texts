@@ -1,0 +1,587 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="deu">
+      <fileDesc>
+         <titleStmt>
+            <title n="de">Kommentar zu 1. Timotheus 1,4/3</title>
+            <title xml:lang="eng" n="en">Commentary on 1 Timothy 1:4/3</title>
+            <author>Oesterreich</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition von 1tim_1_4_3</edition>
+            <respStmt>
+               <resp>Autor</resp>
+               <resp xml:lang="eng">Author</resp>
+               <persName>Oesterreich</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Hauptentwickler</resp>
+               <resp xml:lang="eng">Lead developer</resp>
+               <persName>Dr. Matthew Munson (SAW Leipzig)</persName>
+            </respStmt>
+            <sponsor>Sächsiche Akademie der Wissenschaften Leipzig</sponsor>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>CJHNT-Digital Projekt</publisher>
+            <pubPlace>Leipzig</pubPlace>
+            <date when="2024-06-13"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/" xml:lang="eng">
+                            Distributed under a Creative Commons Attribution-ShareAlike 4.0 International License.</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Digitales Original: mit MS-Word erstellt</p>
+            <p xml:lang="eng">Born Digital: created with MS Word</p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Exportiert von MS-Word mittels <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> als TEI-P5 Dokument. Automatische XSLT-Umwandlung ins <ref target="https://digitallatin.github.io/guidelines/">Digital-Latin-Library-Format</ref> nach <ref target="http://capitains.org/pages/guidelines">CapiTainS-Vorgaben</ref>.</p>
+         <p xml:lang="eng">Exported from MS Word using <ref target="https://teigarage.tei-c.org/">TEIGarage</ref> as TEI-P5. Automatically transformed with XSLT to the <ref target="https://digitallatin.github.io/guidelines/">Digital Latin Library Format</ref> according to the <ref target="http://capitains.org/pages/guidelines">CapiTainS Guidelines</ref>.</p>
+         <refsDecl n="CTS">
+            <cRefPattern n="section"
+                         matchPattern="(.+)"
+                         replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+               <p xml:lang="eng">This pattern extracts the A-E commentary section</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="commentary" n="urn:cts:cjhnt:commentary.1tim.001_004_003">
+            <div source="urn:cts:cjhnt:nt.75-1Ti.grc001;1.4;" n="3">
+               <head type="cjh-Überschrift-1">II. Proömium: Die Weisung des Apostels (1,3–20)</head>
+               <head type="cjh-Überschrift-2">1,4/3 Die οἰκονομία Gottes</head>
+               <div type="sectionA">
+                  <p>
+                     <seg type="cjh-Autorennamen">
+                        <w>Karin</w>
+                        <w>Lehmeier</w>
+                     </seg>, <w>Oikos</w>
+                     <w>und</w>
+                     <w>Oikonomia</w>. <w>Antike</w>
+                     <w>Konzepte</w>
+                     <w>der</w>
+                     <w>Haushaltsführung</w>
+                     <w>und</w>
+                     <w>der</w>
+                     <w>Bau</w>
+                     <w>der</w>
+                     <w>Gemeinde</w>
+                     <w>bei</w>
+                     <w>Paulus</w>, <w>MThS</w>
+                     <w>92</w>, <w>Marburg</w>
+                     <w>2006</w>
+                     <w>•</w>
+                     <seg type="cjh-Autorennamen">
+                        <w>Jens</w>
+                        <w>Herzer</w>
+                     </seg>, <w>Rearranging</w>
+                     <w>the</w> „<w>House</w>
+                     <w>of</w>
+                     <w>God</w>“. <w>A</w>
+                     <w>New</w>
+                     <w>Perspective</w>
+                     <w>on</w>
+                     <w>the</w>
+                     <w>Pastoral</w>
+                     <w>Epistles</w>, <w>in</w>: <w>Alberdina</w>
+                     <w>Houtman</w>, <w>Albert</w>
+                     <w>de</w>
+                     <w>Jong</w>, <w>Magda</w>
+                     <w>Misset-van</w>
+                     <w>de</w>
+                     <w>Weg</w> (<w>Hg</w>.), <w>Empsychoi</w>
+                     <w>Logoi</w>
+                     <w>–</w>
+                     <w>Religious</w>
+                     <w>Innovations</w>
+                     <w>in</w>
+                     <w>Antiquity</w>. <w>Studies</w>
+                     <w>in</w>
+                     <w>Honour</w>
+                     <w>of</w>
+                     <w>Pieter</w>
+                     <w>Willem</w>
+                     <w>van</w>
+                     <w>der</w>
+                     <w>Horst</w>, <w>Ancient</w>
+                     <w>Judaism</w>
+                     <w>and</w>
+                     <w>Early</w>
+                     <w>Christianity</w>
+                     <w>73</w>, <w>Leiden</w>
+                     <w>2008</w>, <w>547–566</w>.</p>
+               </div>
+               <div type="sectionB">
+                  <p>
+                     <seg type="beleg-section" n="Septuaginta">
+                        <w>|1|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>SapSal 8</w>,<w>1</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>SapSal</w>
+                        <w>12</w>,<w>18</w>
+                     </seg>; <seg type="belegstelle">
+                        <w>SapSal</w>
+                        <w>15</w>,<w>1</w>
+                     </seg>
+                     <seg type="beleg-section" n="Philo">
+                        <w>|4|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>Opif 3</w>
+                     </seg>; <seg type="belegstelle-erläutert">
+                        <w>SpecLeg IV 186–187</w>
+                     </seg>
+                     <w>|</w>
+                     <seg type="belegstelle">
+                        <w>Conf 170</w>
+                     </seg>
+                     <seg type="beleg-section" n="Schriften und Verse unter paganem Pseudonym">
+                        <w>|6|</w>
+                     </seg>
+                     <seg type="belegstelle-erläutert">
+                        <w>EpArist 254</w>
+                     </seg>
+                     <seg type="beleg-section"
+                          n="Biblische Pseudepigraphen und anonyme Schriften">
+                        <w>|7|</w>
+                     </seg>
+                     <seg type="belegstelle">
+                        <w>4Bar 9</w>,<w>29</w>.<w>31</w>
+                     </seg>
+                  </p>
+               </div>
+               <div type="sectionC">
+                  <p>
+                     <w>Der</w>
+                     <w>bei</w>
+                     <w>Paulus</w>
+                     <w>erstmals</w>
+                     <w>in</w>
+                     <w>1Kor 9</w>,<w>17</w>
+                     <w>in</w>
+                     <w>Bezug</w>
+                     <w>auf</w>
+                     <w>seinen</w>
+                     <w>Verkündigungsauftrag</w>
+                     <w>bestimmte</w>
+                     <w>Begriff</w>
+                     <w>οἰκονομία</w>
+                     <w>wird</w>
+                     <w>im</w>
+                     <w>1Tim</w>
+                     <w>durch</w>
+                     <w>den</w>
+                     <w>konsequent</w>
+                     <w>ekklesiologischen</w>
+                     <w>Bezug</w>
+                     <w>spezifisch</w>
+                     <w>geprägt</w>. <w>Die</w>
+                     <w>οἰκονομία</w>
+                     <w>θεοῦ</w>
+                     <w>realisiert</w>
+                     <w>sich</w>
+                     <w>in</w>
+                     <w>den</w>
+                     <w>Strukturen</w>
+                     <w>der</w>
+                     <w>Gemeinde</w>, <w>welche</w>
+                     <w>entsprechend</w>
+                     <w>als</w>
+                     <w>οἶκος</w>
+                     <w>θεοῦ</w>
+                     <w>verstanden</w>
+                     <w>wird</w> (<w>3</w>,<w>15</w>). <w>Ein</w>
+                     <w>solcher</w>
+                     <w>theologischer</w>
+                     <w>Gebrauch</w>
+                     <w>des</w>
+                     <w>Begriffes</w>
+                     <w>οἰκονομία</w>
+                     <w>ist</w>
+                     <w>in</w>
+                     <w>jüd</w>.<w>-hell</w>. <w>Lit</w>. <w>nicht</w>
+                     <w>nachzuweisen</w>. <w>Sachlich</w>
+                     <w>diesem</w>
+                     <w>Konzept</w>
+                     <w>nahestehend</w>
+                     <w>ist</w>
+                     <w>die</w>
+                     <w>Benennung</w>
+                     <w>von</w>
+                     <w>Gottes</w>
+                     <w>ordnender</w>
+                     <w>und</w>
+                     <w>verwaltender</w>
+                     <w>Weltherrschaft</w>
+                     <w>mit</w>
+                     <w>διοικεῖν</w>, <w>wie</w>
+                     <w>es</w>
+                     <w>sich</w>
+                     <w>des</w>
+                     <w>Öfteren</w>
+                     <w>in</w>
+                     <w>Weisheitsliteratur</w> (<w>vgl</w>. <w>auch</w>
+                     <w>SapSal 8</w>,<w>1</w>; <w>12</w>,<w>18</w>; <w>15</w>,<w>1</w>) <w>und</w>
+                     <w>bei</w>
+                     <w>Philo</w>
+                     <w>findet</w>. <w>SpecLeg IV 186–187</w>
+                     <w>ist</w>
+                     <w>für</w>
+                     <w>1Tim 1</w>,<w>4</w>
+                     <w>von</w>
+                     <w>besonderen</w>
+                     <w>Interesse</w>, <w>weil</w>
+                     <w>Philo</w>
+                     <w>die</w>
+                     <w>Aufgaben</w>
+                     <w>weltlicher</w>
+                     <w>Herrschaft</w>
+                     <w>und</w>
+                     <w>Verwaltung</w>
+                     <w>mit</w>
+                     <w>Gottes</w>
+                     <w>Weltordnung</w>
+                     <w>in</w>
+                     <w>Verbindung</w>
+                     <w>bringt</w>. <w>Ähnlich</w>
+                     <w>wird</w>
+                     <w>in</w>
+                     <w>EpArist 254</w>
+                     <w>ein</w>
+                     <w>auf</w>
+                     <w>Gott</w>
+                     <w>bezogenes</w>
+                     <w>διοικεῖν</w>
+                     <w>in</w>
+                     <w>ethischer</w>
+                     <w>Absicht</w>
+                     <w>verwendet</w>. </p>
+                  <p>
+                     <w>In</w>
+                     <w>4Bar 9</w>,<w>29</w>.<w>31</w>
+                     <w>findet</w>
+                     <w>sich</w>
+                     <w>der</w>
+                     <w>Begriff</w>
+                     <w>οἰκονομία</w>
+                     <w>in</w>
+                     <w>derselben</w>
+                     <w>Bedeutung</w>
+                     <w>wie</w>
+                     <w>in</w>
+                     <w>1Kor 9</w>,<w>17</w>, <w>jedoch</w>
+                     <w>ist</w>
+                     <w>4Bar 9</w>,<w>10–32</w>
+                     <w>der</w>
+                     <w>christl</w>. <w>angehängte</w>
+                     <w>Abschluss</w>
+                     <w>des</w>
+                     <w>frühjüd</w>. <w>Werkes</w>.</p>
+               </div>
+               <div type="sectionD">
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>1</w>. <w>Philo</w>
+                        <w>über</w>
+                        <w>Gottes</w>
+                        <w>gute</w>
+                        <w>Weltordnung</w>
+                        <w>als</w>
+                        <w>Vorbild</w>
+                        <w>für</w>
+                        <w>menschliche</w>
+                        <w>Herrschaft</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>SpecLeg IV</w>
+                              <w>186–187</w>
+                           </seg>
+                           <w>[</w>…<w>]</w>
+                           <w>οἳ</w>
+                           <w>πάντες</w>
+                           <w>δύνανται</w>
+                           <w>μὲν</w>
+                           <w>ἄμφω</w>
+                           <w>τό</w>
+                           <w>τε</w>
+                           <w>εὖ</w>
+                           <w>καὶ</w>
+                           <w>τὸ</w>
+                           <w>χεῖρον</w>, <w>βούλεσθαι</w>
+                           <w>δ᾽</w>
+                           <w>ὀφείλουσι</w>
+                           <w>τὸ</w>
+                           <w>ἄμεινον·</w>
+                           <w>τὸ</w>
+                           <w>ἄμεινον</w>
+                           <w>δ᾽</w>
+                           <w>ἐστὶν</w>
+                           <w>ὠφελεῖν</w>
+                           <w>ἀλλὰ</w>
+                           <w>μὴ</w>
+                           <w>βλάπτειν</w>
+                           <w>ὅσους</w>
+                           <w>ἂν</w>
+                           <w>οἷόν</w>
+                           <w>τε</w>
+                           <w>ᾖ</w>. (<w>187</w>)<w> τὸ</w>
+                           <w>γὰρ</w>
+                           <w>ἕπεσθαι</w>
+                           <w>θεῷ</w>
+                           <w>τοῦτ᾿</w>
+                           <w>ἐστίν</w>, <w>ἐπεὶ</w>
+                           <w>κἀκείνῳ</w>
+                           <w>δύναμις</w>
+                           <w>μέν</w>
+                           <w>ἐστι</w>
+                           <w>δρᾶν</w>
+                           <w>ἑκάτερα</w>, <w>βούλεται</w>
+                           <w>δὲ</w>
+                           <w>μόνα</w>
+                           <w>τἀγαθά</w>. <w>μηνύει</w>
+                           <w>δὲ</w>
+                           <w>ἡ</w>
+                           <w>τοῦ</w>
+                           <w>κόσμου</w>
+                           <w>γένεσίς</w>
+                           <w>τε</w>
+                           <w>καὶ</w>
+                           <w>διοίκησις·</w>
+                           <w>τὰ</w>
+                           <w>γὰρ</w>
+                           <w>μὴ</w>
+                           <w>ὄντα</w>
+                           <w>ἐκάλεσεν</w>
+                           <w>εἰς</w>
+                           <w>τὸ</w>
+                           <w>εἶναι</w>
+                           <w>τάξιν</w>
+                           <w>ἐξ</w>
+                           <w>ἀταξίας</w>
+                           <w>καὶ</w>
+                           <w>ἐξ</w>
+                           <w>ἀποίων</w>
+                           <w>ποιότητας</w>
+                           <w>καὶ</w>
+                           <w>ἐξ</w>
+                           <w>ἀνομοίων</w>
+                           <w>ὁμοιότητας</w>
+                           <w>καὶ</w>
+                           <w>ἐξ</w>
+                           <w>ἑτεροιοτήτων</w>
+                           <w>ταυτότητας</w>
+                           <w>καὶ</w>
+                           <w>ἐξ</w>
+                           <w>ἀκοινωνήτων</w>
+                           <w>καὶ</w>
+                           <w>ἀναρμόστων</w>
+                           <w>κοινωνίας</w>
+                           <w>καὶ</w>
+                           <w>ἁρμονίας</w>
+                           <w>καὶ</w>
+                           <w>ἐκ</w>
+                           <w>μὲν</w>
+                           <w>ἀνισότητος</w>
+                           <w>ἰσότητα</w>
+                           <w>ἐκ</w>
+                           <w>δὲ</w>
+                           <w>σκότους</w>
+                           <w>φῶς</w>
+                           <w>ἐργασάμενος·</w>
+                           <w>ἀεὶ</w>
+                           <w>γάρ</w>
+                           <w>ἐστιν</w>
+                           <w>ἐπιμελὲς</w>
+                           <w>αὐτῷ</w>
+                           <w>καὶ</w>
+                           <w>ταῖς</w>
+                           <w>εὐεργέτισιν</w>
+                           <w>αὐτοῦ</w>
+                           <w>δυνάμεσι</w>
+                           <w>τὸ</w>
+                           <w>πλημμελὲς</w>
+                           <w>τῆς</w>
+                           <w>χείρονος</w>
+                           <w>οὐσίας</w>
+                           <w>μεταποιεῖν</w>
+                           <w>καὶ</w>
+                           <w>μεθαρμόζεσθαι</w>
+                           <w>πρὸς</w>
+                           <w>τὴν</w>
+                           <w>ἀμείνω</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>[</w>…<w>]</w>
+                           <w>Sie</w>
+                           <w>alle</w>
+                           <w>vermögen</w>
+                           <w>zwar</w>
+                           <w>beides</w>, <w>sowohl</w>
+                           <w>Gutes</w>
+                           <w>als</w>
+                           <w>auch</w>
+                           <w>Schlechtes</w>, <w>müssen</w>
+                           <w>aber</w>
+                           <w>das</w>
+                           <w>Bessere</w>
+                           <w>wollen</w>. <w>Das</w>
+                           <w>Bessere</w>
+                           <w>bedeutet</w>, <w>nicht</w>
+                           <w>zu</w>
+                           <w>schaden</w>, <w>sondern</w>
+                           <w>zu</w>
+                           <w>nützen</w>, <w>so</w>
+                           <w>vielen</w>
+                           <w>sie</w>
+                           <w>nur</w>
+                           <w>können</w>. (<w>187</w>) <w>Denn</w>
+                           <w>es</w>
+                           <w>bedeutet</w>, <w>Gott</w>
+                           <w>zu</w>
+                           <w>folgen</w>, <w>da</w>
+                           <w>jener</w>
+                           <w>zwar</w>
+                           <w>die</w>
+                           <w>Macht</w>
+                           <w>hat</w>, <w>beides</w>
+                           <w>zu</w>
+                           <w>tun</w>, <w>aber</w>
+                           <w>allein</w>
+                           <w>das</w>
+                           <w>Gute</w>
+                           <w>will</w>. <w>Das</w>
+                           <w>zeigt</w>
+                           <w>die</w>
+                           <w>Schöpfung</w>
+                           <w>und</w>
+                           <w>Verwaltung</w>
+                           <w>der</w>
+                           <w>Welt</w>: <w>Denn</w>
+                           <w>das</w>
+                           <w>Nicht-Seiende</w>
+                           <w>hat</w>
+                           <w>er</w>
+                           <w>zum</w>
+                           <w>Sein</w>
+                           <w>gerufen</w>, <w>indem</w>
+                           <w>er</w>
+                           <w>aus</w>
+                           <w>Unordnung</w>
+                           <w>Ordnung</w>, <w>aus</w>
+                           <w>dem</w>
+                           <w>Unbestimmten</w>
+                           <w>bestimmte</w>
+                           <w>Eigenschaften</w>, <w>aus</w>
+                           <w>Unähnlichem</w>
+                           <w>Ähnlichkeiten</w>, <w>aus</w>
+                           <w>Verschiedenartigkeiten</w>
+                           <w>Identitäten</w>, <w>aus</w>
+                           <w>Nicht-Gemeinsamem</w>
+                           <w>und</w>
+                           <w>Unstimmigem</w>
+                           <w>Gemeinsames</w>
+                           <w>und</w>
+                           <w>Harmonie</w>, <w>aus</w>
+                           <w>Ungleichheit</w>
+                           <w>Gleichheit</w>
+                           <w>und</w>
+                           <w>aus</w>
+                           <w>Finsternis</w>
+                           <w>Licht</w>
+                           <w>schuf</w>; <w>denn</w>
+                           <w>immer</w>
+                           <w>obliegt</w>
+                           <w>es</w>
+                           <w>ihm</w>
+                           <w>und</w>
+                           <w>seinen</w>
+                           <w>wohlgetanen</w>
+                           <w>Kräften</w>, <w>das</w>
+                           <w>Fehlerhafte</w>
+                           <w>des</w>
+                           <w>schlechten</w>
+                           <w>Daseins</w>
+                           <w>zu</w>
+                           <w>verändern</w>
+                           <w>und</w>
+                           <w>zu</w>
+                           <w>einem</w>
+                           <w>Besseren</w>
+                           <w>umzuändern</w>.</p>
+                     </div>
+                  </div>
+                  <div type="beleg-gruppe">
+                     <head type="cjh-Überschrift-3">
+                        <w>2</w>. <w>Göttliche</w>
+                        <w>und</w>
+                        <w>menschliche</w>
+                        <w>Regierung</w>
+                        <w>ohne</w>
+                        <w>Zorn</w>
+                     </head>
+                     <div type="cjh-ZitatGriech">
+                        <p>
+                           <seg type="belegstelle">
+                              <w>EpArist</w>
+                              <w>254</w>
+                           </seg>
+                           <w>[</w>…<w>]</w>
+                           <w>γινώσκειν</w>
+                           <w>δὲ</w>
+                           <w>δεῖ</w>, <w>διότι</w>
+                           <w>θεὸς</w>
+                           <w>τὸν</w>
+                           <w>πάντα</w>
+                           <w>κόσμον</w>
+                           <w>διοικεῖ</w>
+                           <w>μετ᾽</w>
+                           <w>εὐμενείας</w>
+                           <w>καὶ</w>
+                           <w>χωρὶς</w>
+                           <w>ὀργῆς</w>
+                           <w>ἁπάσης·</w>
+                           <w>τούτῳ</w>
+                           <w>δὲ</w>
+                           <w>κατακολουθεῖν</w>
+                           <w>ἀναγκαῖόν</w>
+                           <w>ἐστί</w>
+                           <w>σε</w>, <w>ἔφησεν</w>, <w>ὦ</w>
+                           <w>βασιλεῦ</w>.</p>
+                     </div>
+                     <div type="cjh-ZitatÜbersetzung">
+                        <p>
+                           <w>[</w>…<w>]</w>
+                           <w>Man</w>
+                           <w>muss</w>
+                           <w>aber</w>
+                           <w>wissen</w>, <w>dass</w>
+                           <w>Gott</w>
+                           <w>die</w>
+                           <w>ganze</w>
+                           <w>Welt</w>
+                           <w>mit</w>
+                           <w>Wohlwollen</w>
+                           <w>und</w>
+                           <w>ohne</w>
+                           <w>jeden</w>
+                           <w>Zorn</w>
+                           <w>regiert</w>. <w>Dem</w>
+                           <w>aber</w>, <w>sagte</w>
+                           <w>er</w>, <w>musst</w>
+                           <w>du</w>, <w>o</w>
+                           <w>König</w>, <w>nachfolgen</w>. </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
